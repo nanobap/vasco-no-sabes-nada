@@ -602,5 +602,700 @@
       },
       "h2h": []
     }
+  },
+  "20261104-ucl-porto-napoli": {
+    "updatedAtUtc": "2026-11-04T13:10:22.188Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "Gabriel Mec",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "D. Prpic",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "C. Smalling",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "V. Sousa",
+        "type": "Missing Fixture",
+        "reason": "Leg Injury"
+      },
+      {
+        "team": "home",
+        "player": "William Gomes",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "O. Pietuszewski",
+        "type": "Questionable",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "Alisson Santos",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "B. Badiashile",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Buongiorno",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "David Neres",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "away",
+        "player": "G. Di Lorenzo",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "C. Favasuli",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "away",
+        "player": "S. Lobotka",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "away",
+        "player": "L. Marianucci",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "M. Olivera",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "L. Spinazzola",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "away",
+        "player": "K. De Bruyne",
+        "type": "Questionable",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "Gabriel Mec",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "D. Prpic",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "C. Smalling",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "V. Sousa",
+        "type": "Missing Fixture",
+        "reason": "Leg Injury"
+      },
+      {
+        "team": "home",
+        "player": "William Gomes",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "O. Pietuszewski",
+        "type": "Questionable",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "Alisson Santos",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "B. Badiashile",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Buongiorno",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "David Neres",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "away",
+        "player": "G. Di Lorenzo",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "C. Favasuli",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "away",
+        "player": "S. Lobotka",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "away",
+        "player": "L. Marianucci",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "M. Olivera",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "L. Spinazzola",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "away",
+        "player": "K. De Bruyne",
+        "type": "Questionable",
+        "reason": "Ankle Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0.1,
+      "draw": 0.45,
+      "away": 0.45,
+      "advice": "Double chance : draw or Napoli",
+      "formHome": "LLL",
+      "formAway": "LLW",
+      "comparison": {
+        "form": {
+          "home": "0%",
+          "away": "100%"
+        },
+        "att": {
+          "home": "29%",
+          "away": "71%"
+        },
+        "def": {
+          "home": "54%",
+          "away": "46%"
+        },
+        "total": {
+          "home": "41.5%",
+          "away": "58.5%"
+        }
+      },
+      "h2h": []
+    }
+  },
+  "20261104-ucl-psv-brugge": {
+    "updatedAtUtc": "2026-11-04T13:10:35.539Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "S. Lammers",
+        "type": "Missing Fixture",
+        "reason": "Lacking Match Fitness"
+      },
+      {
+        "team": "home",
+        "player": "A. Nagalo",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "S. Ouaissa",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Plea",
+        "type": "Missing Fixture",
+        "reason": "Surgery"
+      },
+      {
+        "team": "home",
+        "player": "J. Schouten",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "P. Wanner",
+        "type": "Missing Fixture",
+        "reason": "Foot Injury"
+      },
+      {
+        "team": "away",
+        "player": "J. Ordonez",
+        "type": "Missing Fixture",
+        "reason": "Foot Injury"
+      },
+      {
+        "team": "home",
+        "player": "S. Lammers",
+        "type": "Missing Fixture",
+        "reason": "Lacking Match Fitness"
+      },
+      {
+        "team": "home",
+        "player": "A. Nagalo",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "S. Ouaissa",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Plea",
+        "type": "Missing Fixture",
+        "reason": "Surgery"
+      },
+      {
+        "team": "home",
+        "player": "J. Schouten",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "P. Wanner",
+        "type": "Missing Fixture",
+        "reason": "Foot Injury"
+      },
+      {
+        "team": "away",
+        "player": "J. Ordonez",
+        "type": "Missing Fixture",
+        "reason": "Foot Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0.1,
+      "draw": 0.45,
+      "away": 0.45,
+      "advice": "Double chance : draw or Club Brugge KV",
+      "formHome": "DLW",
+      "formAway": "LWW",
+      "comparison": {
+        "form": {
+          "home": "40%",
+          "away": "60%"
+        },
+        "att": {
+          "home": "18%",
+          "away": "82%"
+        },
+        "def": {
+          "home": "75%",
+          "away": "25%"
+        },
+        "total": {
+          "home": "37.7%",
+          "away": "62.3%"
+        }
+      },
+      "h2h": [
+        {
+          "date": "2024-07-13T11:00:00+00:00",
+          "home": "PSV Eindhoven",
+          "away": "Club Brugge KV",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2020-01-09T14:30:00+00:00",
+          "home": "PSV Eindhoven",
+          "away": "Club Brugge KV",
+          "homeGoals": 1,
+          "awayGoals": 2
+        }
+      ]
+    }
+  },
+  "20261104-ucl-leipzig-city": {
+    "updatedAtUtc": "2026-11-04T13:10:48.888Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "M. Finkgrafe",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Guiu",
+        "type": "Missing Fixture",
+        "reason": "Hamstring Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Ouedraogo",
+        "type": "Missing Fixture",
+        "reason": "Shoulder Injury"
+      },
+      {
+        "team": "home",
+        "player": "L. Zingerle",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "A. Semenyo",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Finkgrafe",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Guiu",
+        "type": "Missing Fixture",
+        "reason": "Hamstring Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Ouedraogo",
+        "type": "Missing Fixture",
+        "reason": "Shoulder Injury"
+      },
+      {
+        "team": "home",
+        "player": "L. Zingerle",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "A. Semenyo",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0,
+      "draw": 0.5,
+      "away": 0.5,
+      "advice": "Combo Winner : Manchester City and +1.5 goals",
+      "formHome": "LWL",
+      "formAway": "WLW",
+      "comparison": {
+        "form": {
+          "home": "33%",
+          "away": "67%"
+        },
+        "att": {
+          "home": "25%",
+          "away": "75%"
+        },
+        "def": {
+          "home": "38%",
+          "away": "62%"
+        },
+        "total": {
+          "home": "30.8%",
+          "away": "69.2%"
+        }
+      },
+      "h2h": [
+        {
+          "date": "2023-11-28T20:00:00+00:00",
+          "home": "Manchester City",
+          "away": "RB Leipzig",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2023-10-04T19:00:00+00:00",
+          "home": "RB Leipzig",
+          "away": "Manchester City",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2023-03-14T20:00:00+00:00",
+          "home": "Manchester City",
+          "away": "RB Leipzig",
+          "homeGoals": 7,
+          "awayGoals": 0
+        },
+        {
+          "date": "2023-02-22T20:00:00+00:00",
+          "home": "RB Leipzig",
+          "away": "Manchester City",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2021-12-07T17:45:00+00:00",
+          "home": "RB Leipzig",
+          "away": "Manchester City",
+          "homeGoals": 2,
+          "awayGoals": 1
+        }
+      ]
+    }
+  },
+  "20261104-ucl-lens-como": {
+    "updatedAtUtc": "2026-11-04T13:11:02.257Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "J. Chavez",
+        "type": "Missing Fixture",
+        "reason": "Coach's decision"
+      },
+      {
+        "team": "home",
+        "player": "O. Edouard",
+        "type": "Missing Fixture",
+        "reason": "Groin Injury"
+      },
+      {
+        "team": "home",
+        "player": "I. Ganiou",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "I. Jourdren",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "M. Nawrocki",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Sima",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "J. Addai",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "T. Chalobah",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Diao",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "away",
+        "player": "E. Goldaniga",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "W. Kambwala",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "M. Kean",
+        "type": "Missing Fixture",
+        "reason": "Leg Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Lahdo",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "J. Rodriguez",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "J. Chavez",
+        "type": "Missing Fixture",
+        "reason": "Coach's decision"
+      },
+      {
+        "team": "home",
+        "player": "O. Edouard",
+        "type": "Missing Fixture",
+        "reason": "Groin Injury"
+      },
+      {
+        "team": "home",
+        "player": "I. Ganiou",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "I. Jourdren",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "M. Nawrocki",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Sima",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "J. Addai",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "T. Chalobah",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Diao",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "away",
+        "player": "E. Goldaniga",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "W. Kambwala",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "M. Kean",
+        "type": "Missing Fixture",
+        "reason": "Leg Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Lahdo",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "J. Rodriguez",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0.1,
+      "draw": 0.45,
+      "away": 0.45,
+      "advice": "Combo Winner : Como and +1.5 goals",
+      "formHome": "WLL",
+      "formAway": "WLW",
+      "comparison": {
+        "form": {
+          "home": "33%",
+          "away": "67%"
+        },
+        "att": {
+          "home": "23%",
+          "away": "77%"
+        },
+        "def": {
+          "home": "42%",
+          "away": "58%"
+        },
+        "total": {
+          "home": "32.7%",
+          "away": "67.3%"
+        }
+      },
+      "h2h": []
+    }
   }
 }
