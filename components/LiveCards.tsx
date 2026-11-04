@@ -9,6 +9,10 @@ export function LiveCards({ match: m }: { match: MatchView }) {
   if (!d) return null;
   // La API repite jugadores (una entrada por tipo de baja); nos quedamos con uno por jugador y equipo.
   const seen = new Set<string>();
+  // La comparativa del proveedor solo vale si tiene datos de los dos equipos
+  // (para clubes sin liga en la API, como los del interior, viene en 0% contra 0%).
+  const total = p?.comparison?.total;
+  const comparable = !!(total && parseFloat(total.home) > 0 && parseFloat(total.away) > 0);
   const inj = (d.injuries ?? []).filter((x) => {
     const k = `${x.team}|${x.player}`;
     if (seen.has(k)) return false;
@@ -39,7 +43,7 @@ export function LiveCards({ match: m }: { match: MatchView }) {
 
   return (
     <>
-      {p && (p.comparison || p.formHome || p.h2h?.length) && (
+      {p && (comparable || (p.formHome && p.formAway) || p.h2h?.length) && (
         <section className="card rounded-3xl p-5">
           <div className="flex items-start justify-between gap-3">
             <div>
@@ -50,7 +54,7 @@ export function LiveCards({ match: m }: { match: MatchView }) {
               API-Football
             </span>
           </div>
-          {p.comparison && (
+          {comparable && p.comparison && (
             <div className="mt-4 space-y-2.5">
               {(
                 [
@@ -89,6 +93,7 @@ export function LiveCards({ match: m }: { match: MatchView }) {
               </div>
             </div>
           )}
+          {p.formHome && p.formAway && (
           <dl className="mt-4 grid grid-cols-2 gap-3 text-[13px]">
             <div>
               <dt className="text-[11px] uppercase tracking-[0.15em] text-muted">Forma {m.home.shortName}</dt>
@@ -99,6 +104,7 @@ export function LiveCards({ match: m }: { match: MatchView }) {
               <dd className="mt-1">{form(p.formAway)}</dd>
             </div>
           </dl>
+          )}
           {p.h2h?.length > 0 && (
             <div className="mt-4">
               <p className="text-[11px] uppercase tracking-[0.15em] text-muted">Últimos cruces</p>
@@ -116,7 +122,7 @@ export function LiveCards({ match: m }: { match: MatchView }) {
               </ul>
             </div>
           )}
-          {p.advice && <p className="mt-3 text-[12px] text-muted">Lectura del modelo: {p.advice}</p>}
+          {comparable && p.advice && <p className="mt-3 text-[12px] text-muted">Lectura del modelo: {p.advice}</p>}
           <p className="mt-2 text-[11px] text-muted">
             Comparativa estadística del proveedor (no es probabilidad de victoria), actualizada {formatStamp(d.updatedAtUtc)}.
           </p>
