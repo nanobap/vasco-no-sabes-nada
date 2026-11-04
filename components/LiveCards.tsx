@@ -9,10 +9,6 @@ export function LiveCards({ match: m }: { match: MatchView }) {
   if (!d) return null;
   // La API repite jugadores (una entrada por tipo de baja); nos quedamos con uno por jugador y equipo.
   const seen = new Set<string>();
-  // La comparativa del proveedor solo vale si tiene datos de los dos equipos
-  // (para clubes sin liga en la API, como los del interior, viene en 0% contra 0%).
-  const total = p?.comparison?.total;
-  const comparable = !!(total && parseFloat(total.home) > 0 && parseFloat(total.away) > 0);
   const inj = (d.injuries ?? []).filter((x) => {
     const k = `${x.team}|${x.player}`;
     if (seen.has(k)) return false;
@@ -20,6 +16,10 @@ export function LiveCards({ match: m }: { match: MatchView }) {
     return true;
   });
   const p = d.prediction;
+  // La comparativa del proveedor solo vale si tiene datos de los dos equipos
+  // (para clubes sin liga en la API, como los del interior, viene en 0% contra 0%).
+  const total = p?.comparison?.total;
+  const comparable = !!(total && parseFloat(total.home) > 0 && parseFloat(total.away) > 0);
   const form = (f: string | null) =>
     f ? (
       <span className="inline-flex gap-1">
