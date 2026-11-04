@@ -3,6 +3,7 @@
 import type { MatchView } from "@/lib/types";
 import { displayStatus } from "@/lib/status";
 import { isFinished } from "@/lib/agenda";
+import Link from "next/link";
 import { Crest } from "./Crest";
 import { CompetitionLogo } from "./CompetitionLogo";
 import { StatusChip } from "./StatusChip";
@@ -74,7 +75,16 @@ export function FeaturedMatch({ match: m, now }: { match: MatchView; now: number
           </p>
         )}
 
-        <div className="relative mt-5 flex flex-wrap items-center justify-center gap-x-4 gap-y-1 text-[12px] text-muted">
+        <div className="relative mt-5 flex justify-center">
+          <Link
+            href={`/partido/${m.id}/`}
+            className="chip font-display inline-flex items-center gap-2 rounded-full bg-neon px-5 py-2.5 text-[11px] font-black uppercase tracking-widest text-ink shadow-[0_10px_30px_-12px_rgba(77,255,154,0.9)]"
+          >
+            Entrar al estadio 3D →
+          </Link>
+        </div>
+
+        <div className="relative mt-4 flex flex-wrap items-center justify-center gap-x-4 gap-y-1 text-[12px] text-muted">
           <span>{m.round}</span>
           {m.venue && (
             <>

@@ -28,6 +28,8 @@ export interface VascoHandle {
 interface Opts {
   reduced?: boolean;
   onReady?: () => void;
+  /** "full": cuerpo entero (intro). "bust": cabeza y hombros (comentarista). */
+  framing?: "full" | "bust";
 }
 
 const C = {
@@ -283,7 +285,7 @@ export function mountVasco(canvas: HTMLCanvasElement, opts: Opts = {}): VascoHan
   );
   ring.rotation.x = -Math.PI / 2;
   ring.position.y = 0.01;
-  scene.add(ring);
+  if (opts.framing !== "bust") scene.add(ring);
 
   // ---------- Materiales con textura ----------
   const skinMat = new THREE.MeshStandardMaterial({ map: skinTexture(false), roughness: 0.62, metalness: 0 });
@@ -464,7 +466,7 @@ export function mountVasco(canvas: HTMLCanvasElement, opts: Opts = {}): VascoHan
     spin: 0,
     spinVel: 0,
     gesture: null as null | { name: GestureName; start: number; dur: number },
-    entered: reduced,
+    entered: reduced || opts.framing === "bust",
     dead: false,
   };
 
@@ -581,13 +583,19 @@ export function mountVasco(canvas: HTMLCanvasElement, opts: Opts = {}): VascoHan
     a.copy(tmpE);
   }
 
+  const bust = opts.framing === "bust";
   function resize() {
     const w = canvas.clientWidth || 300;
     const h = canvas.clientHeight || 400;
     renderer.setSize(w, h, false);
     camera.aspect = w / h;
-    camera.position.set(0, LOOK_Y + 0.15, camera.aspect < 0.8 ? 6.4 : 5.6);
-    camera.lookAt(0, LOOK_Y, 0);
+    if (bust) {
+      camera.position.set(0, 2.1, 2.3);
+      camera.lookAt(0, 2.0, 0);
+    } else {
+      camera.position.set(0, LOOK_Y + 0.15, camera.aspect < 0.8 ? 6.4 : 5.6);
+      camera.lookAt(0, LOOK_Y, 0);
+    }
     camera.updateProjectionMatrix();
   }
   resize();

@@ -1,16 +1,44 @@
 // Une data/teams.source.json + data/snapshot.matches.json → data/snapshot.json
 // y valida: referencias, escudos presentes, horarios ISO válidos, sin "live".
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
+import sharp from "sharp";
 
 const src = JSON.parse(readFileSync("data/teams.source.json", "utf8"));
 const m = JSON.parse(readFileSync("data/snapshot.matches.json", "utf8"));
 
 const errors = [];
-const teams = src.teams.map(({ id, name, shortName, country }) => {
-  const crest = `/crests/${id}.png`;
-  if (!existsSync(`public${crest}`)) errors.push(`falta escudo: ${id}`);
-  return { id, name, shortName, country, crest };
-});
+
+/** Color representativo del escudo: promedio de los píxeles opacos y saturados (evita blancos/grises). */
+async function crestColor(file) {
+  try {
+    const { data, info } = await sharp(file).resize(48, 48, { fit: "inside" }).ensureAlpha().raw().toBuffer({ resolveWithObject: true });
+    let r = 0, g = 0, b = 0, n = 0;
+    for (let i = 0; i < data.length; i += info.channels) {
+      const a = data[i + 3];
+      if (a < 200) continue;
+      const R = data[i], G = data[i + 1], B = data[i + 2];
+      const max = Math.max(R, G, B), min = Math.min(R, G, B);
+      const sat = max === 0 ? 0 : (max - min) / max;
+      const lum = (R + G + B) / 3;
+      if (sat < 0.35 || lum < 25 || lum > 235) continue;
+      r += R; g += G; b += B; n++;
+    }
+    if (n < 20) return "#4dff9a";
+    const hex = (v) => Math.round(v / n).toString(16).padStart(2, "0");
+    return `#${hex(r)}${hex(g)}${hex(b)}`;
+  } catch {
+    return "#4dff9a";
+  }
+}
+
+const teams = await Promise.all(
+  src.teams.map(async ({ id, name, shortName, country }) => {
+    const crest = `/crests/${id}.png`;
+    if (!existsSync(`public${crest}`)) errors.push(`falta escudo: ${id}`);
+    const color = existsSync(`public${crest}`) ? await crestColor(`public${crest}`) : "#4dff9a";
+    return { id, name, shortName, country, crest, color };
+  }),
+);
 const competitions = src.competitions.map(({ id, name, shortName, region, priority, accent }) => {
   const logo = `/competitions/${id}.png`;
   if (!existsSync(`public${logo}`)) errors.push(`falta logo de torneo: ${id}`);

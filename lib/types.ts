@@ -18,6 +18,8 @@ export interface Team {
   shortName: string; // para pantallas chicas
   country: string; // ISO-3
   crest: string; // ruta local en /public/crests/*.png
+  /** Color representativo del escudo (hex), calculado en el build. */
+  color?: string;
 }
 
 export interface Competition {

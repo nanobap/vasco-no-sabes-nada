@@ -3,6 +3,7 @@
 import type { MatchView } from "@/lib/types";
 import { displayStatus } from "@/lib/status";
 import { isFinished } from "@/lib/agenda";
+import Link from "next/link";
 import { Crest } from "./Crest";
 import { StatusChip } from "./StatusChip";
 
@@ -19,10 +20,11 @@ export function MatchCard({ match: m, now, index = 0 }: Props) {
   const awayWins = finished && (m.awayScore ?? 0) > (m.homeScore ?? 0);
 
   return (
-    <article
-      className="card card-hover rise relative overflow-hidden rounded-2xl px-3 pb-3 pt-4 sm:px-4"
+    <Link
+      href={`/partido/${m.id}/`}
+      className="card card-hover rise relative block overflow-hidden rounded-2xl px-3 pb-3 pt-4 focus:outline-none focus-visible:ring-2 focus-visible:ring-neon/60 sm:px-4"
       style={{ animationDelay: `${Math.min(index, 8) * 40}ms` }}
-      aria-label={`${m.home.name} contra ${m.away.name}, ${m.localTime}`}
+      aria-label={`${m.home.name} contra ${m.away.name}, ${m.localTime}. Ver partido`}
     >
       <div
         className="pointer-events-none absolute inset-x-0 top-0 h-[2px] opacity-80"
@@ -61,7 +63,7 @@ export function MatchCard({ match: m, now, index = 0 }: Props) {
           {st.kind === "in-progress" ? "Según el horario ya empezó" : "Según el horario ya terminó"} · {st.note}
         </p>
       )}
-    </article>
+    </Link>
   );
 }
 

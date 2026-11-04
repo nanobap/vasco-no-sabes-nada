@@ -34,966 +34,1104 @@
       "name": "Shakhtar Donetsk",
       "shortName": "Shakhtar",
       "country": "UKR",
-      "crest": "/crests/shakhtar.png"
+      "crest": "/crests/shakhtar.png",
+      "color": "#ef7a2b"
     },
     {
       "id": "sporting",
       "name": "Sporting de Lisboa",
       "shortName": "Sporting",
       "country": "POR",
-      "crest": "/crests/sporting.png"
+      "crest": "/crests/sporting.png",
+      "color": "#107e60"
     },
     {
       "id": "galatasaray",
       "name": "Galatasaray",
       "shortName": "Galatasaray",
       "country": "TUR",
-      "crest": "/crests/galatasaray.png"
+      "crest": "/crests/galatasaray.png",
+      "color": "#d16832"
     },
     {
       "id": "stuttgart",
       "name": "Stuttgart",
       "shortName": "Stuttgart",
       "country": "GER",
-      "crest": "/crests/stuttgart.png"
+      "crest": "/crests/stuttgart.png",
+      "color": "#d16239"
     },
     {
       "id": "atletico-madrid",
       "name": "Atlético de Madrid",
       "shortName": "Atlético",
       "country": "ESP",
-      "crest": "/crests/atletico-madrid.png"
+      "crest": "/crests/atletico-madrid.png",
+      "color": "#802950"
     },
     {
       "id": "bayern",
       "name": "Bayern Múnich",
       "shortName": "Bayern",
       "country": "GER",
-      "crest": "/crests/bayern.png"
+      "crest": "/crests/bayern.png",
+      "color": "#a24b74"
     },
     {
       "id": "barcelona",
       "name": "Barcelona",
       "shortName": "Barcelona",
       "country": "ESP",
-      "crest": "/crests/barcelona.png"
+      "crest": "/crests/barcelona.png",
+      "color": "#a37134"
     },
     {
       "id": "aston-villa",
       "name": "Aston Villa",
       "shortName": "Aston Villa",
       "country": "ENG",
-      "crest": "/crests/aston-villa.png"
+      "crest": "/crests/aston-villa.png",
+      "color": "#b2bf8b"
     },
     {
       "id": "feyenoord",
       "name": "Feyenoord",
       "shortName": "Feyenoord",
       "country": "NED",
-      "crest": "/crests/feyenoord.png"
+      "crest": "/crests/feyenoord.png",
+      "color": "#9a5b45"
     },
     {
       "id": "inter",
       "name": "Inter",
       "shortName": "Inter",
       "country": "ITA",
-      "crest": "/crests/inter.png"
+      "crest": "/crests/inter.png",
+      "color": "#0f259f"
     },
     {
       "id": "bodo-glimt",
       "name": "Bodø/Glimt",
       "shortName": "Bodø/Glimt",
       "country": "NOR",
-      "crest": "/crests/bodo-glimt.png"
+      "crest": "/crests/bodo-glimt.png",
+      "color": "#b4a200"
     },
     {
       "id": "lille",
       "name": "Lille",
       "shortName": "Lille",
       "country": "FRA",
-      "crest": "/crests/lille.png"
+      "crest": "/crests/lille.png",
+      "color": "#892d4c"
     },
     {
       "id": "lask",
       "name": "LASK Linz",
       "shortName": "LASK",
       "country": "AUT",
-      "crest": "/crests/lask.png"
+      "crest": "/crests/lask.png",
+      "color": "#4dff9a"
     },
     {
       "id": "slovan-bratislava",
       "name": "Slovan Bratislava",
       "shortName": "Slovan",
       "country": "SVK",
-      "crest": "/crests/slovan-bratislava.png"
+      "crest": "/crests/slovan-bratislava.png",
+      "color": "#6a6f8b"
     },
     {
       "id": "manchester-united",
       "name": "Manchester United",
       "shortName": "Man. United",
       "country": "ENG",
-      "crest": "/crests/manchester-united.png"
+      "crest": "/crests/manchester-united.png",
+      "color": "#e96003"
     },
     {
       "id": "roma",
       "name": "Roma",
       "shortName": "Roma",
       "country": "ITA",
-      "crest": "/crests/roma.png"
+      "crest": "/crests/roma.png",
+      "color": "#c45d15"
     },
     {
       "id": "villarreal",
       "name": "Villarreal",
       "shortName": "Villarreal",
       "country": "ESP",
-      "crest": "/crests/villarreal.png"
+      "crest": "/crests/villarreal.png",
+      "color": "#937e68"
     },
     {
       "id": "psg",
       "name": "Paris Saint-Germain",
       "shortName": "PSG",
       "country": "FRA",
-      "crest": "/crests/psg.png"
+      "crest": "/crests/psg.png",
+      "color": "#ba6a32"
     },
     {
       "id": "aek",
       "name": "AEK Atenas",
       "shortName": "AEK",
       "country": "GRE",
-      "crest": "/crests/aek.png"
+      "crest": "/crests/aek.png",
+      "color": "#cdb113"
     },
     {
       "id": "real-madrid",
       "name": "Real Madrid",
       "shortName": "Real Madrid",
       "country": "ESP",
-      "crest": "/crests/real-madrid.png"
+      "crest": "/crests/real-madrid.png",
+      "color": "#a98646"
     },
     {
       "id": "fenerbahce",
       "name": "Fenerbahçe",
       "shortName": "Fenerbahçe",
       "country": "TUR",
-      "crest": "/crests/fenerbahce.png"
+      "crest": "/crests/fenerbahce.png",
+      "color": "#866c35"
     },
     {
       "id": "liverpool-eng",
       "name": "Liverpool",
       "shortName": "Liverpool",
       "country": "ENG",
-      "crest": "/crests/liverpool-eng.png"
+      "crest": "/crests/liverpool-eng.png",
+      "color": "#ec1c25"
     },
     {
       "id": "dortmund",
       "name": "Borussia Dortmund",
       "shortName": "Dortmund",
       "country": "GER",
-      "crest": "/crests/dortmund.png"
+      "crest": "/crests/dortmund.png",
+      "color": "#d3c000"
     },
     {
       "id": "betis",
       "name": "Real Betis",
       "shortName": "Betis",
       "country": "ESP",
-      "crest": "/crests/betis.png"
+      "crest": "/crests/betis.png",
+      "color": "#758734"
     },
     {
       "id": "porto",
       "name": "Porto",
       "shortName": "Porto",
       "country": "POR",
-      "crest": "/crests/porto.png"
+      "crest": "/crests/porto.png",
+      "color": "#4b626b"
     },
     {
       "id": "napoli",
       "name": "Napoli",
       "shortName": "Napoli",
       "country": "ITA",
-      "crest": "/crests/napoli.png"
+      "crest": "/crests/napoli.png",
+      "color": "#203856"
     },
     {
       "id": "psv",
       "name": "PSV Eindhoven",
       "shortName": "PSV",
       "country": "NED",
-      "crest": "/crests/psv.png"
+      "crest": "/crests/psv.png",
+      "color": "#da6851"
     },
     {
       "id": "brugge",
       "name": "Club Brujas",
       "shortName": "Brujas",
       "country": "BEL",
-      "crest": "/crests/brugge.png"
+      "crest": "/crests/brugge.png",
+      "color": "#3a7cc5"
     },
     {
       "id": "leipzig",
       "name": "RB Leipzig",
       "shortName": "Leipzig",
       "country": "GER",
-      "crest": "/crests/leipzig.png"
+      "crest": "/crests/leipzig.png",
+      "color": "#c73d65"
     },
     {
       "id": "manchester-city",
       "name": "Manchester City",
       "shortName": "Man. City",
       "country": "ENG",
-      "crest": "/crests/manchester-city.png"
+      "crest": "/crests/manchester-city.png",
+      "color": "#677a88"
     },
     {
       "id": "lens",
       "name": "Lens",
       "shortName": "Lens",
       "country": "FRA",
-      "crest": "/crests/lens.png"
+      "crest": "/crests/lens.png",
+      "color": "#e16b16"
     },
     {
       "id": "como",
       "name": "Como",
       "shortName": "Como",
       "country": "ITA",
-      "crest": "/crests/como.png"
+      "crest": "/crests/como.png",
+      "color": "#1a486f"
     },
     {
       "id": "slavia-praha",
       "name": "Slavia Praga",
       "shortName": "Slavia",
       "country": "CZE",
-      "crest": "/crests/slavia-praha.png"
+      "crest": "/crests/slavia-praha.png",
+      "color": "#d92a3a"
     },
     {
       "id": "arsenal",
       "name": "Arsenal",
       "shortName": "Arsenal",
       "country": "ENG",
-      "crest": "/crests/arsenal.png"
+      "crest": "/crests/arsenal.png",
+      "color": "#bb3d37"
     },
     {
       "id": "viking",
       "name": "Viking",
       "shortName": "Viking",
       "country": "NOR",
-      "crest": "/crests/viking.png"
+      "crest": "/crests/viking.png",
+      "color": "#87342a"
     },
     {
       "id": "sabah",
       "name": "Sabah",
       "shortName": "Sabah",
       "country": "AZE",
-      "crest": "/crests/sabah.png"
+      "crest": "/crests/sabah.png",
+      "color": "#9f4173"
     },
     {
       "id": "rennes",
       "name": "Rennes",
       "shortName": "Rennes",
       "country": "FRA",
-      "crest": "/crests/rennes.png"
+      "crest": "/crests/rennes.png",
+      "color": "#d74a2f"
     },
     {
       "id": "olympiacos",
       "name": "Olympiacos",
       "shortName": "Olympiacos",
       "country": "GRE",
-      "crest": "/crests/olympiacos.png"
+      "crest": "/crests/olympiacos.png",
+      "color": "#e95258"
     },
     {
       "id": "milan",
       "name": "Milan",
       "shortName": "Milan",
       "country": "ITA",
-      "crest": "/crests/milan.png"
+      "crest": "/crests/milan.png",
+      "color": "#b8161c"
     },
     {
       "id": "ferencvaros",
       "name": "Ferencváros",
       "shortName": "Ferencváros",
       "country": "HUN",
-      "crest": "/crests/ferencvaros.png"
+      "crest": "/crests/ferencvaros.png",
+      "color": "#7e8a3e"
     },
     {
       "id": "sparta-praha",
       "name": "Sparta Praga",
       "shortName": "Sparta",
       "country": "CZE",
-      "crest": "/crests/sparta-praha.png"
+      "crest": "/crests/sparta-praha.png",
+      "color": "#8b4c36"
     },
     {
       "id": "bournemouth",
       "name": "Bournemouth",
       "shortName": "Bournemouth",
       "country": "ENG",
-      "crest": "/crests/bournemouth.png"
+      "crest": "/crests/bournemouth.png",
+      "color": "#ac1317"
     },
     {
       "id": "crystal-palace",
       "name": "Crystal Palace",
       "shortName": "C. Palace",
       "country": "ENG",
-      "crest": "/crests/crystal-palace.png"
+      "crest": "/crests/crystal-palace.png",
+      "color": "#4972ad"
     },
     {
       "id": "hoffenheim",
       "name": "Hoffenheim",
       "shortName": "Hoffenheim",
       "country": "GER",
-      "crest": "/crests/hoffenheim.png"
+      "crest": "/crests/hoffenheim.png",
+      "color": "#1c65ae"
     },
     {
       "id": "lillestrom",
       "name": "Lillestrøm",
       "shortName": "Lillestrøm",
       "country": "NOR",
-      "crest": "/crests/lillestrom.png"
+      "crest": "/crests/lillestrom.png",
+      "color": "#e0c700"
     },
     {
       "id": "plzen",
       "name": "Viktoria Plzeň",
       "shortName": "Plzeň",
       "country": "CZE",
-      "crest": "/crests/plzen.png"
+      "crest": "/crests/plzen.png",
+      "color": "#863536"
     },
     {
       "id": "nec",
       "name": "NEC Nijmegen",
       "shortName": "NEC",
       "country": "NED",
-      "crest": "/crests/nec.png"
+      "crest": "/crests/nec.png",
+      "color": "#8e6b57"
     },
     {
       "id": "omonia",
       "name": "Omonia",
       "shortName": "Omonia",
       "country": "CYP",
-      "crest": "/crests/omonia.png"
+      "crest": "/crests/omonia.png",
+      "color": "#217949"
     },
     {
       "id": "levski",
       "name": "Levski Sofia",
       "shortName": "Levski",
       "country": "BUL",
-      "crest": "/crests/levski.png"
+      "crest": "/crests/levski.png",
+      "color": "#6e476d"
     },
     {
       "id": "jagiellonia",
       "name": "Jagiellonia Białystok",
       "shortName": "Jagiellonia",
       "country": "POL",
-      "crest": "/crests/jagiellonia.png"
+      "crest": "/crests/jagiellonia.png",
+      "color": "#b76415"
     },
     {
       "id": "real-sociedad",
       "name": "Real Sociedad",
       "shortName": "Real Sociedad",
       "country": "ESP",
-      "crest": "/crests/real-sociedad.png"
+      "crest": "/crests/real-sociedad.png",
+      "color": "#736243"
     },
     {
       "id": "lyon",
       "name": "Olympique de Lyon",
       "shortName": "Lyon",
       "country": "FRA",
-      "crest": "/crests/lyon.png"
+      "crest": "/crests/lyon.png",
+      "color": "#8c4889"
     },
     {
       "id": "anderlecht",
       "name": "Anderlecht",
       "shortName": "Anderlecht",
       "country": "BEL",
-      "crest": "/crests/anderlecht.png"
+      "crest": "/crests/anderlecht.png",
+      "color": "#8c557c"
     },
     {
       "id": "salzburg",
       "name": "Salzburgo",
       "shortName": "Salzburgo",
       "country": "AUT",
-      "crest": "/crests/salzburg.png"
+      "crest": "/crests/salzburg.png",
+      "color": "#cc5c5b"
     },
     {
       "id": "az",
       "name": "AZ Alkmaar",
       "shortName": "AZ",
       "country": "NED",
-      "crest": "/crests/az.png"
+      "crest": "/crests/az.png",
+      "color": "#cb0724"
     },
     {
       "id": "juventus",
       "name": "Juventus",
       "shortName": "Juventus",
       "country": "ITA",
-      "crest": "/crests/juventus.png"
+      "crest": "/crests/juventus.png",
+      "color": "#4dff9a"
     },
     {
       "id": "leverkusen",
       "name": "Bayer Leverkusen",
       "shortName": "Leverkusen",
       "country": "GER",
-      "crest": "/crests/leverkusen.png"
+      "crest": "/crests/leverkusen.png",
+      "color": "#aa591a"
     },
     {
       "id": "marseille",
       "name": "Olympique de Marsella",
       "shortName": "Marsella",
       "country": "FRA",
-      "crest": "/crests/marseille.png"
+      "crest": "/crests/marseille.png",
+      "color": "#1b6bb2"
     },
     {
       "id": "celtic",
       "name": "Celtic",
       "shortName": "Celtic",
       "country": "SCO",
-      "crest": "/crests/celtic.png"
+      "crest": "/crests/celtic.png",
+      "color": "#239b58"
     },
     {
       "id": "besiktas",
       "name": "Beşiktaş",
       "shortName": "Beşiktaş",
       "country": "TUR",
-      "crest": "/crests/besiktas.png"
+      "crest": "/crests/besiktas.png",
+      "color": "#db2931"
     },
     {
       "id": "hapoel-beer-sheva",
       "name": "Hapoel Beer-Sheva",
       "shortName": "H. Beer-Sheva",
       "country": "ISR",
-      "crest": "/crests/hapoel-beer-sheva.png"
+      "crest": "/crests/hapoel-beer-sheva.png",
+      "color": "#df1f30"
     },
     {
       "id": "ofi",
       "name": "OFI Creta",
       "shortName": "OFI",
       "country": "GRE",
-      "crest": "/crests/ofi.png"
+      "crest": "/crests/ofi.png",
+      "color": "#4dff9a"
     },
     {
       "id": "celta",
       "name": "Celta de Vigo",
       "shortName": "Celta",
       "country": "ESP",
-      "crest": "/crests/celta.png"
+      "crest": "/crests/celta.png",
+      "color": "#cf5f81"
     },
     {
       "id": "union-sg",
       "name": "Union Saint-Gilloise",
       "shortName": "Union SG",
       "country": "BEL",
-      "crest": "/crests/union-sg.png"
+      "crest": "/crests/union-sg.png",
+      "color": "#8c9f5b"
     },
     {
       "id": "torreense",
       "name": "Torreense",
       "shortName": "Torreense",
       "country": "POR",
-      "crest": "/crests/torreense.png"
+      "crest": "/crests/torreense.png",
+      "color": "#5c4d4f"
     },
     {
       "id": "ararat-armenia",
       "name": "Ararat-Armenia",
       "shortName": "Ararat-Armenia",
       "country": "ARM",
-      "crest": "/crests/ararat-armenia.png"
+      "crest": "/crests/ararat-armenia.png",
+      "color": "#4dff9a"
     },
     {
       "id": "sturm-graz",
       "name": "Sturm Graz",
       "shortName": "Sturm Graz",
       "country": "AUT",
-      "crest": "/crests/sturm-graz.png"
+      "crest": "/crests/sturm-graz.png",
+      "color": "#4dff9a"
     },
     {
       "id": "celje",
       "name": "Celje",
       "shortName": "Celje",
       "country": "SVN",
-      "crest": "/crests/celje.png"
+      "crest": "/crests/celje.png",
+      "color": "#142764"
     },
     {
       "id": "benfica",
       "name": "Benfica",
       "shortName": "Benfica",
       "country": "POR",
-      "crest": "/crests/benfica.png"
+      "crest": "/crests/benfica.png",
+      "color": "#aa8841"
     },
     {
       "id": "lech",
       "name": "Lech Poznań",
       "shortName": "Lech",
       "country": "POL",
-      "crest": "/crests/lech.png"
+      "crest": "/crests/lech.png",
+      "color": "#4b72b2"
     },
     {
       "id": "sunderland",
       "name": "Sunderland",
       "shortName": "Sunderland",
       "country": "ENG",
-      "crest": "/crests/sunderland.png"
+      "crest": "/crests/sunderland.png",
+      "color": "#ba4d3f"
     },
     {
       "id": "dinamo-zagreb",
       "name": "Dinamo Zagreb",
       "shortName": "Dinamo Zagreb",
       "country": "CRO",
-      "crest": "/crests/dinamo-zagreb.png"
+      "crest": "/crests/dinamo-zagreb.png",
+      "color": "#725d6d"
     },
     {
       "id": "agf",
       "name": "Aarhus (AGF)",
       "shortName": "AGF",
       "country": "DEN",
-      "crest": "/crests/agf.png"
+      "crest": "/crests/agf.png",
+      "color": "#934c53"
     },
     {
       "id": "braga",
       "name": "Braga",
       "shortName": "Braga",
       "country": "POR",
-      "crest": "/crests/braga.png"
+      "crest": "/crests/braga.png",
+      "color": "#9c4238"
     },
     {
       "id": "atalanta",
       "name": "Atalanta",
       "shortName": "Atalanta",
       "country": "ITA",
-      "crest": "/crests/atalanta.png"
+      "crest": "/crests/atalanta.png",
+      "color": "#1a70b5"
     },
     {
       "id": "kairat",
       "name": "Kairat Almaty",
       "shortName": "Kairat",
       "country": "KAZ",
-      "crest": "/crests/kairat.png"
+      "crest": "/crests/kairat.png",
+      "color": "#9b842b"
     },
     {
       "id": "midtjylland",
       "name": "Midtjylland",
       "shortName": "Midtjylland",
       "country": "DEN",
-      "crest": "/crests/midtjylland.png"
+      "crest": "/crests/midtjylland.png",
+      "color": "#e0141e"
     },
     {
       "id": "ajax",
       "name": "Ajax",
       "shortName": "Ajax",
       "country": "NED",
-      "crest": "/crests/ajax.png"
+      "crest": "/crests/ajax.png",
+      "color": "#b32741"
     },
     {
       "id": "thun",
       "name": "Thun",
       "shortName": "Thun",
       "country": "SUI",
-      "crest": "/crests/thun.png"
+      "crest": "/crests/thun.png",
+      "color": "#e42c37"
     },
     {
       "id": "hearts",
       "name": "Hearts",
       "shortName": "Hearts",
       "country": "SCO",
-      "crest": "/crests/hearts.png"
+      "crest": "/crests/hearts.png",
+      "color": "#a2454c"
     },
     {
       "id": "red-star",
       "name": "Estrella Roja",
       "shortName": "Estrella Roja",
       "country": "SRB",
-      "crest": "/crests/red-star.png"
+      "crest": "/crests/red-star.png",
+      "color": "#fb3d34"
     },
     {
       "id": "inter-escaldes",
       "name": "Inter Escaldes",
       "shortName": "Inter Escaldes",
       "country": "AND",
-      "crest": "/crests/inter-escaldes.png"
+      "crest": "/crests/inter-escaldes.png",
+      "color": "#134d8a"
     },
     {
       "id": "kups",
       "name": "KuPS Kuopio",
       "shortName": "KuPS",
       "country": "FIN",
-      "crest": "/crests/kups.png"
+      "crest": "/crests/kups.png",
+      "color": "#bbaf09"
     },
     {
       "id": "gent",
       "name": "Gent",
       "shortName": "Gent",
       "country": "BEL",
-      "crest": "/crests/gent.png"
+      "crest": "/crests/gent.png",
+      "color": "#3474bf"
     },
     {
       "id": "lincoln",
       "name": "Lincoln Red Imps",
       "shortName": "Lincoln",
       "country": "GIB",
-      "crest": "/crests/lincoln.png"
+      "crest": "/crests/lincoln.png",
+      "color": "#f06768"
     },
     {
       "id": "hajduk",
       "name": "Hajduk Split",
       "shortName": "Hajduk",
       "country": "CRO",
-      "crest": "/crests/hajduk.png"
+      "crest": "/crests/hajduk.png",
+      "color": "#834f69"
     },
     {
       "id": "mjallby",
       "name": "Mjällby",
       "shortName": "Mjällby",
       "country": "SWE",
-      "crest": "/crests/mjallby.png"
+      "crest": "/crests/mjallby.png",
+      "color": "#988310"
     },
     {
       "id": "borac",
       "name": "Borac Banja Luka",
       "shortName": "Borac",
       "country": "BIH",
-      "crest": "/crests/borac.png"
+      "crest": "/crests/borac.png",
+      "color": "#926a6a"
     },
     {
       "id": "trabzonspor",
       "name": "Trabzonspor",
       "shortName": "Trabzonspor",
       "country": "TUR",
-      "crest": "/crests/trabzonspor.png"
+      "crest": "/crests/trabzonspor.png",
+      "color": "#685b7c"
     },
     {
       "id": "freiburg",
       "name": "Friburgo",
       "shortName": "Friburgo",
       "country": "GER",
-      "crest": "/crests/freiburg.png"
+      "crest": "/crests/freiburg.png",
+      "color": "#4dff9a"
     },
     {
       "id": "monaco",
       "name": "Mónaco",
       "shortName": "Mónaco",
       "country": "FRA",
-      "crest": "/crests/monaco.png"
+      "crest": "/crests/monaco.png",
+      "color": "#f15e5a"
     },
     {
       "id": "nordsjaelland",
       "name": "Nordsjælland",
       "shortName": "Nordsjælland",
       "country": "DEN",
-      "crest": "/crests/nordsjaelland.png"
+      "crest": "/crests/nordsjaelland.png",
+      "color": "#f2841b"
     },
     {
       "id": "copenhagen",
       "name": "Copenhague",
       "shortName": "Copenhague",
       "country": "DEN",
-      "crest": "/crests/copenhagen.png"
+      "crest": "/crests/copenhagen.png",
+      "color": "#455292"
     },
     {
       "id": "iberia-1999",
       "name": "Iberia 1999 Tbilisi",
       "shortName": "Iberia 1999",
       "country": "GEO",
-      "crest": "/crests/iberia-1999.png"
+      "crest": "/crests/iberia-1999.png",
+      "color": "#d91632"
     },
     {
       "id": "lugano",
       "name": "Lugano",
       "shortName": "Lugano",
       "country": "SUI",
-      "crest": "/crests/lugano.png"
+      "crest": "/crests/lugano.png",
+      "color": "#4dff9a"
     },
     {
       "id": "kauno-zalgiris",
       "name": "Kauno Žalgiris",
       "shortName": "K. Žalgiris",
       "country": "LTU",
-      "crest": "/crests/kauno-zalgiris.png"
+      "crest": "/crests/kauno-zalgiris.png",
+      "color": "#407033"
     },
     {
       "id": "twente",
       "name": "Twente",
       "shortName": "Twente",
       "country": "NED",
-      "crest": "/crests/twente.png"
+      "crest": "/crests/twente.png",
+      "color": "#e62c3f"
     },
     {
       "id": "pafos",
       "name": "Pafos",
       "shortName": "Pafos",
       "country": "CYP",
-      "crest": "/crests/pafos.png"
+      "crest": "/crests/pafos.png",
+      "color": "#3e6f6f"
     },
     {
       "id": "getafe",
       "name": "Getafe",
       "shortName": "Getafe",
       "country": "ESP",
-      "crest": "/crests/getafe.png"
+      "crest": "/crests/getafe.png",
+      "color": "#5a8485"
     },
     {
       "id": "brighton",
       "name": "Brighton & Hove Albion",
       "shortName": "Brighton",
       "country": "ENG",
-      "crest": "/crests/brighton.png"
+      "crest": "/crests/brighton.png",
+      "color": "#1857a1"
     },
     {
       "id": "sint-truiden",
       "name": "Sint-Truiden",
       "shortName": "Sint-Truiden",
       "country": "BEL",
-      "crest": "/crests/sint-truiden.png"
+      "crest": "/crests/sint-truiden.png",
+      "color": "#899f64"
     },
     {
       "id": "brann",
       "name": "Brann",
       "shortName": "Brann",
       "country": "NOR",
-      "crest": "/crests/brann.png"
+      "crest": "/crests/brann.png",
+      "color": "#f0686c"
     },
     {
       "id": "panathinaikos",
       "name": "Panathinaikos",
       "shortName": "Panathinaikos",
       "country": "GRE",
-      "crest": "/crests/panathinaikos.png"
+      "crest": "/crests/panathinaikos.png",
+      "color": "#2a8d5b"
     },
     {
       "id": "cska-sofia",
       "name": "CSKA Sofia",
       "shortName": "CSKA Sofia",
       "country": "BUL",
-      "crest": "/crests/cska-sofia.png"
+      "crest": "/crests/cska-sofia.png",
+      "color": "#eb7a2d"
     },
     {
       "id": "riga",
       "name": "Riga FC",
       "shortName": "Riga",
       "country": "LVA",
-      "crest": "/crests/riga.png"
+      "crest": "/crests/riga.png",
+      "color": "#29506e"
     },
     {
       "id": "jablonec",
       "name": "Jablonec",
       "shortName": "Jablonec",
       "country": "CZE",
-      "crest": "/crests/jablonec.png"
+      "crest": "/crests/jablonec.png",
+      "color": "#013220"
     },
     {
       "id": "u-craiova",
       "name": "Universitatea Craiova",
       "shortName": "U. Craiova",
       "country": "ROU",
-      "crest": "/crests/u-craiova.png"
+      "crest": "/crests/u-craiova.png",
+      "color": "#599dce"
     },
     {
       "id": "egnatia",
       "name": "Egnatia",
       "shortName": "Egnatia",
       "country": "ALB",
-      "crest": "/crests/egnatia.png"
+      "crest": "/crests/egnatia.png",
+      "color": "#236333"
     },
     {
       "id": "san-carlos",
       "name": "San Carlos",
       "shortName": "San Carlos",
       "country": "URU",
-      "crest": "/crests/san-carlos.png"
+      "crest": "/crests/san-carlos.png",
+      "color": "#fa171a"
     },
     {
       "id": "boston-river",
       "name": "Boston River",
       "shortName": "Boston River",
       "country": "URU",
-      "crest": "/crests/boston-river.png"
+      "crest": "/crests/boston-river.png",
+      "color": "#8b4436"
     },
     {
       "id": "lito",
       "name": "Lito",
       "shortName": "Lito",
       "country": "URU",
-      "crest": "/crests/lito.png"
+      "crest": "/crests/lito.png",
+      "color": "#833a64"
     },
     {
       "id": "wanderers",
       "name": "Montevideo Wanderers",
       "shortName": "Wanderers",
       "country": "URU",
-      "crest": "/crests/wanderers.png"
+      "crest": "/crests/wanderers.png",
+      "color": "#845b36"
     },
     {
       "id": "ferro-carril-salto",
       "name": "Ferro Carril (Salto)",
       "shortName": "Ferro Carril",
       "country": "URU",
-      "crest": "/crests/ferro-carril-salto.png"
+      "crest": "/crests/ferro-carril-salto.png",
+      "color": "#2b2017"
     },
     {
       "id": "nacional",
       "name": "Nacional",
       "shortName": "Nacional",
       "country": "URU",
-      "crest": "/crests/nacional.png"
+      "crest": "/crests/nacional.png",
+      "color": "#302f74"
     },
     {
       "id": "gladiador",
       "name": "Gladiador (Salto)",
       "shortName": "Gladiador",
       "country": "URU",
-      "crest": "/crests/gladiador.png"
+      "crest": "/crests/gladiador.png",
+      "color": "#d77029"
     },
     {
       "id": "liverpool-uru",
       "name": "Liverpool",
       "shortName": "Liverpool",
       "country": "URU",
-      "crest": "/crests/liverpool-uru.png"
+      "crest": "/crests/liverpool-uru.png",
+      "color": "#104d65"
     },
     {
       "id": "libertad-san-carlos",
       "name": "Libertad (San Carlos)",
       "shortName": "Libertad",
       "country": "URU",
-      "crest": "/crests/libertad-san-carlos.png"
+      "crest": "/crests/libertad-san-carlos.png",
+      "color": "#6a7566"
     },
     {
       "id": "torque",
       "name": "Montevideo City Torque",
       "shortName": "Torque",
       "country": "URU",
-      "crest": "/crests/torque.png"
+      "crest": "/crests/torque.png",
+      "color": "#587c91"
     },
     {
       "id": "chapecoense",
       "name": "Chapecoense",
       "shortName": "Chapecoense",
       "country": "BRA",
-      "crest": "/crests/chapecoense.png"
+      "crest": "/crests/chapecoense.png",
+      "color": "#35a059"
     },
     {
       "id": "mirassol",
       "name": "Mirassol",
       "shortName": "Mirassol",
       "country": "BRA",
-      "crest": "/crests/mirassol.png"
+      "crest": "/crests/mirassol.png",
+      "color": "#9ac341"
     },
     {
       "id": "internacional",
       "name": "Internacional",
       "shortName": "Inter de Porto Alegre",
       "country": "BRA",
-      "crest": "/crests/internacional.png"
+      "crest": "/crests/internacional.png",
+      "color": "#ea393f"
     },
     {
       "id": "coritiba",
       "name": "Coritiba",
       "shortName": "Coritiba",
       "country": "BRA",
-      "crest": "/crests/coritiba.png"
+      "crest": "/crests/coritiba.png",
+      "color": "#2a6b60"
     },
     {
       "id": "flamengo",
       "name": "Flamengo",
       "shortName": "Flamengo",
       "country": "BRA",
-      "crest": "/crests/flamengo.png"
+      "crest": "/crests/flamengo.png",
+      "color": "#b02515"
     },
     {
       "id": "gremio",
       "name": "Grêmio",
       "shortName": "Grêmio",
       "country": "BRA",
-      "crest": "/crests/gremio.png"
+      "crest": "/crests/gremio.png",
+      "color": "#2e8cba"
     },
     {
       "id": "athletico-pr",
       "name": "Athletico Paranaense",
       "shortName": "Athletico-PR",
       "country": "BRA",
-      "crest": "/crests/athletico-pr.png"
+      "crest": "/crests/athletico-pr.png",
+      "color": "#d31920"
     },
     {
       "id": "vasco",
       "name": "Vasco da Gama",
       "shortName": "Vasco",
       "country": "BRA",
-      "crest": "/crests/vasco.png"
+      "crest": "/crests/vasco.png",
+      "color": "#a85c1c"
     },
     {
       "id": "botafogo",
       "name": "Botafogo",
       "shortName": "Botafogo",
       "country": "BRA",
-      "crest": "/crests/botafogo.png"
+      "crest": "/crests/botafogo.png",
+      "color": "#4dff9a"
     },
     {
       "id": "atletico-mineiro",
       "name": "Atlético Mineiro",
       "shortName": "Atlético-MG",
       "country": "BRA",
-      "crest": "/crests/atletico-mineiro.png"
+      "crest": "/crests/atletico-mineiro.png",
+      "color": "#4dff9a"
     },
     {
       "id": "sao-paulo",
       "name": "São Paulo",
       "shortName": "São Paulo",
       "country": "BRA",
-      "crest": "/crests/sao-paulo.png"
+      "crest": "/crests/sao-paulo.png",
+      "color": "#a11423"
     },
     {
       "id": "corinthians",
       "name": "Corinthians",
       "shortName": "Corinthians",
       "country": "BRA",
-      "crest": "/crests/corinthians.png"
+      "crest": "/crests/corinthians.png",
+      "color": "#f04352"
     },
     {
       "id": "palmeiras",
       "name": "Palmeiras",
       "shortName": "Palmeiras",
       "country": "BRA",
-      "crest": "/crests/palmeiras.png"
+      "crest": "/crests/palmeiras.png",
+      "color": "#26754d"
     },
     {
       "id": "remo",
       "name": "Remo",
       "shortName": "Remo",
       "country": "BRA",
-      "crest": "/crests/remo.png"
+      "crest": "/crests/remo.png",
+      "color": "#151924"
     },
     {
       "id": "cruzeiro",
       "name": "Cruzeiro",
       "shortName": "Cruzeiro",
       "country": "BRA",
-      "crest": "/crests/cruzeiro.png"
+      "crest": "/crests/cruzeiro.png",
+      "color": "#395ba3"
     },
     {
       "id": "bahia",
       "name": "Bahia",
       "shortName": "Bahia",
       "country": "BRA",
-      "crest": "/crests/bahia.png"
+      "crest": "/crests/bahia.png",
+      "color": "#5686b0"
     },
     {
       "id": "aldosivi",
       "name": "Aldosivi",
       "shortName": "Aldosivi",
       "country": "ARG",
-      "crest": "/crests/aldosivi.png"
+      "crest": "/crests/aldosivi.png",
+      "color": "#86a33d"
     },
     {
       "id": "river-plate-arg",
       "name": "River Plate",
       "shortName": "River",
       "country": "ARG",
-      "crest": "/crests/river-plate-arg.png"
+      "crest": "/crests/river-plate-arg.png",
+      "color": "#ee273a"
     },
     {
       "id": "gimnasia-lp",
       "name": "Gimnasia y Esgrima La Plata",
       "shortName": "Gimnasia LP",
       "country": "ARG",
-      "crest": "/crests/gimnasia-lp.png"
+      "crest": "/crests/gimnasia-lp.png",
+      "color": "#396567"
     },
     {
       "id": "belgrano",
       "name": "Belgrano",
       "shortName": "Belgrano",
       "country": "ARG",
-      "crest": "/crests/belgrano.png"
+      "crest": "/crests/belgrano.png",
+      "color": "#31afe8"
     }
   ],
   "competitions": [
