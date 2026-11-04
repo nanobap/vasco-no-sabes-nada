@@ -1,13 +1,14 @@
 "use client";
 
+import Link from "next/link";
+
 interface Props {
   onHome: () => void;
-  onSearch: () => void;
   onShare: () => void;
   onVasco: () => void;
 }
 
-export function BottomBar({ onHome, onSearch, onShare, onVasco }: Props) {
+export function BottomBar({ onHome, onShare, onVasco }: Props) {
   return (
     <div className="pointer-events-none fixed inset-x-0 bottom-0 z-40 flex justify-center px-3 pb-[max(env(safe-area-inset-bottom),12px)]">
       <nav
@@ -17,10 +18,16 @@ export function BottomBar({ onHome, onSearch, onShare, onVasco }: Props) {
         <Item label="Agenda" onClick={onHome}>
           <path d="M4 10.5 12 4l8 6.5V20a1 1 0 0 1-1 1h-4.5v-6h-5v6H5a1 1 0 0 1-1-1z" />
         </Item>
-        <Item label="Buscar" onClick={onSearch}>
-          <circle cx="11" cy="11" r="7" />
-          <path d="m20 20-3.5-3.5" />
-        </Item>
+        <Link
+          href="/tablas/"
+          className="chip flex flex-col items-center justify-center gap-0.5 rounded-2xl py-2 text-fg-2 hover:text-fg"
+        >
+          <svg viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+            <path d="M4 6h16M4 12h16M4 18h10" />
+            <circle cx="19" cy="18" r="2" />
+          </svg>
+          <span className="text-[10px] font-semibold uppercase tracking-wider">Tablas</span>
+        </Link>
         <button
           type="button"
           onClick={onShare}

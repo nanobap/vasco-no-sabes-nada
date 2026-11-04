@@ -13,6 +13,7 @@ import { MatchShare } from "@/components/MatchShare";
 import { LiveCards } from "@/components/LiveCards";
 import { CompetitionLogo } from "@/components/CompetitionLogo";
 import { Crest } from "@/components/Crest";
+import { positionsFor, ordinal } from "@/lib/standings";
 
 async function allViews() {
   const snapshot = await getProvider().getSnapshot();
@@ -95,6 +96,32 @@ export default async function MatchPage({ params }: { params: Promise<{ id: stri
               </div>
             )}
           </dl>
+          {(() => {
+            const ph = positionsFor(m.home.id, m.competition.id);
+            const pa = positionsFor(m.away.id, m.competition.id);
+            if (!ph.length && !pa.length) return null;
+            const fmt = (ps: typeof ph) => ps.map((p) => `${ordinal(p.pos)} ${p.label}${p.pts ? ` (${p.pts} pts)` : ""}`).join(" · ");
+            return (
+              <div className="mt-4 grid gap-2 sm:grid-cols-2">
+                {[
+                  { t: m.home, ps: ph },
+                  { t: m.away, ps: pa },
+                ].map(({ t, ps }) => (
+                  <Link
+                    key={t.id}
+                    href="/tablas/"
+                    className="flex items-center gap-3 rounded-2xl border border-line bg-white/4 px-3 py-2.5 text-[13px] hover:border-neon/40"
+                  >
+                    <Crest team={t} size={28} />
+                    <span className="min-w-0">
+                      <span className="block truncate font-semibold">{t.shortName}</span>
+                      <span className="block text-[12px] text-muted">{ps.length ? fmt(ps) : "Sin posición en tabla"}</span>
+                    </span>
+                  </Link>
+                ))}
+              </div>
+            );
+          })()}
           {m.featuredBlurb && <p className="mt-4 text-[14px] leading-relaxed text-fg-2">{m.featuredBlurb}</p>}
           {m.status === "live" && (
             <p className="mt-3 text-[11px] text-rose">

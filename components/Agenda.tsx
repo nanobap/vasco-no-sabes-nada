@@ -226,10 +226,6 @@ export function Agenda({ matches, meta, defaultToday }: Props) {
           changeDay(today);
           setQuery("");
         }}
-        onSearch={() => {
-          searchRef.current?.scrollIntoView({ behavior: "smooth", block: "center" });
-          window.setTimeout(() => searchRef.current?.focus(), 350);
-        }}
         onShare={share}
         onVasco={() => setIntro(true)}
       />

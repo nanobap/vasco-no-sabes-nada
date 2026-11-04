@@ -1,0 +1,4930 @@
+{
+  "fetchedAtUtc": "2026-11-04T13:30:10.175Z",
+  "source": "Wikipedia (es), CC BY-SA 4.0",
+  "tables": [
+    {
+      "key": "uru-anual",
+      "competitionId": "uruguay",
+      "group": "Campeonato Uruguayo 2026",
+      "label": "Tabla anual",
+      "heading": "Tabla anual",
+      "headers": [
+        "Pos",
+        "Equipo",
+        "Pts",
+        "PJ",
+        "G",
+        "E",
+        "P",
+        "GF",
+        "GC",
+        "Dif",
+        ""
+      ],
+      "rows": [
+        {
+          "pos": 1,
+          "team": "Peñarol",
+          "teamId": "penarol",
+          "pts": "65",
+          "pj": "35",
+          "dif": "+24",
+          "values": {
+            "Pts": "65",
+            "PJ": "35",
+            "G": "19",
+            "E": "9",
+            "P": "7",
+            "GF": "52",
+            "GC": "28",
+            "Dif": "+24"
+          }
+        },
+        {
+          "pos": 2,
+          "team": "Deportivo Maldonado",
+          "teamId": null,
+          "pts": "63",
+          "pj": "35",
+          "dif": "+22",
+          "values": {
+            "Pts": "63",
+            "PJ": "35",
+            "G": "18",
+            "E": "9",
+            "P": "8",
+            "GF": "54",
+            "GC": "32",
+            "Dif": "+22"
+          }
+        },
+        {
+          "pos": 3,
+          "team": "Montevideo City",
+          "teamId": "torque",
+          "pts": "63",
+          "pj": "35",
+          "dif": "+18",
+          "values": {
+            "Pts": "63",
+            "PJ": "35",
+            "G": "19",
+            "E": "6",
+            "P": "10",
+            "GF": "59",
+            "GC": "41",
+            "Dif": "+18"
+          }
+        },
+        {
+          "pos": 4,
+          "team": "Nacional",
+          "teamId": "nacional",
+          "pts": "61",
+          "pj": "35",
+          "dif": "+11",
+          "values": {
+            "Pts": "61",
+            "PJ": "35",
+            "G": "19",
+            "E": "4",
+            "P": "12",
+            "GF": "53",
+            "GC": "42",
+            "Dif": "+11"
+          }
+        },
+        {
+          "pos": 5,
+          "team": "Racing",
+          "teamId": null,
+          "pts": "60",
+          "pj": "35",
+          "dif": "+14",
+          "values": {
+            "Pts": "60",
+            "PJ": "35",
+            "G": "16",
+            "E": "12",
+            "P": "7",
+            "GF": "45",
+            "GC": "31",
+            "Dif": "+14"
+          }
+        },
+        {
+          "pos": 6,
+          "team": "Liverpool",
+          "teamId": "liverpool-uru",
+          "pts": "59",
+          "pj": "35",
+          "dif": "+16",
+          "values": {
+            "Pts": "59",
+            "PJ": "35",
+            "G": "16",
+            "E": "11",
+            "P": "8",
+            "GF": "47",
+            "GC": "31",
+            "Dif": "+16"
+          }
+        },
+        {
+          "pos": 7,
+          "team": "Montevideo Wanderers",
+          "teamId": "wanderers",
+          "pts": "51",
+          "pj": "35",
+          "dif": "−2",
+          "values": {
+            "Pts": "51",
+            "PJ": "35",
+            "G": "14",
+            "E": "9",
+            "P": "12",
+            "GF": "42",
+            "GC": "44",
+            "Dif": "−2"
+          }
+        },
+        {
+          "pos": 8,
+          "team": "Albion",
+          "teamId": null,
+          "pts": "47",
+          "pj": "35",
+          "dif": "+3",
+          "values": {
+            "Pts": "47",
+            "PJ": "35",
+            "G": "13",
+            "E": "8",
+            "P": "14",
+            "GF": "47",
+            "GC": "44",
+            "Dif": "+3"
+          }
+        },
+        {
+          "pos": 9,
+          "team": "Juventud",
+          "teamId": null,
+          "pts": "41",
+          "pj": "35",
+          "dif": "−6",
+          "values": {
+            "Pts": "41",
+            "PJ": "35",
+            "G": "10",
+            "E": "11",
+            "P": "14",
+            "GF": "37",
+            "GC": "43",
+            "Dif": "−6"
+          }
+        },
+        {
+          "pos": 10,
+          "team": "Central Español",
+          "teamId": null,
+          "pts": "41",
+          "pj": "35",
+          "dif": "−13",
+          "values": {
+            "Pts": "41",
+            "PJ": "35",
+            "G": "11",
+            "E": "8",
+            "P": "16",
+            "GF": "35",
+            "GC": "48",
+            "Dif": "−13"
+          }
+        },
+        {
+          "pos": 11,
+          "team": "Defensor Sporting",
+          "teamId": null,
+          "pts": "39",
+          "pj": "35",
+          "dif": "−8",
+          "values": {
+            "Pts": "39",
+            "PJ": "35",
+            "G": "9",
+            "E": "12",
+            "P": "14",
+            "GF": "35",
+            "GC": "43",
+            "Dif": "−8"
+          }
+        },
+        {
+          "pos": 12,
+          "team": "Cerro Largo",
+          "teamId": null,
+          "pts": "37",
+          "pj": "35",
+          "dif": "−8",
+          "values": {
+            "Pts": "37",
+            "PJ": "35",
+            "G": "9",
+            "E": "10",
+            "P": "16",
+            "GF": "33",
+            "GC": "41",
+            "Dif": "−8"
+          }
+        },
+        {
+          "pos": 13,
+          "team": "Boston River",
+          "teamId": "boston-river",
+          "pts": "37",
+          "pj": "35",
+          "dif": "−13",
+          "values": {
+            "Pts": "37",
+            "PJ": "35",
+            "G": "10",
+            "E": "7",
+            "P": "18",
+            "GF": "34",
+            "GC": "47",
+            "Dif": "−13"
+          }
+        },
+        {
+          "pos": 14,
+          "team": "Cerro",
+          "teamId": null,
+          "pts": "36",
+          "pj": "35",
+          "dif": "−24",
+          "values": {
+            "Pts": "36",
+            "PJ": "35",
+            "G": "10",
+            "E": "7",
+            "P": "18",
+            "GF": "29",
+            "GC": "53",
+            "Dif": "−24"
+          }
+        },
+        {
+          "pos": 15,
+          "team": "Progreso",
+          "teamId": null,
+          "pts": "35",
+          "pj": "35",
+          "dif": "−18",
+          "values": {
+            "Pts": "35",
+            "PJ": "35",
+            "G": "10",
+            "E": "5",
+            "P": "20",
+            "GF": "31",
+            "GC": "49",
+            "Dif": "−18"
+          }
+        },
+        {
+          "pos": 16,
+          "team": "Danubio",
+          "teamId": null,
+          "pts": "32",
+          "pj": "35",
+          "dif": "−16",
+          "values": {
+            "Pts": "32",
+            "PJ": "35",
+            "G": "6",
+            "E": "14",
+            "P": "15",
+            "GF": "29",
+            "GC": "45",
+            "Dif": "−16"
+          }
+        }
+      ],
+      "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
+      "revision": 176130831
+    },
+    {
+      "key": "uru-clausura",
+      "competitionId": "uruguay",
+      "group": "Campeonato Uruguayo 2026",
+      "label": "Clausura",
+      "heading": "Torneo Clausura - \"Juan Lema Benso\"",
+      "headers": [
+        "Pos",
+        "Equipo",
+        "Pts",
+        "PJ",
+        "G",
+        "E",
+        "P",
+        "GF",
+        "GC",
+        "Dif",
+        ""
+      ],
+      "rows": [
+        {
+          "pos": 1,
+          "team": "Liverpool",
+          "teamId": "liverpool-uru",
+          "pts": "30",
+          "pj": "13",
+          "dif": "+14",
+          "values": {
+            "Pts": "30",
+            "PJ": "13",
+            "G": "9",
+            "E": "3",
+            "P": "1",
+            "GF": "22",
+            "GC": "8",
+            "Dif": "+14"
+          }
+        },
+        {
+          "pos": 2,
+          "team": "Montevideo City",
+          "teamId": "torque",
+          "pts": "28",
+          "pj": "13",
+          "dif": "+12",
+          "values": {
+            "Pts": "28",
+            "PJ": "13",
+            "G": "9",
+            "E": "1",
+            "P": "3",
+            "GF": "26",
+            "GC": "14",
+            "Dif": "+12"
+          }
+        },
+        {
+          "pos": 3,
+          "team": "Nacional",
+          "teamId": "nacional",
+          "pts": "26",
+          "pj": "13",
+          "dif": "+6",
+          "values": {
+            "Pts": "26",
+            "PJ": "13",
+            "G": "8",
+            "E": "2",
+            "P": "3",
+            "GF": "19",
+            "GC": "13",
+            "Dif": "+6"
+          }
+        },
+        {
+          "pos": 4,
+          "team": "Deportivo Maldonado",
+          "teamId": null,
+          "pts": "22",
+          "pj": "13",
+          "dif": "+8",
+          "values": {
+            "Pts": "22",
+            "PJ": "13",
+            "G": "6",
+            "E": "4",
+            "P": "3",
+            "GF": "18",
+            "GC": "10",
+            "Dif": "+8"
+          }
+        },
+        {
+          "pos": 5,
+          "team": "Peñarol",
+          "teamId": "penarol",
+          "pts": "22",
+          "pj": "13",
+          "dif": "+8",
+          "values": {
+            "Pts": "22",
+            "PJ": "13",
+            "G": "6",
+            "E": "5",
+            "P": "2",
+            "GF": "17",
+            "GC": "9",
+            "Dif": "+8"
+          }
+        },
+        {
+          "pos": 6,
+          "team": "Racing",
+          "teamId": null,
+          "pts": "19",
+          "pj": "13",
+          "dif": "+4",
+          "values": {
+            "Pts": "19",
+            "PJ": "13",
+            "G": "5",
+            "E": "4",
+            "P": "4",
+            "GF": "18",
+            "GC": "14",
+            "Dif": "+4"
+          }
+        },
+        {
+          "pos": 7,
+          "team": "Progreso",
+          "teamId": null,
+          "pts": "19",
+          "pj": "13",
+          "dif": "−2",
+          "values": {
+            "Pts": "19",
+            "PJ": "13",
+            "G": "6",
+            "E": "1",
+            "P": "6",
+            "GF": "13",
+            "GC": "15",
+            "Dif": "−2"
+          }
+        },
+        {
+          "pos": 8,
+          "team": "Juventud",
+          "teamId": null,
+          "pts": "18",
+          "pj": "13",
+          "dif": "+2",
+          "values": {
+            "Pts": "18",
+            "PJ": "13",
+            "G": "4",
+            "E": "6",
+            "P": "3",
+            "GF": "12",
+            "GC": "10",
+            "Dif": "+2"
+          }
+        },
+        {
+          "pos": 9,
+          "team": "Cerro",
+          "teamId": null,
+          "pts": "18",
+          "pj": "13",
+          "dif": "−4",
+          "values": {
+            "Pts": "18",
+            "PJ": "13",
+            "G": "5",
+            "E": "3",
+            "P": "5",
+            "GF": "15",
+            "GC": "19",
+            "Dif": "−4"
+          }
+        },
+        {
+          "pos": 10,
+          "team": "Montevideo Wanderers",
+          "teamId": "wanderers",
+          "pts": "16",
+          "pj": "13",
+          "dif": "−5",
+          "values": {
+            "Pts": "16",
+            "PJ": "13",
+            "G": "4",
+            "E": "4",
+            "P": "5",
+            "GF": "14",
+            "GC": "19",
+            "Dif": "−5"
+          }
+        },
+        {
+          "pos": 11,
+          "team": "Boston River",
+          "teamId": "boston-river",
+          "pts": "15",
+          "pj": "13",
+          "dif": "−2",
+          "values": {
+            "Pts": "15",
+            "PJ": "13",
+            "G": "4",
+            "E": "3",
+            "P": "6",
+            "GF": "15",
+            "GC": "17",
+            "Dif": "−2"
+          }
+        },
+        {
+          "pos": 12,
+          "team": "Albion",
+          "teamId": null,
+          "pts": "13",
+          "pj": "13",
+          "dif": "−5",
+          "values": {
+            "Pts": "13",
+            "PJ": "13",
+            "G": "4",
+            "E": "1",
+            "P": "8",
+            "GF": "15",
+            "GC": "20",
+            "Dif": "−5"
+          }
+        },
+        {
+          "pos": 13,
+          "team": "Defensor Sporting",
+          "teamId": null,
+          "pts": "12",
+          "pj": "13",
+          "dif": "−7",
+          "values": {
+            "Pts": "12",
+            "PJ": "13",
+            "G": "3",
+            "E": "3",
+            "P": "7",
+            "GF": "16",
+            "GC": "23",
+            "Dif": "−7"
+          }
+        },
+        {
+          "pos": 14,
+          "team": "Danubio",
+          "teamId": null,
+          "pts": "10",
+          "pj": "13",
+          "dif": "−8",
+          "values": {
+            "Pts": "10",
+            "PJ": "13",
+            "G": "2",
+            "E": "4",
+            "P": "7",
+            "GF": "7",
+            "GC": "15",
+            "Dif": "−8"
+          }
+        },
+        {
+          "pos": 15,
+          "team": "Cerro Largo",
+          "teamId": null,
+          "pts": "9",
+          "pj": "13",
+          "dif": "−7",
+          "values": {
+            "Pts": "9",
+            "PJ": "13",
+            "G": "1",
+            "E": "6",
+            "P": "6",
+            "GF": "10",
+            "GC": "17",
+            "Dif": "−7"
+          }
+        },
+        {
+          "pos": 16,
+          "team": "Central Español",
+          "teamId": null,
+          "pts": "8",
+          "pj": "13",
+          "dif": "−14",
+          "values": {
+            "Pts": "8",
+            "PJ": "13",
+            "G": "2",
+            "E": "2",
+            "P": "9",
+            "GF": "8",
+            "GC": "22",
+            "Dif": "−14"
+          }
+        }
+      ],
+      "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
+      "revision": 176130831
+    },
+    {
+      "key": "uru-apertura",
+      "competitionId": "uruguay",
+      "group": "Campeonato Uruguayo 2026",
+      "label": "Apertura",
+      "heading": "Torneo Apertura - \"Rafael Peña\"",
+      "headers": [
+        "Pos",
+        "Equipo",
+        "Pts",
+        "PJ",
+        "G",
+        "E",
+        "P",
+        "GF",
+        "GC",
+        "Dif",
+        ""
+      ],
+      "rows": [
+        {
+          "pos": 1,
+          "team": "Racing",
+          "teamId": null,
+          "pts": "31",
+          "pj": "15",
+          "dif": "+9",
+          "values": {
+            "Pts": "31",
+            "PJ": "15",
+            "G": "9",
+            "E": "4",
+            "P": "2",
+            "GF": "23",
+            "GC": "14",
+            "Dif": "+9"
+          }
+        },
+        {
+          "pos": 2,
+          "team": "Deportivo Maldonado",
+          "teamId": null,
+          "pts": "29",
+          "pj": "15",
+          "dif": "+8",
+          "values": {
+            "Pts": "29",
+            "PJ": "15",
+            "G": "9",
+            "E": "2",
+            "P": "4",
+            "GF": "24",
+            "GC": "16",
+            "Dif": "+8"
+          }
+        },
+        {
+          "pos": 3,
+          "team": "Albion",
+          "teamId": null,
+          "pts": "28",
+          "pj": "15",
+          "dif": "+10",
+          "values": {
+            "Pts": "28",
+            "PJ": "15",
+            "G": "8",
+            "E": "4",
+            "P": "3",
+            "GF": "26",
+            "GC": "16",
+            "Dif": "+10"
+          }
+        },
+        {
+          "pos": 4,
+          "team": "Peñarol",
+          "teamId": "penarol",
+          "pts": "27",
+          "pj": "15",
+          "dif": "+7",
+          "values": {
+            "Pts": "27",
+            "PJ": "15",
+            "G": "8",
+            "E": "3",
+            "P": "4",
+            "GF": "23",
+            "GC": "16",
+            "Dif": "+7"
+          }
+        },
+        {
+          "pos": 5,
+          "team": "Central Español",
+          "teamId": null,
+          "pts": "24",
+          "pj": "15",
+          "dif": "+1",
+          "values": {
+            "Pts": "24",
+            "PJ": "15",
+            "G": "7",
+            "E": "3",
+            "P": "5",
+            "GF": "23",
+            "GC": "22",
+            "Dif": "+1"
+          }
+        },
+        {
+          "pos": 6,
+          "team": "Montevideo City",
+          "teamId": "torque",
+          "pts": "23",
+          "pj": "15",
+          "dif": "+6",
+          "values": {
+            "Pts": "23",
+            "PJ": "15",
+            "G": "6",
+            "E": "5",
+            "P": "4",
+            "GF": "22",
+            "GC": "16",
+            "Dif": "+6"
+          }
+        },
+        {
+          "pos": 7,
+          "team": "Nacional",
+          "teamId": "nacional",
+          "pts": "22",
+          "pj": "15",
+          "dif": "+5",
+          "values": {
+            "Pts": "22",
+            "PJ": "15",
+            "G": "7",
+            "E": "1",
+            "P": "7",
+            "GF": "26",
+            "GC": "21",
+            "Dif": "+5"
+          }
+        },
+        {
+          "pos": 8,
+          "team": "Defensor Sporting",
+          "teamId": null,
+          "pts": "21",
+          "pj": "15",
+          "dif": "+2",
+          "values": {
+            "Pts": "21",
+            "PJ": "15",
+            "G": "5",
+            "E": "6",
+            "P": "4",
+            "GF": "13",
+            "GC": "11",
+            "Dif": "+2"
+          }
+        },
+        {
+          "pos": 9,
+          "team": "Liverpool",
+          "teamId": "liverpool-uru",
+          "pts": "20",
+          "pj": "15",
+          "dif": "+2",
+          "values": {
+            "Pts": "20",
+            "PJ": "15",
+            "G": "5",
+            "E": "5",
+            "P": "5",
+            "GF": "20",
+            "GC": "18",
+            "Dif": "+2"
+          }
+        },
+        {
+          "pos": 10,
+          "team": "Montevideo Wanderers",
+          "teamId": "wanderers",
+          "pts": "20",
+          "pj": "15",
+          "dif": "−5",
+          "values": {
+            "Pts": "20",
+            "PJ": "15",
+            "G": "6",
+            "E": "2",
+            "P": "7",
+            "GF": "16",
+            "GC": "21",
+            "Dif": "−5"
+          }
+        },
+        {
+          "pos": 11,
+          "team": "Danubio",
+          "teamId": null,
+          "pts": "18",
+          "pj": "15",
+          "dif": "−4",
+          "values": {
+            "Pts": "18",
+            "PJ": "15",
+            "G": "4",
+            "E": "6",
+            "P": "5",
+            "GF": "17",
+            "GC": "21",
+            "Dif": "−4"
+          }
+        },
+        {
+          "pos": 12,
+          "team": "Cerro Largo",
+          "teamId": null,
+          "pts": "17",
+          "pj": "15",
+          "dif": "−3",
+          "values": {
+            "Pts": "17",
+            "PJ": "15",
+            "G": "5",
+            "E": "2",
+            "P": "8",
+            "GF": "16",
+            "GC": "19",
+            "Dif": "−3"
+          }
+        },
+        {
+          "pos": 13,
+          "team": "Boston River",
+          "teamId": "boston-river",
+          "pts": "17",
+          "pj": "15",
+          "dif": "−6",
+          "values": {
+            "Pts": "17",
+            "PJ": "15",
+            "G": "5",
+            "E": "2",
+            "P": "8",
+            "GF": "14",
+            "GC": "20",
+            "Dif": "−6"
+          }
+        },
+        {
+          "pos": 14,
+          "team": "Juventud",
+          "teamId": null,
+          "pts": "15",
+          "pj": "15",
+          "dif": "−5",
+          "values": {
+            "Pts": "15",
+            "PJ": "15",
+            "G": "4",
+            "E": "3",
+            "P": "8",
+            "GF": "17",
+            "GC": "22",
+            "Dif": "−5"
+          }
+        },
+        {
+          "pos": 15,
+          "team": "Progreso",
+          "teamId": null,
+          "pts": "10",
+          "pj": "15",
+          "dif": "−11",
+          "values": {
+            "Pts": "10",
+            "PJ": "15",
+            "G": "2",
+            "E": "4",
+            "P": "9",
+            "GF": "12",
+            "GC": "23",
+            "Dif": "−11"
+          }
+        },
+        {
+          "pos": 16,
+          "team": "Cerro",
+          "teamId": null,
+          "pts": "10",
+          "pj": "15",
+          "dif": "−16",
+          "values": {
+            "Pts": "10",
+            "PJ": "15",
+            "G": "2",
+            "E": "4",
+            "P": "9",
+            "GF": "8",
+            "GC": "24",
+            "Dif": "−16"
+          }
+        }
+      ],
+      "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
+      "revision": 176130831
+    },
+    {
+      "key": "uru-descenso",
+      "competitionId": "uruguay",
+      "group": "Campeonato Uruguayo 2026",
+      "label": "Descenso",
+      "heading": "Tabla del descenso",
+      "headers": [
+        "Pos",
+        "Equipo",
+        "PJ 2025",
+        "PTS 2025",
+        "PJ 2026",
+        "PTS 2026",
+        "PJ",
+        "PTS",
+        "DG",
+        "Prom"
+      ],
+      "rows": [
+        {
+          "pos": 1,
+          "team": "Peñarol",
+          "teamId": "penarol",
+          "pts": "143",
+          "pj": "72",
+          "dif": "+56",
+          "values": {
+            "PJ 2025": "37",
+            "PTS 2025": "78",
+            "PJ 2026": "35",
+            "PTS 2026": "65",
+            "PJ": "72",
+            "PTS": "143",
+            "DG": "+56",
+            "Prom": "1,986"
+          }
+        },
+        {
+          "pos": 2,
+          "team": "Nacional",
+          "teamId": "nacional",
+          "pts": "140",
+          "pj": "72",
+          "dif": "+54",
+          "values": {
+            "PJ 2025": "37",
+            "PTS 2025": "79",
+            "PJ 2026": "35",
+            "PTS 2026": "61",
+            "PJ": "72",
+            "PTS": "140",
+            "DG": "+54",
+            "Prom": "1,944"
+          }
+        },
+        {
+          "pos": 3,
+          "team": "Deportivo Maldonado",
+          "teamId": null,
+          "pts": "63",
+          "pj": "35",
+          "dif": "+22",
+          "values": {
+            "PJ 2025": "–",
+            "PTS 2025": "–",
+            "PJ 2026": "35",
+            "PTS 2026": "63",
+            "PJ": "35",
+            "PTS": "63",
+            "DG": "+22",
+            "Prom": "1,800"
+          }
+        },
+        {
+          "pos": 4,
+          "team": "Liverpool",
+          "teamId": "liverpool-uru",
+          "pts": "124",
+          "pj": "72",
+          "dif": "+29",
+          "values": {
+            "PJ 2025": "37",
+            "PTS 2025": "65",
+            "PJ 2026": "35",
+            "PTS 2026": "59",
+            "PJ": "72",
+            "PTS": "124",
+            "DG": "+29",
+            "Prom": "1,722"
+          }
+        },
+        {
+          "pos": 5,
+          "team": "Racing",
+          "teamId": null,
+          "pts": "113",
+          "pj": "72",
+          "dif": "+15",
+          "values": {
+            "PJ 2025": "37",
+            "PTS 2025": "53",
+            "PJ 2026": "35",
+            "PTS 2026": "60",
+            "PJ": "72",
+            "PTS": "113",
+            "DG": "+15",
+            "Prom": "1,569"
+          }
+        },
+        {
+          "pos": 6,
+          "team": "Montevideo City",
+          "teamId": "torque",
+          "pts": "112",
+          "pj": "72",
+          "dif": "+19",
+          "values": {
+            "PJ 2025": "37",
+            "PTS 2025": "49",
+            "PJ 2026": "35",
+            "PTS 2026": "63",
+            "PJ": "72",
+            "PTS": "112",
+            "DG": "+19",
+            "Prom": "1,556"
+          }
+        },
+        {
+          "pos": 7,
+          "team": "Juventud",
+          "teamId": null,
+          "pts": "102",
+          "pj": "72",
+          "dif": "0",
+          "values": {
+            "PJ 2025": "37",
+            "PTS 2025": "61",
+            "PJ 2026": "35",
+            "PTS 2026": "41",
+            "PJ": "72",
+            "PTS": "102",
+            "DG": "0",
+            "Prom": "1,417"
+          }
+        },
+        {
+          "pos": 8,
+          "team": "Defensor Sporting",
+          "teamId": null,
+          "pts": "100",
+          "pj": "72",
+          "dif": "−4",
+          "values": {
+            "PJ 2025": "37",
+            "PTS 2025": "61",
+            "PJ 2026": "35",
+            "PTS 2026": "39",
+            "PJ": "72",
+            "PTS": "100",
+            "DG": "−4",
+            "Prom": "1,389"
+          }
+        },
+        {
+          "pos": 9,
+          "team": "Albion",
+          "teamId": null,
+          "pts": "47",
+          "pj": "35",
+          "dif": "+3",
+          "values": {
+            "PJ 2025": "–",
+            "PTS 2025": "–",
+            "PJ 2026": "35",
+            "PTS 2026": "47",
+            "PJ": "35",
+            "PTS": "47",
+            "DG": "+3",
+            "Prom": "1,343"
+          }
+        },
+        {
+          "pos": 10,
+          "team": "Boston River",
+          "teamId": "boston-river",
+          "pts": "92",
+          "pj": "72",
+          "dif": "−2",
+          "values": {
+            "PJ 2025": "37",
+            "PTS 2025": "55",
+            "PJ 2026": "35",
+            "PTS 2026": "37",
+            "PJ": "72",
+            "PTS": "92",
+            "DG": "−2",
+            "Prom": "1,278"
+          }
+        },
+        {
+          "pos": 11,
+          "team": "Cerro Largo",
+          "teamId": null,
+          "pts": "86",
+          "pj": "72",
+          "dif": "−6",
+          "values": {
+            "PJ 2025": "37",
+            "PTS 2025": "49",
+            "PJ 2026": "35",
+            "PTS 2026": "37",
+            "PJ": "72",
+            "PTS": "86",
+            "DG": "−6",
+            "Prom": "1,194"
+          }
+        },
+        {
+          "pos": 12,
+          "team": "Central Español",
+          "teamId": null,
+          "pts": "41",
+          "pj": "35",
+          "dif": "−13",
+          "values": {
+            "PJ 2025": "–",
+            "PTS 2025": "–",
+            "PJ 2026": "35",
+            "PTS 2026": "41",
+            "PJ": "35",
+            "PTS": "41",
+            "DG": "−13",
+            "Prom": "1,171"
+          }
+        },
+        {
+          "pos": 13,
+          "team": "Montevideo Wanderers",
+          "teamId": "wanderers",
+          "pts": "82",
+          "pj": "72",
+          "dif": "−25",
+          "values": {
+            "PJ 2025": "37",
+            "PTS 2025": "31",
+            "PJ 2026": "35",
+            "PTS 2026": "51",
+            "PJ": "72",
+            "PTS": "82",
+            "DG": "−25",
+            "Prom": "1,139"
+          }
+        },
+        {
+          "pos": 14,
+          "team": "Cerro",
+          "teamId": null,
+          "pts": "82",
+          "pj": "72",
+          "dif": "−34",
+          "values": {
+            "PJ 2025": "37",
+            "PTS 2025": "46",
+            "PJ 2026": "35",
+            "PTS 2026": "36",
+            "PJ": "72",
+            "PTS": "82",
+            "DG": "−34",
+            "Prom": "1,139"
+          }
+        },
+        {
+          "pos": 15,
+          "team": "Danubio",
+          "teamId": null,
+          "pts": "75",
+          "pj": "72",
+          "dif": "−17",
+          "values": {
+            "PJ 2025": "37",
+            "PTS 2025": "43",
+            "PJ 2026": "35",
+            "PTS 2026": "32",
+            "PJ": "72",
+            "PTS": "75",
+            "DG": "−17",
+            "Prom": "1,042"
+          }
+        },
+        {
+          "pos": 16,
+          "team": "Progreso",
+          "teamId": null,
+          "pts": "74",
+          "pj": "72",
+          "dif": "−40",
+          "values": {
+            "PJ 2025": "37",
+            "PTS 2025": "39",
+            "PJ 2026": "35",
+            "PTS 2026": "35",
+            "PJ": "72",
+            "PTS": "74",
+            "DG": "−40",
+            "Prom": "1,028"
+          }
+        }
+      ],
+      "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
+      "revision": 176130831
+    },
+    {
+      "key": "ucl-liga",
+      "competitionId": "ucl",
+      "group": "Champions League 2026-27",
+      "label": "Fase liga",
+      "heading": "Clasificación",
+      "headers": [
+        "Pos",
+        "Equipo",
+        "Pts",
+        "PJ",
+        "G",
+        "E",
+        "P",
+        "GF",
+        "GC",
+        "Dif",
+        "Clasificación"
+      ],
+      "rows": [
+        {
+          "pos": 1,
+          "team": "Paris Saint Germain",
+          "teamId": "psg",
+          "pts": "12",
+          "pj": "4",
+          "dif": "+15",
+          "values": {
+            "Pts": "12",
+            "PJ": "4",
+            "G": "4",
+            "E": "0",
+            "P": "0",
+            "GF": "20",
+            "GC": "5",
+            "Dif": "+15",
+            "Clasificación": "Clasificado a los octavos de final"
+          }
+        },
+        {
+          "pos": 2,
+          "team": "Barcelona",
+          "teamId": "barcelona",
+          "pts": "9",
+          "pj": "4",
+          "dif": "+8",
+          "values": {
+            "Pts": "9",
+            "PJ": "4",
+            "G": "3",
+            "E": "0",
+            "P": "1",
+            "GF": "14",
+            "GC": "6",
+            "Dif": "+8",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 3,
+          "team": "Aston Villa",
+          "teamId": "aston-villa",
+          "pts": "9",
+          "pj": "4",
+          "dif": "+6",
+          "values": {
+            "Pts": "9",
+            "PJ": "4",
+            "G": "3",
+            "E": "0",
+            "P": "1",
+            "GF": "12",
+            "GC": "6",
+            "Dif": "+6",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 4,
+          "team": "Liverpool",
+          "teamId": "liverpool-eng",
+          "pts": "9",
+          "pj": "3",
+          "dif": "+5",
+          "values": {
+            "Pts": "9",
+            "PJ": "3",
+            "G": "3",
+            "E": "0",
+            "P": "0",
+            "GF": "12",
+            "GC": "7",
+            "Dif": "+5",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 5,
+          "team": "Real Madrid",
+          "teamId": "real-madrid",
+          "pts": "9",
+          "pj": "3",
+          "dif": "+5",
+          "values": {
+            "Pts": "9",
+            "PJ": "3",
+            "G": "3",
+            "E": "0",
+            "P": "0",
+            "GF": "10",
+            "GC": "5",
+            "Dif": "+5",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 6,
+          "team": "Sporting Lisboa",
+          "teamId": null,
+          "pts": "9",
+          "pj": "4",
+          "dif": "+4",
+          "values": {
+            "Pts": "9",
+            "PJ": "4",
+            "G": "3",
+            "E": "0",
+            "P": "1",
+            "GF": "8",
+            "GC": "4",
+            "Dif": "+4",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 7,
+          "team": "Real Betis",
+          "teamId": "betis",
+          "pts": "9",
+          "pj": "3",
+          "dif": "+3",
+          "values": {
+            "Pts": "9",
+            "PJ": "3",
+            "G": "3",
+            "E": "0",
+            "P": "0",
+            "GF": "7",
+            "GC": "4",
+            "Dif": "+3",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 8,
+          "team": "Bayern Múnich",
+          "teamId": "bayern",
+          "pts": "8",
+          "pj": "4",
+          "dif": "+7",
+          "values": {
+            "Pts": "8",
+            "PJ": "4",
+            "G": "2",
+            "E": "2",
+            "P": "0",
+            "GF": "12",
+            "GC": "5",
+            "Dif": "+7",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 9,
+          "team": "Arsenal",
+          "teamId": "arsenal",
+          "pts": "7",
+          "pj": "3",
+          "dif": "+4",
+          "values": {
+            "Pts": "7",
+            "PJ": "3",
+            "G": "2",
+            "E": "1",
+            "P": "0",
+            "GF": "6",
+            "GC": "2",
+            "Dif": "+4",
+            "Clasificación": "Clasificado a la ronda preliminar (cabeza de serie)"
+          }
+        },
+        {
+          "pos": 10,
+          "team": "Stuttgart",
+          "teamId": "stuttgart",
+          "pts": "7",
+          "pj": "4",
+          "dif": "+3",
+          "values": {
+            "Pts": "7",
+            "PJ": "4",
+            "G": "2",
+            "E": "1",
+            "P": "1",
+            "GF": "7",
+            "GC": "4",
+            "Dif": "+3",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 11,
+          "team": "Como",
+          "teamId": "como",
+          "pts": "6",
+          "pj": "3",
+          "dif": "+5",
+          "values": {
+            "Pts": "6",
+            "PJ": "3",
+            "G": "2",
+            "E": "0",
+            "P": "1",
+            "GF": "10",
+            "GC": "5",
+            "Dif": "+5",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 12,
+          "team": "Manchester City",
+          "teamId": "manchester-city",
+          "pts": "6",
+          "pj": "3",
+          "dif": "+4",
+          "values": {
+            "Pts": "6",
+            "PJ": "3",
+            "G": "2",
+            "E": "0",
+            "P": "1",
+            "GF": "9",
+            "GC": "5",
+            "Dif": "+4",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 13,
+          "team": "Brujas",
+          "teamId": "brugge",
+          "pts": "6",
+          "pj": "3",
+          "dif": "+3",
+          "values": {
+            "Pts": "6",
+            "PJ": "3",
+            "G": "2",
+            "E": "0",
+            "P": "1",
+            "GF": "9",
+            "GC": "6",
+            "Dif": "+3",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 14,
+          "team": "Inter Milán",
+          "teamId": null,
+          "pts": "6",
+          "pj": "4",
+          "dif": "+2",
+          "values": {
+            "Pts": "6",
+            "PJ": "4",
+            "G": "2",
+            "E": "0",
+            "P": "2",
+            "GF": "8",
+            "GC": "6",
+            "Dif": "+2",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 15,
+          "team": "LASK Linz",
+          "teamId": "lask",
+          "pts": "6",
+          "pj": "4",
+          "dif": "+1",
+          "values": {
+            "Pts": "6",
+            "PJ": "4",
+            "G": "2",
+            "E": "0",
+            "P": "2",
+            "GF": "10",
+            "GC": "9",
+            "Dif": "+1",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 16,
+          "team": "Borussia Dortmund",
+          "teamId": "dortmund",
+          "pts": "6",
+          "pj": "3",
+          "dif": "+1",
+          "values": {
+            "Pts": "6",
+            "PJ": "3",
+            "G": "2",
+            "E": "0",
+            "P": "1",
+            "GF": "5",
+            "GC": "4",
+            "Dif": "+1",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 17,
+          "team": "Manchester United",
+          "teamId": "manchester-united",
+          "pts": "6",
+          "pj": "4",
+          "dif": "0",
+          "values": {
+            "Pts": "6",
+            "PJ": "4",
+            "G": "2",
+            "E": "0",
+            "P": "2",
+            "GF": "8",
+            "GC": "8",
+            "Dif": "0",
+            "Clasificación": "Clasificado a la ronda preliminar (no cabeza de serie)"
+          }
+        },
+        {
+          "pos": 18,
+          "team": "Galatasaray",
+          "teamId": "galatasaray",
+          "pts": "6",
+          "pj": "4",
+          "dif": "−1",
+          "values": {
+            "Pts": "6",
+            "PJ": "4",
+            "G": "2",
+            "E": "0",
+            "P": "2",
+            "GF": "8",
+            "GC": "9",
+            "Dif": "−1",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 19,
+          "team": "Roma",
+          "teamId": "roma",
+          "pts": "4",
+          "pj": "4",
+          "dif": "+2",
+          "values": {
+            "Pts": "4",
+            "PJ": "4",
+            "G": "1",
+            "E": "1",
+            "P": "2",
+            "GF": "10",
+            "GC": "8",
+            "Dif": "+2",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 20,
+          "team": "Shakhtar Donetsk",
+          "teamId": "shakhtar",
+          "pts": "4",
+          "pj": "4",
+          "dif": "0",
+          "values": {
+            "Pts": "4",
+            "PJ": "4",
+            "G": "1",
+            "E": "1",
+            "P": "2",
+            "GF": "4",
+            "GC": "4",
+            "Dif": "0",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 21,
+          "team": "PSV Eindhoven",
+          "teamId": "psv",
+          "pts": "4",
+          "pj": "3",
+          "dif": "0",
+          "values": {
+            "Pts": "4",
+            "PJ": "3",
+            "G": "1",
+            "E": "1",
+            "P": "1",
+            "GF": "2",
+            "GC": "2",
+            "Dif": "0",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 22,
+          "team": "Atlético de Madrid",
+          "teamId": "atletico-madrid",
+          "pts": "4",
+          "pj": "4",
+          "dif": "−1",
+          "values": {
+            "Pts": "4",
+            "PJ": "4",
+            "G": "1",
+            "E": "1",
+            "P": "2",
+            "GF": "4",
+            "GC": "5",
+            "Dif": "−1",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 23,
+          "team": "Bodø/Glimt",
+          "teamId": "bodo-glimt",
+          "pts": "4",
+          "pj": "4",
+          "dif": "−5",
+          "values": {
+            "Pts": "4",
+            "PJ": "4",
+            "G": "1",
+            "E": "1",
+            "P": "2",
+            "GF": "4",
+            "GC": "9",
+            "Dif": "−5",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 24,
+          "team": "Napoli",
+          "teamId": "napoli",
+          "pts": "3",
+          "pj": "3",
+          "dif": "−2",
+          "values": {
+            "Pts": "3",
+            "PJ": "3",
+            "G": "1",
+            "E": "0",
+            "P": "2",
+            "GF": "5",
+            "GC": "7",
+            "Dif": "−2",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 25,
+          "team": "Sabah",
+          "teamId": "sabah",
+          "pts": "3",
+          "pj": "3",
+          "dif": "−3",
+          "values": {
+            "Pts": "3",
+            "PJ": "3",
+            "G": "1",
+            "E": "0",
+            "P": "2",
+            "GF": "3",
+            "GC": "6",
+            "Dif": "−3",
+            "Clasificación": "Eliminado de la competición"
+          }
+        },
+        {
+          "pos": 26,
+          "team": "Lens",
+          "teamId": "lens",
+          "pts": "3",
+          "pj": "3",
+          "dif": "−4",
+          "values": {
+            "Pts": "3",
+            "PJ": "3",
+            "G": "1",
+            "E": "0",
+            "P": "2",
+            "GF": "3",
+            "GC": "7",
+            "Dif": "−4",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 27,
+          "team": "Leipzig",
+          "teamId": "leipzig",
+          "pts": "3",
+          "pj": "3",
+          "dif": "−5",
+          "values": {
+            "Pts": "3",
+            "PJ": "3",
+            "G": "1",
+            "E": "0",
+            "P": "2",
+            "GF": "3",
+            "GC": "8",
+            "Dif": "−5",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 28,
+          "team": "AEK Atenas",
+          "teamId": "aek",
+          "pts": "3",
+          "pj": "3",
+          "dif": "−5",
+          "values": {
+            "Pts": "3",
+            "PJ": "3",
+            "G": "1",
+            "E": "0",
+            "P": "2",
+            "GF": "3",
+            "GC": "8",
+            "Dif": "−5",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 29,
+          "team": "Villarreal",
+          "teamId": "villarreal",
+          "pts": "3",
+          "pj": "4",
+          "dif": "−6",
+          "values": {
+            "Pts": "3",
+            "PJ": "4",
+            "G": "1",
+            "E": "0",
+            "P": "3",
+            "GF": "8",
+            "GC": "14",
+            "Dif": "−6",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 30,
+          "team": "Feyenoord",
+          "teamId": "feyenoord",
+          "pts": "3",
+          "pj": "4",
+          "dif": "−7",
+          "values": {
+            "Pts": "3",
+            "PJ": "4",
+            "G": "1",
+            "E": "0",
+            "P": "3",
+            "GF": "4",
+            "GC": "11",
+            "Dif": "−7",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 31,
+          "team": "Fenerbahçe",
+          "teamId": "fenerbahce",
+          "pts": "2",
+          "pj": "3",
+          "dif": "−6",
+          "values": {
+            "Pts": "2",
+            "PJ": "3",
+            "G": "0",
+            "E": "2",
+            "P": "1",
+            "GF": "3",
+            "GC": "9",
+            "Dif": "−6",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 32,
+          "team": "Slavia Praga",
+          "teamId": "slavia-praha",
+          "pts": "1",
+          "pj": "3",
+          "dif": "−3",
+          "values": {
+            "Pts": "1",
+            "PJ": "3",
+            "G": "0",
+            "E": "1",
+            "P": "2",
+            "GF": "4",
+            "GC": "7",
+            "Dif": "−3",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 33,
+          "team": "Viking",
+          "teamId": "viking",
+          "pts": "1",
+          "pj": "3",
+          "dif": "−4",
+          "values": {
+            "Pts": "1",
+            "PJ": "3",
+            "G": "0",
+            "E": "1",
+            "P": "2",
+            "GF": "5",
+            "GC": "9",
+            "Dif": "−4",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 34,
+          "team": "Lille",
+          "teamId": "lille",
+          "pts": "1",
+          "pj": "4",
+          "dif": "−6",
+          "values": {
+            "Pts": "1",
+            "PJ": "4",
+            "G": "0",
+            "E": "1",
+            "P": "3",
+            "GF": "4",
+            "GC": "10",
+            "Dif": "−6",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 35,
+          "team": "Porto",
+          "teamId": "porto",
+          "pts": "0",
+          "pj": "3",
+          "dif": "−4",
+          "values": {
+            "Pts": "0",
+            "PJ": "3",
+            "G": "0",
+            "E": "0",
+            "P": "3",
+            "GF": "2",
+            "GC": "6",
+            "Dif": "−4",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 36,
+          "team": "Slovan Bratislava",
+          "teamId": "slovan-bratislava",
+          "pts": "0",
+          "pj": "4",
+          "dif": "−16",
+          "values": {
+            "Pts": "0",
+            "PJ": "4",
+            "G": "0",
+            "E": "0",
+            "P": "4",
+            "GF": "1",
+            "GC": "17",
+            "Dif": "−16",
+            "Clasificación": ""
+          }
+        }
+      ],
+      "sourceUrl": "https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2026-27",
+      "revision": 176140055
+    },
+    {
+      "key": "uel-liga",
+      "competitionId": "uel",
+      "group": "Europa League 2026-27",
+      "label": "Fase liga",
+      "heading": "Clasificación",
+      "headers": [
+        "Pos",
+        "Equipo",
+        "Pts",
+        "PJ",
+        "G",
+        "E",
+        "P",
+        "GF",
+        "GC",
+        "Dif",
+        "Clasificación"
+      ],
+      "rows": [
+        {
+          "pos": 1,
+          "team": "Benfica",
+          "teamId": "benfica",
+          "pts": "9",
+          "pj": "3",
+          "dif": "+8",
+          "values": {
+            "Pts": "9",
+            "PJ": "3",
+            "G": "3",
+            "E": "0",
+            "P": "0",
+            "GF": "10",
+            "GC": "2",
+            "Dif": "+8",
+            "Clasificación": "Clasificados para los octavos de final"
+          }
+        },
+        {
+          "pos": 2,
+          "team": "Bayer Leverkusen",
+          "teamId": "leverkusen",
+          "pts": "9",
+          "pj": "3",
+          "dif": "+8",
+          "values": {
+            "Pts": "9",
+            "PJ": "3",
+            "G": "3",
+            "E": "0",
+            "P": "0",
+            "GF": "8",
+            "GC": "0",
+            "Dif": "+8",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 3,
+          "team": "Bournemouth",
+          "teamId": "bournemouth",
+          "pts": "9",
+          "pj": "3",
+          "dif": "+7",
+          "values": {
+            "Pts": "9",
+            "PJ": "3",
+            "G": "3",
+            "E": "0",
+            "P": "0",
+            "GF": "8",
+            "GC": "1",
+            "Dif": "+7",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 4,
+          "team": "Ferencváros",
+          "teamId": "ferencvaros",
+          "pts": "9",
+          "pj": "3",
+          "dif": "+6",
+          "values": {
+            "Pts": "9",
+            "PJ": "3",
+            "G": "3",
+            "E": "0",
+            "P": "0",
+            "GF": "9",
+            "GC": "3",
+            "Dif": "+6",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 5,
+          "team": "Olympiakos",
+          "teamId": null,
+          "pts": "9",
+          "pj": "3",
+          "dif": "+3",
+          "values": {
+            "Pts": "9",
+            "PJ": "3",
+            "G": "3",
+            "E": "0",
+            "P": "0",
+            "GF": "4",
+            "GC": "1",
+            "Dif": "+3",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 6,
+          "team": "Union Saint-Gilloise",
+          "teamId": "union-sg",
+          "pts": "7",
+          "pj": "3",
+          "dif": "+7",
+          "values": {
+            "Pts": "7",
+            "PJ": "3",
+            "G": "2",
+            "E": "1",
+            "P": "0",
+            "GF": "8",
+            "GC": "1",
+            "Dif": "+7",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 7,
+          "team": "Juventus",
+          "teamId": "juventus",
+          "pts": "7",
+          "pj": "3",
+          "dif": "+6",
+          "values": {
+            "Pts": "7",
+            "PJ": "3",
+            "G": "2",
+            "E": "1",
+            "P": "0",
+            "GF": "9",
+            "GC": "3",
+            "Dif": "+6",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 8,
+          "team": "Beşiktaş",
+          "teamId": "besiktas",
+          "pts": "7",
+          "pj": "3",
+          "dif": "+4",
+          "values": {
+            "Pts": "7",
+            "PJ": "3",
+            "G": "2",
+            "E": "1",
+            "P": "0",
+            "GF": "9",
+            "GC": "5",
+            "Dif": "+4",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 9,
+          "team": "Sunderland",
+          "teamId": "sunderland",
+          "pts": "7",
+          "pj": "3",
+          "dif": "+2",
+          "values": {
+            "Pts": "7",
+            "PJ": "3",
+            "G": "2",
+            "E": "1",
+            "P": "0",
+            "GF": "4",
+            "GC": "2",
+            "Dif": "+2",
+            "Clasificación": "Clasificados para la ronda preliminar (cabeza de serie)"
+          }
+        },
+        {
+          "pos": 10,
+          "team": "AZ Alkmaar",
+          "teamId": "az",
+          "pts": "6",
+          "pj": "3",
+          "dif": "+4",
+          "values": {
+            "Pts": "6",
+            "PJ": "3",
+            "G": "2",
+            "E": "0",
+            "P": "1",
+            "GF": "6",
+            "GC": "2",
+            "Dif": "+4",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 11,
+          "team": "Omonia Nicosia",
+          "teamId": null,
+          "pts": "6",
+          "pj": "3",
+          "dif": "+1",
+          "values": {
+            "Pts": "6",
+            "PJ": "3",
+            "G": "2",
+            "E": "0",
+            "P": "1",
+            "GF": "5",
+            "GC": "4",
+            "Dif": "+1",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 12,
+          "team": "Lyon",
+          "teamId": "lyon",
+          "pts": "6",
+          "pj": "3",
+          "dif": "−1",
+          "values": {
+            "Pts": "6",
+            "PJ": "3",
+            "G": "2",
+            "E": "0",
+            "P": "1",
+            "GF": "5",
+            "GC": "6",
+            "Dif": "−1",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 13,
+          "team": "Rennes",
+          "teamId": "rennes",
+          "pts": "5",
+          "pj": "3",
+          "dif": "+1",
+          "values": {
+            "Pts": "5",
+            "PJ": "3",
+            "G": "1",
+            "E": "2",
+            "P": "0",
+            "GF": "4",
+            "GC": "3",
+            "Dif": "+1",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 14,
+          "team": "Real Sociedad",
+          "teamId": "real-sociedad",
+          "pts": "4",
+          "pj": "3",
+          "dif": "+5",
+          "values": {
+            "Pts": "4",
+            "PJ": "3",
+            "G": "1",
+            "E": "1",
+            "P": "1",
+            "GF": "8",
+            "GC": "3",
+            "Dif": "+5",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 15,
+          "team": "Crystal Palace",
+          "teamId": "crystal-palace",
+          "pts": "4",
+          "pj": "3",
+          "dif": "+3",
+          "values": {
+            "Pts": "4",
+            "PJ": "3",
+            "G": "1",
+            "E": "1",
+            "P": "1",
+            "GF": "8",
+            "GC": "5",
+            "Dif": "+3",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 16,
+          "team": "Sparta Praga",
+          "teamId": "sparta-praha",
+          "pts": "4",
+          "pj": "3",
+          "dif": "+2",
+          "values": {
+            "Pts": "4",
+            "PJ": "3",
+            "G": "1",
+            "E": "1",
+            "P": "1",
+            "GF": "5",
+            "GC": "3",
+            "Dif": "+2",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 17,
+          "team": "Levski Sofia",
+          "teamId": "levski",
+          "pts": "4",
+          "pj": "3",
+          "dif": "0",
+          "values": {
+            "Pts": "4",
+            "PJ": "3",
+            "G": "1",
+            "E": "1",
+            "P": "1",
+            "GF": "3",
+            "GC": "3",
+            "Dif": "0",
+            "Clasificación": "Clasificados para la ronda preliminar (no cabeza de serie)"
+          }
+        },
+        {
+          "pos": 18,
+          "team": "Dinamo Zagreb",
+          "teamId": "dinamo-zagreb",
+          "pts": "4",
+          "pj": "3",
+          "dif": "−1",
+          "values": {
+            "Pts": "4",
+            "PJ": "3",
+            "G": "1",
+            "E": "1",
+            "P": "1",
+            "GF": "3",
+            "GC": "4",
+            "Dif": "−1",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 19,
+          "team": "Sturm Graz",
+          "teamId": "sturm-graz",
+          "pts": "4",
+          "pj": "3",
+          "dif": "−2",
+          "values": {
+            "Pts": "4",
+            "PJ": "3",
+            "G": "1",
+            "E": "1",
+            "P": "1",
+            "GF": "1",
+            "GC": "3",
+            "Dif": "−2",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 20,
+          "team": "NEC Nijmegen",
+          "teamId": "nec",
+          "pts": "4",
+          "pj": "3",
+          "dif": "−3",
+          "values": {
+            "Pts": "4",
+            "PJ": "3",
+            "G": "1",
+            "E": "1",
+            "P": "1",
+            "GF": "5",
+            "GC": "8",
+            "Dif": "−3",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 21,
+          "team": "Salzburgo",
+          "teamId": "salzburg",
+          "pts": "4",
+          "pj": "3",
+          "dif": "−3",
+          "values": {
+            "Pts": "4",
+            "PJ": "3",
+            "G": "1",
+            "E": "1",
+            "P": "1",
+            "GF": "3",
+            "GC": "6",
+            "Dif": "−3",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 22,
+          "team": "Anderlecht",
+          "teamId": "anderlecht",
+          "pts": "3",
+          "pj": "3",
+          "dif": "+1",
+          "values": {
+            "Pts": "3",
+            "PJ": "3",
+            "G": "1",
+            "E": "0",
+            "P": "2",
+            "GF": "4",
+            "GC": "3",
+            "Dif": "+1",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 23,
+          "team": "Hoffenheim",
+          "teamId": "hoffenheim",
+          "pts": "3",
+          "pj": "3",
+          "dif": "0",
+          "values": {
+            "Pts": "3",
+            "PJ": "3",
+            "G": "1",
+            "E": "0",
+            "P": "2",
+            "GF": "5",
+            "GC": "5",
+            "Dif": "0",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 24,
+          "team": "Milan",
+          "teamId": "milan",
+          "pts": "3",
+          "pj": "3",
+          "dif": "−1",
+          "values": {
+            "Pts": "3",
+            "PJ": "3",
+            "G": "1",
+            "E": "0",
+            "P": "2",
+            "GF": "4",
+            "GC": "5",
+            "Dif": "−1",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 25,
+          "team": "Celta de Vigo",
+          "teamId": "celta",
+          "pts": "3",
+          "pj": "3",
+          "dif": "−1",
+          "values": {
+            "Pts": "3",
+            "PJ": "3",
+            "G": "1",
+            "E": "0",
+            "P": "2",
+            "GF": "3",
+            "GC": "4",
+            "Dif": "−1",
+            "Clasificación": "Eliminado de la competición"
+          }
+        },
+        {
+          "pos": 26,
+          "team": "OFI Creta",
+          "teamId": "ofi",
+          "pts": "3",
+          "pj": "3",
+          "dif": "−1",
+          "values": {
+            "Pts": "3",
+            "PJ": "3",
+            "G": "1",
+            "E": "0",
+            "P": "2",
+            "GF": "3",
+            "GC": "4",
+            "Dif": "−1",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 27,
+          "team": "Jagiellonia Białystok",
+          "teamId": "jagiellonia",
+          "pts": "3",
+          "pj": "3",
+          "dif": "−2",
+          "values": {
+            "Pts": "3",
+            "PJ": "3",
+            "G": "1",
+            "E": "0",
+            "P": "2",
+            "GF": "4",
+            "GC": "6",
+            "Dif": "−2",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 28,
+          "team": "Torreense",
+          "teamId": "torreense",
+          "pts": "3",
+          "pj": "3",
+          "dif": "−3",
+          "values": {
+            "Pts": "3",
+            "PJ": "3",
+            "G": "1",
+            "E": "0",
+            "P": "2",
+            "GF": "4",
+            "GC": "7",
+            "Dif": "−3",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 29,
+          "team": "Celje",
+          "teamId": "celje",
+          "pts": "1",
+          "pj": "3",
+          "dif": "−5",
+          "values": {
+            "Pts": "1",
+            "PJ": "3",
+            "G": "0",
+            "E": "1",
+            "P": "2",
+            "GF": "2",
+            "GC": "7",
+            "Dif": "−5",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 30,
+          "team": "Hapoel Be'er Sheva",
+          "teamId": null,
+          "pts": "1",
+          "pj": "3",
+          "dif": "−5",
+          "values": {
+            "Pts": "1",
+            "PJ": "3",
+            "G": "0",
+            "E": "1",
+            "P": "2",
+            "GF": "1",
+            "GC": "6",
+            "Dif": "−5",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 31,
+          "team": "Lillestrøm",
+          "teamId": "lillestrom",
+          "pts": "1",
+          "pj": "3",
+          "dif": "−7",
+          "values": {
+            "Pts": "1",
+            "PJ": "3",
+            "G": "0",
+            "E": "1",
+            "P": "2",
+            "GF": "2",
+            "GC": "9",
+            "Dif": "−7",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 32,
+          "team": "Lech Poznań",
+          "teamId": "lech",
+          "pts": "1",
+          "pj": "3",
+          "dif": "−8",
+          "values": {
+            "Pts": "1",
+            "PJ": "3",
+            "G": "0",
+            "E": "1",
+            "P": "2",
+            "GF": "1",
+            "GC": "9",
+            "Dif": "−8",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 33,
+          "team": "Viktoria Plzen",
+          "teamId": "plzen",
+          "pts": "0",
+          "pj": "3",
+          "dif": "−5",
+          "values": {
+            "Pts": "0",
+            "PJ": "3",
+            "G": "0",
+            "E": "0",
+            "P": "3",
+            "GF": "2",
+            "GC": "7",
+            "Dif": "−5",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 34,
+          "team": "Marsella",
+          "teamId": "marseille",
+          "pts": "0",
+          "pj": "3",
+          "dif": "−5",
+          "values": {
+            "Pts": "0",
+            "PJ": "3",
+            "G": "0",
+            "E": "0",
+            "P": "3",
+            "GF": "1",
+            "GC": "6",
+            "Dif": "−5",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 35,
+          "team": "Celtic",
+          "teamId": "celtic",
+          "pts": "0",
+          "pj": "3",
+          "dif": "−6",
+          "values": {
+            "Pts": "0",
+            "PJ": "3",
+            "G": "0",
+            "E": "0",
+            "P": "3",
+            "GF": "3",
+            "GC": "9",
+            "Dif": "−6",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 36,
+          "team": "Ararat-Armenia",
+          "teamId": "ararat-armenia",
+          "pts": "0",
+          "pj": "3",
+          "dif": "−9",
+          "values": {
+            "Pts": "0",
+            "PJ": "3",
+            "G": "0",
+            "E": "0",
+            "P": "3",
+            "GF": "2",
+            "GC": "11",
+            "Dif": "−9",
+            "Clasificación": ""
+          }
+        }
+      ],
+      "sourceUrl": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA_2026-27",
+      "revision": 176020783
+    },
+    {
+      "key": "uecl-liga",
+      "competitionId": "uecl",
+      "group": "Conference League 2026-27",
+      "label": "Fase liga",
+      "heading": "Clasificación",
+      "headers": [
+        "Pos",
+        "Equipo",
+        "Pts",
+        "PJ",
+        "G",
+        "E",
+        "P",
+        "GF",
+        "GC",
+        "Dif",
+        "Clasificación 2026-27"
+      ],
+      "rows": [
+        {
+          "pos": 1,
+          "team": "Panathinaikos",
+          "teamId": "panathinaikos",
+          "pts": "6",
+          "pj": "2",
+          "dif": "+5",
+          "values": {
+            "Pts": "6",
+            "PJ": "2",
+            "G": "2",
+            "E": "0",
+            "P": "0",
+            "GF": "7",
+            "GC": "2",
+            "Dif": "+5",
+            "Clasificación 2026-27": "Clasificado a los octavos de final"
+          }
+        },
+        {
+          "pos": 2,
+          "team": "Lugano",
+          "teamId": "lugano",
+          "pts": "6",
+          "pj": "2",
+          "dif": "+4",
+          "values": {
+            "Pts": "6",
+            "PJ": "2",
+            "G": "2",
+            "E": "0",
+            "P": "0",
+            "GF": "8",
+            "GC": "4",
+            "Dif": "+4",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 3,
+          "team": "Brann",
+          "teamId": "brann",
+          "pts": "6",
+          "pj": "2",
+          "dif": "+4",
+          "values": {
+            "Pts": "6",
+            "PJ": "2",
+            "G": "2",
+            "E": "0",
+            "P": "0",
+            "GF": "6",
+            "GC": "2",
+            "Dif": "+4",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 4,
+          "team": "Trabzonspor",
+          "teamId": "trabzonspor",
+          "pts": "6",
+          "pj": "2",
+          "dif": "+4",
+          "values": {
+            "Pts": "6",
+            "PJ": "2",
+            "G": "2",
+            "E": "0",
+            "P": "0",
+            "GF": "6",
+            "GC": "2",
+            "Dif": "+4",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 5,
+          "team": "Twente",
+          "teamId": "twente",
+          "pts": "6",
+          "pj": "2",
+          "dif": "+4",
+          "values": {
+            "Pts": "6",
+            "PJ": "2",
+            "G": "2",
+            "E": "0",
+            "P": "0",
+            "GF": "5",
+            "GC": "1",
+            "Dif": "+4",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 6,
+          "team": "Monaco",
+          "teamId": "monaco",
+          "pts": "6",
+          "pj": "2",
+          "dif": "+4",
+          "values": {
+            "Pts": "6",
+            "PJ": "2",
+            "G": "2",
+            "E": "0",
+            "P": "0",
+            "GF": "5",
+            "GC": "1",
+            "Dif": "+4",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 7,
+          "team": "Sint-Truidense",
+          "teamId": null,
+          "pts": "6",
+          "pj": "2",
+          "dif": "+3",
+          "values": {
+            "Pts": "6",
+            "PJ": "2",
+            "G": "2",
+            "E": "0",
+            "P": "0",
+            "GF": "3",
+            "GC": "0",
+            "Dif": "+3",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 8,
+          "team": "Hajduk Split",
+          "teamId": "hajduk",
+          "pts": "6",
+          "pj": "2",
+          "dif": "+2",
+          "values": {
+            "Pts": "6",
+            "PJ": "2",
+            "G": "2",
+            "E": "0",
+            "P": "0",
+            "GF": "3",
+            "GC": "1",
+            "Dif": "+2",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 9,
+          "team": "Brighton & Hove Albion",
+          "teamId": "brighton",
+          "pts": "4",
+          "pj": "2",
+          "dif": "+4",
+          "values": {
+            "Pts": "4",
+            "PJ": "2",
+            "G": "1",
+            "E": "1",
+            "P": "0",
+            "GF": "4",
+            "GC": "0",
+            "Dif": "+4",
+            "Clasificación 2026-27": "Clasificado a la ronda preliminar (cabeza de serie)"
+          }
+        },
+        {
+          "pos": 10,
+          "team": "Copenhague",
+          "teamId": "copenhagen",
+          "pts": "4",
+          "pj": "2",
+          "dif": "+3",
+          "values": {
+            "Pts": "4",
+            "PJ": "2",
+            "G": "1",
+            "E": "1",
+            "P": "0",
+            "GF": "5",
+            "GC": "2",
+            "Dif": "+3",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 11,
+          "team": "Universitatea Craiova",
+          "teamId": "u-craiova",
+          "pts": "4",
+          "pj": "2",
+          "dif": "+2",
+          "values": {
+            "Pts": "4",
+            "PJ": "2",
+            "G": "1",
+            "E": "1",
+            "P": "0",
+            "GF": "4",
+            "GC": "2",
+            "Dif": "+2",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 12,
+          "team": "Mjällby",
+          "teamId": "mjallby",
+          "pts": "4",
+          "pj": "2",
+          "dif": "+2",
+          "values": {
+            "Pts": "4",
+            "PJ": "2",
+            "G": "1",
+            "E": "1",
+            "P": "0",
+            "GF": "3",
+            "GC": "1",
+            "Dif": "+2",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 13,
+          "team": "Ajax",
+          "teamId": "ajax",
+          "pts": "3",
+          "pj": "2",
+          "dif": "+1",
+          "values": {
+            "Pts": "3",
+            "PJ": "2",
+            "G": "1",
+            "E": "0",
+            "P": "1",
+            "GF": "3",
+            "GC": "2",
+            "Dif": "+1",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 14,
+          "team": "Borac Banja Luka",
+          "teamId": "borac",
+          "pts": "3",
+          "pj": "2",
+          "dif": "+1",
+          "values": {
+            "Pts": "3",
+            "PJ": "2",
+            "G": "1",
+            "E": "0",
+            "P": "1",
+            "GF": "3",
+            "GC": "2",
+            "Dif": "+1",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 15,
+          "team": "Atalanta",
+          "teamId": "atalanta",
+          "pts": "3",
+          "pj": "2",
+          "dif": "0",
+          "values": {
+            "Pts": "3",
+            "PJ": "2",
+            "G": "1",
+            "E": "0",
+            "P": "1",
+            "GF": "3",
+            "GC": "3",
+            "Dif": "0",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 16,
+          "team": "Sporting Braga",
+          "teamId": null,
+          "pts": "3",
+          "pj": "2",
+          "dif": "−1",
+          "values": {
+            "Pts": "3",
+            "PJ": "2",
+            "G": "1",
+            "E": "0",
+            "P": "1",
+            "GF": "2",
+            "GC": "3",
+            "Dif": "−1",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 17,
+          "team": "Gent",
+          "teamId": "gent",
+          "pts": "3",
+          "pj": "2",
+          "dif": "−1",
+          "values": {
+            "Pts": "3",
+            "PJ": "2",
+            "G": "1",
+            "E": "0",
+            "P": "1",
+            "GF": "1",
+            "GC": "2",
+            "Dif": "−1",
+            "Clasificación 2026-27": "Clasificado a la ronda preliminar (no cabeza de serie)"
+          }
+        },
+        {
+          "pos": 18,
+          "team": "Friburgo",
+          "teamId": "freiburg",
+          "pts": "3",
+          "pj": "2",
+          "dif": "−2",
+          "values": {
+            "Pts": "3",
+            "PJ": "2",
+            "G": "1",
+            "E": "0",
+            "P": "1",
+            "GF": "3",
+            "GC": "5",
+            "Dif": "−2",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 19,
+          "team": "Nordsjælland",
+          "teamId": "nordsjaelland",
+          "pts": "2",
+          "pj": "2",
+          "dif": "0",
+          "values": {
+            "Pts": "2",
+            "PJ": "2",
+            "G": "0",
+            "E": "2",
+            "P": "0",
+            "GF": "3",
+            "GC": "3",
+            "Dif": "0",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 20,
+          "team": "Riga",
+          "teamId": "riga",
+          "pts": "2",
+          "pj": "2",
+          "dif": "0",
+          "values": {
+            "Pts": "2",
+            "PJ": "2",
+            "G": "0",
+            "E": "2",
+            "P": "0",
+            "GF": "2",
+            "GC": "2",
+            "Dif": "0",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 21,
+          "team": "Egnatia",
+          "teamId": "egnatia",
+          "pts": "2",
+          "pj": "2",
+          "dif": "0",
+          "values": {
+            "Pts": "2",
+            "PJ": "2",
+            "G": "0",
+            "E": "2",
+            "P": "0",
+            "GF": "2",
+            "GC": "2",
+            "Dif": "0",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 22,
+          "team": "Estrella Roja",
+          "teamId": "red-star",
+          "pts": "1",
+          "pj": "2",
+          "dif": "−1",
+          "values": {
+            "Pts": "1",
+            "PJ": "2",
+            "G": "0",
+            "E": "1",
+            "P": "1",
+            "GF": "4",
+            "GC": "5",
+            "Dif": "−1",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 23,
+          "team": "CSKA Sofía",
+          "teamId": "cska-sofia",
+          "pts": "1",
+          "pj": "2",
+          "dif": "−1",
+          "values": {
+            "Pts": "1",
+            "PJ": "2",
+            "G": "0",
+            "E": "1",
+            "P": "1",
+            "GF": "3",
+            "GC": "4",
+            "Dif": "−1",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 24,
+          "team": "Jablonec",
+          "teamId": "jablonec",
+          "pts": "1",
+          "pj": "2",
+          "dif": "−1",
+          "values": {
+            "Pts": "1",
+            "PJ": "2",
+            "G": "0",
+            "E": "1",
+            "P": "1",
+            "GF": "2",
+            "GC": "3",
+            "Dif": "−1",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 25,
+          "team": "Midtjylland",
+          "teamId": "midtjylland",
+          "pts": "1",
+          "pj": "2",
+          "dif": "−1",
+          "values": {
+            "Pts": "1",
+            "PJ": "2",
+            "G": "0",
+            "E": "1",
+            "P": "1",
+            "GF": "1",
+            "GC": "2",
+            "Dif": "−1",
+            "Clasificación 2026-27": "Eliminado de la competición"
+          }
+        },
+        {
+          "pos": 26,
+          "team": "AGF Aarhus",
+          "teamId": null,
+          "pts": "1",
+          "pj": "2",
+          "dif": "−1",
+          "values": {
+            "Pts": "1",
+            "PJ": "2",
+            "G": "0",
+            "E": "1",
+            "P": "1",
+            "GF": "1",
+            "GC": "2",
+            "Dif": "−1",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 27,
+          "team": "Pafos",
+          "teamId": "pafos",
+          "pts": "1",
+          "pj": "2",
+          "dif": "−2",
+          "values": {
+            "Pts": "1",
+            "PJ": "2",
+            "G": "0",
+            "E": "1",
+            "P": "1",
+            "GF": "2",
+            "GC": "4",
+            "Dif": "−2",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 28,
+          "team": "Iberia 1999",
+          "teamId": "iberia-1999",
+          "pts": "1",
+          "pj": "2",
+          "dif": "−2",
+          "values": {
+            "Pts": "1",
+            "PJ": "2",
+            "G": "0",
+            "E": "1",
+            "P": "1",
+            "GF": "1",
+            "GC": "3",
+            "Dif": "−2",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 29,
+          "team": "Heart of Midlothian",
+          "teamId": null,
+          "pts": "1",
+          "pj": "2",
+          "dif": "−2",
+          "values": {
+            "Pts": "1",
+            "PJ": "2",
+            "G": "0",
+            "E": "1",
+            "P": "1",
+            "GF": "1",
+            "GC": "3",
+            "Dif": "−2",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 30,
+          "team": "Getafe",
+          "teamId": "getafe",
+          "pts": "1",
+          "pj": "2",
+          "dif": "−3",
+          "values": {
+            "Pts": "1",
+            "PJ": "2",
+            "G": "0",
+            "E": "1",
+            "P": "1",
+            "GF": "3",
+            "GC": "6",
+            "Dif": "−3",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 31,
+          "team": "Kairat Almaty",
+          "teamId": "kairat",
+          "pts": "1",
+          "pj": "2",
+          "dif": "−4",
+          "values": {
+            "Pts": "1",
+            "PJ": "2",
+            "G": "0",
+            "E": "1",
+            "P": "1",
+            "GF": "2",
+            "GC": "6",
+            "Dif": "−4",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 32,
+          "team": "Thun",
+          "teamId": "thun",
+          "pts": "0",
+          "pj": "2",
+          "dif": "−2",
+          "values": {
+            "Pts": "0",
+            "PJ": "2",
+            "G": "0",
+            "E": "0",
+            "P": "2",
+            "GF": "0",
+            "GC": "2",
+            "Dif": "−2",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 33,
+          "team": "Lincoln Red Imps",
+          "teamId": "lincoln",
+          "pts": "0",
+          "pj": "2",
+          "dif": "−4",
+          "values": {
+            "Pts": "0",
+            "PJ": "2",
+            "G": "0",
+            "E": "0",
+            "P": "2",
+            "GF": "2",
+            "GC": "6",
+            "Dif": "−4",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 34,
+          "team": "KuPS Kuopio",
+          "teamId": "kups",
+          "pts": "0",
+          "pj": "2",
+          "dif": "−4",
+          "values": {
+            "Pts": "0",
+            "PJ": "2",
+            "G": "0",
+            "E": "0",
+            "P": "2",
+            "GF": "2",
+            "GC": "6",
+            "Dif": "−4",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 35,
+          "team": "Inter Club d'Escaldes",
+          "teamId": null,
+          "pts": "0",
+          "pj": "2",
+          "dif": "−4",
+          "values": {
+            "Pts": "0",
+            "PJ": "2",
+            "G": "0",
+            "E": "0",
+            "P": "2",
+            "GF": "1",
+            "GC": "5",
+            "Dif": "−4",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 36,
+          "team": "Kauno Žalgiris",
+          "teamId": "kauno-zalgiris",
+          "pts": "0",
+          "pj": "2",
+          "dif": "−7",
+          "values": {
+            "Pts": "0",
+            "PJ": "2",
+            "G": "0",
+            "E": "0",
+            "P": "2",
+            "GF": "1",
+            "GC": "8",
+            "Dif": "−7",
+            "Clasificación 2026-27": ""
+          }
+        }
+      ],
+      "sourceUrl": "https://es.wikipedia.org/wiki/Liga_Conferencia_de_la_UEFA_2026-27",
+      "revision": 176020793
+    },
+    {
+      "key": "bra-tabla",
+      "competitionId": "brasileirao",
+      "group": "Brasileirão 2026",
+      "label": "Tabla",
+      "heading": "Clasificación",
+      "headers": [
+        "Pos",
+        "Equipo",
+        "Pts",
+        "PJ",
+        "G",
+        "E",
+        "P",
+        "GF",
+        "GC",
+        "Dif",
+        "Clasificación 2027"
+      ],
+      "rows": [
+        {
+          "pos": 1,
+          "team": "Flamengo",
+          "teamId": "flamengo",
+          "pts": "73",
+          "pj": "33",
+          "dif": "+40",
+          "values": {
+            "Pts": "73",
+            "PJ": "33",
+            "G": "22",
+            "E": "7",
+            "P": "4",
+            "GF": "68",
+            "GC": "28",
+            "Dif": "+40",
+            "Clasificación 2027": "Fase de grupos de la Copa Libertadores"
+          }
+        },
+        {
+          "pos": 2,
+          "team": "Palmeiras",
+          "teamId": "palmeiras",
+          "pts": "70",
+          "pj": "33",
+          "dif": "+34",
+          "values": {
+            "Pts": "70",
+            "PJ": "33",
+            "G": "20",
+            "E": "10",
+            "P": "3",
+            "GF": "56",
+            "GC": "22",
+            "Dif": "+34",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 3,
+          "team": "Cruzeiro",
+          "teamId": "cruzeiro",
+          "pts": "57",
+          "pj": "33",
+          "dif": "+6",
+          "values": {
+            "Pts": "57",
+            "PJ": "33",
+            "G": "17",
+            "E": "6",
+            "P": "10",
+            "GF": "52",
+            "GC": "46",
+            "Dif": "+6",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 4,
+          "team": "Fluminense",
+          "teamId": null,
+          "pts": "54",
+          "pj": "33",
+          "dif": "+10",
+          "values": {
+            "Pts": "54",
+            "PJ": "33",
+            "G": "15",
+            "E": "9",
+            "P": "9",
+            "GF": "52",
+            "GC": "42",
+            "Dif": "+10",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 5,
+          "team": "Athletico Paranaense",
+          "teamId": "athletico-pr",
+          "pts": "54",
+          "pj": "33",
+          "dif": "+10",
+          "values": {
+            "Pts": "54",
+            "PJ": "33",
+            "G": "15",
+            "E": "9",
+            "P": "9",
+            "GF": "50",
+            "GC": "40",
+            "Dif": "+10",
+            "Clasificación 2027": "Segunda ronda clasificatoria de la Copa Libertadores"
+          }
+        },
+        {
+          "pos": 6,
+          "team": "Bahia",
+          "teamId": "bahia",
+          "pts": "53",
+          "pj": "33",
+          "dif": "+6",
+          "values": {
+            "Pts": "53",
+            "PJ": "33",
+            "G": "14",
+            "E": "11",
+            "P": "8",
+            "GF": "48",
+            "GC": "42",
+            "Dif": "+6",
+            "Clasificación 2027": "Fase de grupos de la Copa Sudamericana"
+          }
+        },
+        {
+          "pos": 7,
+          "team": "Atlético Mineiro",
+          "teamId": "atletico-mineiro",
+          "pts": "50",
+          "pj": "33",
+          "dif": "+5",
+          "values": {
+            "Pts": "50",
+            "PJ": "33",
+            "G": "14",
+            "E": "8",
+            "P": "11",
+            "GF": "44",
+            "GC": "39",
+            "Dif": "+5",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 8,
+          "team": "Bragantino",
+          "teamId": null,
+          "pts": "47",
+          "pj": "34",
+          "dif": "+5",
+          "values": {
+            "Pts": "47",
+            "PJ": "34",
+            "G": "13",
+            "E": "8",
+            "P": "13",
+            "GF": "44",
+            "GC": "39",
+            "Dif": "+5",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 9,
+          "team": "Santos",
+          "teamId": null,
+          "pts": "47",
+          "pj": "34",
+          "dif": "+1",
+          "values": {
+            "Pts": "47",
+            "PJ": "34",
+            "G": "12",
+            "E": "11",
+            "P": "11",
+            "GF": "50",
+            "GC": "49",
+            "Dif": "+1",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 10,
+          "team": "São Paulo",
+          "teamId": "sao-paulo",
+          "pts": "43",
+          "pj": "33",
+          "dif": "0",
+          "values": {
+            "Pts": "43",
+            "PJ": "33",
+            "G": "12",
+            "E": "7",
+            "P": "14",
+            "GF": "39",
+            "GC": "39",
+            "Dif": "0",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 11,
+          "team": "Coritiba",
+          "teamId": "coritiba",
+          "pts": "42",
+          "pj": "34",
+          "dif": "−11",
+          "values": {
+            "Pts": "42",
+            "PJ": "34",
+            "G": "11",
+            "E": "9",
+            "P": "14",
+            "GF": "40",
+            "GC": "51",
+            "Dif": "−11",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 12,
+          "team": "Mirassol",
+          "teamId": "mirassol",
+          "pts": "40",
+          "pj": "34",
+          "dif": "−9",
+          "values": {
+            "Pts": "40",
+            "PJ": "34",
+            "G": "10",
+            "E": "10",
+            "P": "14",
+            "GF": "39",
+            "GC": "48",
+            "Dif": "−9",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 13,
+          "team": "Botafogo",
+          "teamId": "botafogo",
+          "pts": "39",
+          "pj": "33",
+          "dif": "−8",
+          "values": {
+            "Pts": "39",
+            "PJ": "33",
+            "G": "10",
+            "E": "9",
+            "P": "14",
+            "GF": "45",
+            "GC": "53",
+            "Dif": "−8",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 14,
+          "team": "Vasco da Gama",
+          "teamId": "vasco",
+          "pts": "38",
+          "pj": "32",
+          "dif": "−9",
+          "values": {
+            "Pts": "38",
+            "PJ": "32",
+            "G": "10",
+            "E": "8",
+            "P": "14",
+            "GF": "40",
+            "GC": "49",
+            "Dif": "−9",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 15,
+          "team": "Vitória",
+          "teamId": null,
+          "pts": "38",
+          "pj": "33",
+          "dif": "−13",
+          "values": {
+            "Pts": "38",
+            "PJ": "33",
+            "G": "10",
+            "E": "8",
+            "P": "15",
+            "GF": "35",
+            "GC": "48",
+            "Dif": "−13",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 16,
+          "team": "Internacional",
+          "teamId": "internacional",
+          "pts": "38",
+          "pj": "34",
+          "dif": "−4",
+          "values": {
+            "Pts": "38",
+            "PJ": "34",
+            "G": "9",
+            "E": "11",
+            "P": "14",
+            "GF": "38",
+            "GC": "42",
+            "Dif": "−4",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 17,
+          "team": "Grêmio",
+          "teamId": "gremio",
+          "pts": "37",
+          "pj": "33",
+          "dif": "−7",
+          "values": {
+            "Pts": "37",
+            "PJ": "33",
+            "G": "9",
+            "E": "10",
+            "P": "14",
+            "GF": "37",
+            "GC": "44",
+            "Dif": "−7",
+            "Clasificación 2027": "Descenso a la Brasileirão Superbet"
+          }
+        },
+        {
+          "pos": 18,
+          "team": "Corinthians",
+          "teamId": "corinthians",
+          "pts": "36",
+          "pj": "33",
+          "dif": "−6",
+          "values": {
+            "Pts": "36",
+            "PJ": "33",
+            "G": "9",
+            "E": "9",
+            "P": "15",
+            "GF": "36",
+            "GC": "42",
+            "Dif": "−6",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 19,
+          "team": "Remo",
+          "teamId": "remo",
+          "pts": "29",
+          "pj": "33",
+          "dif": "−15",
+          "values": {
+            "Pts": "29",
+            "PJ": "33",
+            "G": "6",
+            "E": "11",
+            "P": "16",
+            "GF": "36",
+            "GC": "51",
+            "Dif": "−15",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 20,
+          "team": "Chapecoense",
+          "teamId": "chapecoense",
+          "pts": "21",
+          "pj": "33",
+          "dif": "−35",
+          "values": {
+            "Pts": "21",
+            "PJ": "33",
+            "G": "4",
+            "E": "9",
+            "P": "20",
+            "GF": "33",
+            "GC": "68",
+            "Dif": "−35",
+            "Clasificación 2027": ""
+          }
+        }
+      ],
+      "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026",
+      "revision": 176139956
+    },
+    {
+      "key": "arg-anual",
+      "competitionId": "lpf",
+      "group": "Liga Profesional Argentina 2026",
+      "label": "Tabla anual",
+      "heading": "Tabla general de la temporada",
+      "headers": [
+        "Pos",
+        "Equipo",
+        "Pts",
+        "PJ",
+        "PG",
+        "PE",
+        "PP",
+        "GF",
+        "GC",
+        "Dif"
+      ],
+      "rows": [
+        {
+          "pos": 1,
+          "team": "Boca Juniors",
+          "teamId": null,
+          "pts": "60",
+          "pj": "31",
+          "dif": "22",
+          "values": {
+            "Pts": "60",
+            "PJ": "31",
+            "PG": "16",
+            "PE": "12",
+            "PP": "3",
+            "GF": "45",
+            "GC": "23",
+            "Dif": "22"
+          }
+        },
+        {
+          "pos": 2,
+          "team": "Argentinos Juniors",
+          "teamId": null,
+          "pts": "60",
+          "pj": "31",
+          "dif": "12",
+          "values": {
+            "Pts": "60",
+            "PJ": "31",
+            "PG": "17",
+            "PE": "9",
+            "PP": "5",
+            "GF": "37",
+            "GC": "25",
+            "Dif": "12"
+          }
+        },
+        {
+          "pos": 3,
+          "team": "Rosario Central",
+          "teamId": null,
+          "pts": "59",
+          "pj": "31",
+          "dif": "16",
+          "values": {
+            "Pts": "59",
+            "PJ": "31",
+            "PG": "17",
+            "PE": "8",
+            "PP": "6",
+            "GF": "44",
+            "GC": "28",
+            "Dif": "16"
+          }
+        },
+        {
+          "pos": 4,
+          "team": "Vélez Sarsfield",
+          "teamId": null,
+          "pts": "56",
+          "pj": "31",
+          "dif": "16",
+          "values": {
+            "Pts": "56",
+            "PJ": "31",
+            "PG": "14",
+            "PE": "14",
+            "PP": "3",
+            "GF": "43",
+            "GC": "27",
+            "Dif": "16"
+          }
+        },
+        {
+          "pos": 5,
+          "team": "Independiente Rivadavia",
+          "teamId": null,
+          "pts": "56",
+          "pj": "31",
+          "dif": "11",
+          "values": {
+            "Pts": "56",
+            "PJ": "31",
+            "PG": "16",
+            "PE": "8",
+            "PP": "7",
+            "GF": "49",
+            "GC": "38",
+            "Dif": "11"
+          }
+        },
+        {
+          "pos": 6,
+          "team": "Instituto",
+          "teamId": null,
+          "pts": "54",
+          "pj": "31",
+          "dif": "14",
+          "values": {
+            "Pts": "54",
+            "PJ": "31",
+            "PG": "16",
+            "PE": "6",
+            "PP": "9",
+            "GF": "41",
+            "GC": "27",
+            "Dif": "14"
+          }
+        },
+        {
+          "pos": 7,
+          "team": "Gimnasia y Esgrima (LP)",
+          "teamId": "gimnasia-lp",
+          "pts": "54",
+          "pj": "31",
+          "dif": "4",
+          "values": {
+            "Pts": "54",
+            "PJ": "31",
+            "PG": "16",
+            "PE": "6",
+            "PP": "9",
+            "GF": "42",
+            "GC": "38",
+            "Dif": "4"
+          }
+        },
+        {
+          "pos": 8,
+          "team": "River Plate",
+          "teamId": "river-plate-arg",
+          "pts": "52",
+          "pj": "31",
+          "dif": "15",
+          "values": {
+            "Pts": "52",
+            "PJ": "31",
+            "PG": "16",
+            "PE": "4",
+            "PP": "11",
+            "GF": "41",
+            "GC": "26",
+            "Dif": "15"
+          }
+        },
+        {
+          "pos": 9,
+          "team": "Lanús",
+          "teamId": null,
+          "pts": "49",
+          "pj": "31",
+          "dif": "10",
+          "values": {
+            "Pts": "49",
+            "PJ": "31",
+            "PG": "13",
+            "PE": "10",
+            "PP": "8",
+            "GF": "36",
+            "GC": "26",
+            "Dif": "10"
+          }
+        },
+        {
+          "pos": 10,
+          "team": "Belgrano",
+          "teamId": "belgrano",
+          "pts": "49",
+          "pj": "31",
+          "dif": "7",
+          "values": {
+            "Pts": "49",
+            "PJ": "31",
+            "PG": "13",
+            "PE": "10",
+            "PP": "8",
+            "GF": "33",
+            "GC": "26",
+            "Dif": "7"
+          }
+        },
+        {
+          "pos": 11,
+          "team": "Defensa y Justicia",
+          "teamId": null,
+          "pts": "47",
+          "pj": "31",
+          "dif": "4",
+          "values": {
+            "Pts": "47",
+            "PJ": "31",
+            "PG": "12",
+            "PE": "11",
+            "PP": "8",
+            "GF": "39",
+            "GC": "35",
+            "Dif": "4"
+          }
+        },
+        {
+          "pos": 12,
+          "team": "Estudiantes (LP)",
+          "teamId": null,
+          "pts": "46",
+          "pj": "31",
+          "dif": "11",
+          "values": {
+            "Pts": "46",
+            "PJ": "31",
+            "PG": "13",
+            "PE": "7",
+            "PP": "11",
+            "GF": "39",
+            "GC": "28",
+            "Dif": "11"
+          }
+        },
+        {
+          "pos": 13,
+          "team": "Independiente",
+          "teamId": null,
+          "pts": "44",
+          "pj": "31",
+          "dif": "2",
+          "values": {
+            "Pts": "44",
+            "PJ": "31",
+            "PG": "11",
+            "PE": "11",
+            "PP": "9",
+            "GF": "37",
+            "GC": "35",
+            "Dif": "2"
+          }
+        },
+        {
+          "pos": 14,
+          "team": "Barracas Central",
+          "teamId": null,
+          "pts": "44",
+          "pj": "31",
+          "dif": "2",
+          "values": {
+            "Pts": "44",
+            "PJ": "31",
+            "PG": "11",
+            "PE": "11",
+            "PP": "9",
+            "GF": "30",
+            "GC": "28",
+            "Dif": "2"
+          }
+        },
+        {
+          "pos": 15,
+          "team": "Huracán",
+          "teamId": null,
+          "pts": "41",
+          "pj": "31",
+          "dif": "0",
+          "values": {
+            "Pts": "41",
+            "PJ": "31",
+            "PG": "10",
+            "PE": "11",
+            "PP": "10",
+            "GF": "29",
+            "GC": "29",
+            "Dif": "0"
+          }
+        },
+        {
+          "pos": 16,
+          "team": "San Lorenzo",
+          "teamId": null,
+          "pts": "41",
+          "pj": "31",
+          "dif": "−5",
+          "values": {
+            "Pts": "41",
+            "PJ": "31",
+            "PG": "10",
+            "PE": "11",
+            "PP": "10",
+            "GF": "23",
+            "GC": "28",
+            "Dif": "−5"
+          }
+        },
+        {
+          "pos": 17,
+          "team": "Sarmiento (J)",
+          "teamId": null,
+          "pts": "40",
+          "pj": "31",
+          "dif": "−7",
+          "values": {
+            "Pts": "40",
+            "PJ": "31",
+            "PG": "12",
+            "PE": "4",
+            "PP": "15",
+            "GF": "36",
+            "GC": "43",
+            "Dif": "−7"
+          }
+        },
+        {
+          "pos": 18,
+          "team": "Gimnasia y Esgrima (M)",
+          "teamId": "gimnasia-lp",
+          "pts": "40",
+          "pj": "31",
+          "dif": "−7",
+          "values": {
+            "Pts": "40",
+            "PJ": "31",
+            "PG": "11",
+            "PE": "7",
+            "PP": "13",
+            "GF": "31",
+            "GC": "38",
+            "Dif": "−7"
+          }
+        },
+        {
+          "pos": 19,
+          "team": "Unión",
+          "teamId": null,
+          "pts": "39",
+          "pj": "31",
+          "dif": "2",
+          "values": {
+            "Pts": "39",
+            "PJ": "31",
+            "PG": "10",
+            "PE": "9",
+            "PP": "12",
+            "GF": "46",
+            "GC": "44",
+            "Dif": "2"
+          }
+        },
+        {
+          "pos": 20,
+          "team": "Talleres",
+          "teamId": null,
+          "pts": "38",
+          "pj": "31",
+          "dif": "−2",
+          "values": {
+            "Pts": "38",
+            "PJ": "31",
+            "PG": "10",
+            "PE": "8",
+            "PP": "13",
+            "GF": "33",
+            "GC": "35",
+            "Dif": "−2"
+          }
+        },
+        {
+          "pos": 21,
+          "team": "Newell's Old Boys",
+          "teamId": null,
+          "pts": "37",
+          "pj": "31",
+          "dif": "−9",
+          "values": {
+            "Pts": "37",
+            "PJ": "31",
+            "PG": "8",
+            "PE": "13",
+            "PP": "10",
+            "GF": "29",
+            "GC": "38",
+            "Dif": "−9"
+          }
+        },
+        {
+          "pos": 22,
+          "team": "Tigre",
+          "teamId": null,
+          "pts": "36",
+          "pj": "31",
+          "dif": "2",
+          "values": {
+            "Pts": "36",
+            "PJ": "31",
+            "PG": "8",
+            "PE": "12",
+            "PP": "11",
+            "GF": "33",
+            "GC": "31",
+            "Dif": "2"
+          }
+        },
+        {
+          "pos": 23,
+          "team": "Racing Club",
+          "teamId": null,
+          "pts": "36",
+          "pj": "31",
+          "dif": "−4",
+          "values": {
+            "Pts": "36",
+            "PJ": "31",
+            "PG": "9",
+            "PE": "9",
+            "PP": "13",
+            "GF": "33",
+            "GC": "37",
+            "Dif": "−4"
+          }
+        },
+        {
+          "pos": 24,
+          "team": "Platense",
+          "teamId": null,
+          "pts": "33",
+          "pj": "31",
+          "dif": "−9",
+          "values": {
+            "Pts": "33",
+            "PJ": "31",
+            "PG": "7",
+            "PE": "12",
+            "PP": "12",
+            "GF": "26",
+            "GC": "35",
+            "Dif": "−9"
+          }
+        },
+        {
+          "pos": 25,
+          "team": "Banfield",
+          "teamId": null,
+          "pts": "32",
+          "pj": "31",
+          "dif": "−9",
+          "values": {
+            "Pts": "32",
+            "PJ": "31",
+            "PG": "8",
+            "PE": "8",
+            "PP": "15",
+            "GF": "33",
+            "GC": "42",
+            "Dif": "−9"
+          }
+        },
+        {
+          "pos": 26,
+          "team": "Atlético Tucumán",
+          "teamId": null,
+          "pts": "31",
+          "pj": "31",
+          "dif": "−6",
+          "values": {
+            "Pts": "31",
+            "PJ": "31",
+            "PG": "7",
+            "PE": "10",
+            "PP": "14",
+            "GF": "29",
+            "GC": "35",
+            "Dif": "−6"
+          }
+        },
+        {
+          "pos": 27,
+          "team": "Central Córdoba (SdE)",
+          "teamId": null,
+          "pts": "26",
+          "pj": "31",
+          "dif": "−24",
+          "values": {
+            "Pts": "26",
+            "PJ": "31",
+            "PG": "6",
+            "PE": "8",
+            "PP": "17",
+            "GF": "22",
+            "GC": "46",
+            "Dif": "−24"
+          }
+        },
+        {
+          "pos": 28,
+          "team": "Deportivo Riestra",
+          "teamId": null,
+          "pts": "23",
+          "pj": "31",
+          "dif": "−14",
+          "values": {
+            "Pts": "23",
+            "PJ": "31",
+            "PG": "3",
+            "PE": "14",
+            "PP": "14",
+            "GF": "15",
+            "GC": "29",
+            "Dif": "−14"
+          }
+        },
+        {
+          "pos": 29,
+          "team": "Aldosivi",
+          "teamId": "aldosivi",
+          "pts": "19",
+          "pj": "31",
+          "dif": "−21",
+          "values": {
+            "Pts": "19",
+            "PJ": "31",
+            "PG": "3",
+            "PE": "10",
+            "PP": "18",
+            "GF": "22",
+            "GC": "43",
+            "Dif": "−21"
+          }
+        },
+        {
+          "pos": 30,
+          "team": "Estudiantes (RC)",
+          "teamId": null,
+          "pts": "14",
+          "pj": "31",
+          "dif": "−30",
+          "values": {
+            "Pts": "14",
+            "PJ": "31",
+            "PG": "3",
+            "PE": "5",
+            "PP": "23",
+            "GF": "15",
+            "GC": "45",
+            "Dif": "−30"
+          }
+        }
+      ],
+      "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
+      "revision": 176122592
+    },
+    {
+      "key": "arg-clausura-a",
+      "competitionId": "lpf",
+      "group": "Liga Profesional Argentina 2026",
+      "label": "Clausura · Zona A",
+      "heading": "Zona A",
+      "headers": [
+        "Pos",
+        "Equipo",
+        "Pts",
+        "PJ",
+        "PG",
+        "PE",
+        "PP",
+        "GF",
+        "GC",
+        "Dif"
+      ],
+      "rows": [
+        {
+          "pos": 1,
+          "team": "Instituto",
+          "teamId": null,
+          "pts": "33",
+          "pj": "15",
+          "dif": "11",
+          "values": {
+            "Pts": "33",
+            "PJ": "15",
+            "PG": "10",
+            "PE": "3",
+            "PP": "2",
+            "GF": "24",
+            "GC": "13",
+            "Dif": "11"
+          }
+        },
+        {
+          "pos": 2,
+          "team": "Boca Juniors",
+          "teamId": null,
+          "pts": "30",
+          "pj": "15",
+          "dif": "9",
+          "values": {
+            "Pts": "30",
+            "PJ": "15",
+            "PG": "8",
+            "PE": "6",
+            "PP": "1",
+            "GF": "23",
+            "GC": "14",
+            "Dif": "9"
+          }
+        },
+        {
+          "pos": 3,
+          "team": "Vélez Sarsfield",
+          "teamId": null,
+          "pts": "28",
+          "pj": "15",
+          "dif": "10",
+          "values": {
+            "Pts": "28",
+            "PJ": "15",
+            "PG": "7",
+            "PE": "7",
+            "PP": "1",
+            "GF": "25",
+            "GC": "15",
+            "Dif": "10"
+          }
+        },
+        {
+          "pos": 4,
+          "team": "Defensa y Justicia",
+          "teamId": null,
+          "pts": "28",
+          "pj": "15",
+          "dif": "7",
+          "values": {
+            "Pts": "28",
+            "PJ": "15",
+            "PG": "8",
+            "PE": "4",
+            "PP": "3",
+            "GF": "21",
+            "GC": "14",
+            "Dif": "7"
+          }
+        },
+        {
+          "pos": 5,
+          "team": "Lanús",
+          "teamId": null,
+          "pts": "25",
+          "pj": "15",
+          "dif": "7",
+          "values": {
+            "Pts": "25",
+            "PJ": "15",
+            "PG": "7",
+            "PE": "4",
+            "PP": "4",
+            "GF": "18",
+            "GC": "11",
+            "Dif": "7"
+          }
+        },
+        {
+          "pos": 6,
+          "team": "Newell's Old Boys",
+          "teamId": null,
+          "pts": "22",
+          "pj": "15",
+          "dif": "3",
+          "values": {
+            "Pts": "22",
+            "PJ": "15",
+            "PG": "5",
+            "PE": "7",
+            "PP": "3",
+            "GF": "14",
+            "GC": "11",
+            "Dif": "3"
+          }
+        },
+        {
+          "pos": 7,
+          "team": "Gimnasia y Esgrima (M)",
+          "teamId": "gimnasia-lp",
+          "pts": "21",
+          "pj": "15",
+          "dif": "1",
+          "values": {
+            "Pts": "21",
+            "PJ": "15",
+            "PG": "6",
+            "PE": "3",
+            "PP": "6",
+            "GF": "17",
+            "GC": "16",
+            "Dif": "1"
+          }
+        },
+        {
+          "pos": 8,
+          "team": "Independiente",
+          "teamId": null,
+          "pts": "20",
+          "pj": "15",
+          "dif": "−2",
+          "values": {
+            "Pts": "20",
+            "PJ": "15",
+            "PG": "5",
+            "PE": "5",
+            "PP": "5",
+            "GF": "13",
+            "GC": "15",
+            "Dif": "−2"
+          }
+        },
+        {
+          "pos": 9,
+          "team": "San Lorenzo",
+          "teamId": null,
+          "pts": "19",
+          "pj": "15",
+          "dif": "−5",
+          "values": {
+            "Pts": "19",
+            "PJ": "15",
+            "PG": "5",
+            "PE": "4",
+            "PP": "6",
+            "GF": "9",
+            "GC": "14",
+            "Dif": "−5"
+          }
+        },
+        {
+          "pos": 10,
+          "team": "Unión",
+          "teamId": null,
+          "pts": "18",
+          "pj": "15",
+          "dif": "−2",
+          "values": {
+            "Pts": "18",
+            "PJ": "15",
+            "PG": "5",
+            "PE": "3",
+            "PP": "7",
+            "GF": "22",
+            "GC": "24",
+            "Dif": "−2"
+          }
+        },
+        {
+          "pos": 11,
+          "team": "Platense",
+          "teamId": null,
+          "pts": "17",
+          "pj": "15",
+          "dif": "−4",
+          "values": {
+            "Pts": "17",
+            "PJ": "15",
+            "PG": "4",
+            "PE": "5",
+            "PP": "6",
+            "GF": "16",
+            "GC": "20",
+            "Dif": "−4"
+          }
+        },
+        {
+          "pos": 12,
+          "team": "Estudiantes (LP)",
+          "teamId": null,
+          "pts": "15",
+          "pj": "15",
+          "dif": "−1",
+          "values": {
+            "Pts": "15",
+            "PJ": "15",
+            "PG": "4",
+            "PE": "3",
+            "PP": "8",
+            "GF": "20",
+            "GC": "21",
+            "Dif": "−1"
+          }
+        },
+        {
+          "pos": 13,
+          "team": "Talleres",
+          "teamId": null,
+          "pts": "12",
+          "pj": "15",
+          "dif": "−6",
+          "values": {
+            "Pts": "12",
+            "PJ": "15",
+            "PG": "3",
+            "PE": "3",
+            "PP": "9",
+            "GF": "16",
+            "GC": "22",
+            "Dif": "−6"
+          }
+        },
+        {
+          "pos": 14,
+          "team": "Deportivo Riestra",
+          "teamId": null,
+          "pts": "12",
+          "pj": "15",
+          "dif": "−7",
+          "values": {
+            "Pts": "12",
+            "PJ": "15",
+            "PG": "2",
+            "PE": "6",
+            "PP": "7",
+            "GF": "10",
+            "GC": "17",
+            "Dif": "−7"
+          }
+        },
+        {
+          "pos": 15,
+          "team": "Central Córdoba (SdE)",
+          "teamId": null,
+          "pts": "10",
+          "pj": "15",
+          "dif": "−14",
+          "values": {
+            "Pts": "10",
+            "PJ": "15",
+            "PG": "2",
+            "PE": "4",
+            "PP": "9",
+            "GF": "11",
+            "GC": "25",
+            "Dif": "−14"
+          }
+        }
+      ],
+      "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
+      "revision": 176122592
+    },
+    {
+      "key": "arg-clausura-b",
+      "competitionId": "lpf",
+      "group": "Liga Profesional Argentina 2026",
+      "label": "Clausura · Zona B",
+      "heading": "Zona B",
+      "headers": [
+        "Pos",
+        "Equipo",
+        "Pts",
+        "PJ",
+        "PG",
+        "PE",
+        "PP",
+        "GF",
+        "GC",
+        "Dif"
+      ],
+      "rows": [
+        {
+          "pos": 1,
+          "team": "Rosario Central",
+          "teamId": null,
+          "pts": "31",
+          "pj": "15",
+          "dif": "12",
+          "values": {
+            "Pts": "31",
+            "PJ": "15",
+            "PG": "9",
+            "PE": "4",
+            "PP": "2",
+            "GF": "24",
+            "GC": "12",
+            "Dif": "12"
+          }
+        },
+        {
+          "pos": 2,
+          "team": "Argentinos Juniors",
+          "teamId": null,
+          "pts": "31",
+          "pj": "15",
+          "dif": "8",
+          "values": {
+            "Pts": "31",
+            "PJ": "15",
+            "PG": "9",
+            "PE": "4",
+            "PP": "2",
+            "GF": "20",
+            "GC": "12",
+            "Dif": "8"
+          }
+        },
+        {
+          "pos": 3,
+          "team": "Gimnasia y Esgrima (LP)",
+          "teamId": "gimnasia-lp",
+          "pts": "28",
+          "pj": "15",
+          "dif": "4",
+          "values": {
+            "Pts": "28",
+            "PJ": "15",
+            "PG": "8",
+            "PE": "4",
+            "PP": "3",
+            "GF": "23",
+            "GC": "19",
+            "Dif": "4"
+          }
+        },
+        {
+          "pos": 4,
+          "team": "River Plate",
+          "teamId": "river-plate-arg",
+          "pts": "23",
+          "pj": "15",
+          "dif": "5",
+          "values": {
+            "Pts": "23",
+            "PJ": "15",
+            "PG": "7",
+            "PE": "2",
+            "PP": "6",
+            "GF": "19",
+            "GC": "14",
+            "Dif": "5"
+          }
+        },
+        {
+          "pos": 5,
+          "team": "Belgrano",
+          "teamId": "belgrano",
+          "pts": "23",
+          "pj": "15",
+          "dif": "3",
+          "values": {
+            "Pts": "23",
+            "PJ": "15",
+            "PG": "6",
+            "PE": "5",
+            "PP": "4",
+            "GF": "16",
+            "GC": "13",
+            "Dif": "3"
+          }
+        },
+        {
+          "pos": 6,
+          "team": "Barracas Central",
+          "teamId": null,
+          "pts": "23",
+          "pj": "15",
+          "dif": "2",
+          "values": {
+            "Pts": "23",
+            "PJ": "15",
+            "PG": "6",
+            "PE": "5",
+            "PP": "4",
+            "GF": "15",
+            "GC": "13",
+            "Dif": "2"
+          }
+        },
+        {
+          "pos": 7,
+          "team": "Independiente Rivadavia",
+          "teamId": null,
+          "pts": "22",
+          "pj": "15",
+          "dif": "−3",
+          "values": {
+            "Pts": "22",
+            "PJ": "15",
+            "PG": "6",
+            "PE": "4",
+            "PP": "5",
+            "GF": "20",
+            "GC": "23",
+            "Dif": "−3"
+          }
+        },
+        {
+          "pos": 8,
+          "team": "Sarmiento (J)",
+          "teamId": null,
+          "pts": "21",
+          "pj": "15",
+          "dif": "0",
+          "values": {
+            "Pts": "21",
+            "PJ": "15",
+            "PG": "6",
+            "PE": "3",
+            "PP": "6",
+            "GF": "23",
+            "GC": "23",
+            "Dif": "0"
+          }
+        },
+        {
+          "pos": 9,
+          "team": "Huracán",
+          "teamId": null,
+          "pts": "19",
+          "pj": "15",
+          "dif": "−4",
+          "values": {
+            "Pts": "19",
+            "PJ": "15",
+            "PG": "5",
+            "PE": "4",
+            "PP": "6",
+            "GF": "12",
+            "GC": "16",
+            "Dif": "−4"
+          }
+        },
+        {
+          "pos": 10,
+          "team": "Atlético Tucumán",
+          "teamId": null,
+          "pts": "17",
+          "pj": "15",
+          "dif": "−1",
+          "values": {
+            "Pts": "17",
+            "PJ": "15",
+            "PG": "4",
+            "PE": "5",
+            "PP": "6",
+            "GF": "14",
+            "GC": "15",
+            "Dif": "−1"
+          }
+        },
+        {
+          "pos": 11,
+          "team": "Tigre",
+          "teamId": null,
+          "pts": "16",
+          "pj": "15",
+          "dif": "−1",
+          "values": {
+            "Pts": "16",
+            "PJ": "15",
+            "PG": "4",
+            "PE": "4",
+            "PP": "7",
+            "GF": "15",
+            "GC": "16",
+            "Dif": "−1"
+          }
+        },
+        {
+          "pos": 12,
+          "team": "Racing Club",
+          "teamId": null,
+          "pts": "15",
+          "pj": "15",
+          "dif": "−6",
+          "values": {
+            "Pts": "15",
+            "PJ": "15",
+            "PG": "4",
+            "PE": "3",
+            "PP": "8",
+            "GF": "16",
+            "GC": "22",
+            "Dif": "−6"
+          }
+        },
+        {
+          "pos": 13,
+          "team": "Banfield",
+          "teamId": null,
+          "pts": "14",
+          "pj": "15",
+          "dif": "−7",
+          "values": {
+            "Pts": "14",
+            "PJ": "15",
+            "PG": "3",
+            "PE": "5",
+            "PP": "7",
+            "GF": "16",
+            "GC": "23",
+            "Dif": "−7"
+          }
+        },
+        {
+          "pos": 14,
+          "team": "Aldosivi",
+          "teamId": "aldosivi",
+          "pts": "11",
+          "pj": "15",
+          "dif": "−8",
+          "values": {
+            "Pts": "11",
+            "PJ": "15",
+            "PG": "3",
+            "PE": "2",
+            "PP": "10",
+            "GF": "16",
+            "GC": "24",
+            "Dif": "−8"
+          }
+        },
+        {
+          "pos": 15,
+          "team": "Estudiantes (RC)",
+          "teamId": null,
+          "pts": "9",
+          "pj": "15",
+          "dif": "−11",
+          "values": {
+            "Pts": "9",
+            "PJ": "15",
+            "PG": "2",
+            "PE": "3",
+            "PP": "10",
+            "GF": "10",
+            "GC": "21",
+            "Dif": "−11"
+          }
+        }
+      ],
+      "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
+      "revision": 176122592
+    }
+  ]
+}

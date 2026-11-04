@@ -10,11 +10,13 @@
     "crests": "node scripts/fetch-crests.mjs",
     "snapshot": "node scripts/build-snapshot.mjs",
     "deploy": "npm run build && node scripts/deploy.mjs",
-    "sync": "node scripts/sync-api-football.mjs"
+    "sync": "node scripts/sync-api-football.mjs",
+    "standings": "node scripts/fetch-standings.mjs"
   },
   "dependencies": {
     "@types/three": "^0.187.0",
     "next": "16.4.5",
+    "node-html-parser": "^9.0.6",
     "react": "19.3.0",
     "react-dom": "19.3.0",
     "three": "^0.187.0"
