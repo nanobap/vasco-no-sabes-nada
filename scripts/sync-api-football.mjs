@@ -22,6 +22,8 @@ const arg = (name, def) => {
 const MAX_REQUESTS = Number(arg("--max-requests", 20));
 const MAX_DETAILS = Number(arg("--details", 6));
 const DRY = args.includes("--dry-run");
+const PACE_MS = Number(arg("--pace-ms", 6500)); // plan gratuito: 10 pedidos por minuto
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 loadDotEnv();
 const KEY = process.env.API_FOOTBALL_KEY;
@@ -45,9 +47,15 @@ async function api(path) {
     console.log("DRY GET", path);
     return { response: [] };
   }
-  const res = await fetch(`${BASE}${path}`, { headers: { "x-apisports-key": KEY } });
+  let res = await fetch(`${BASE}${path}`, { headers: { "x-apisports-key": KEY } });
+  if (res.status === 429) {
+    console.log("429: espero 65 s y reintento");
+    await sleep(65000);
+    res = await fetch(`${BASE}${path}`, { headers: { "x-apisports-key": KEY } });
+  }
   if (!res.ok) throw new Error(`${res.status} ${path}`);
   const json = await res.json();
+  await sleep(PACE_MS);
   if (json.errors && Object.keys(json.errors).length) throw new Error(`API: ${JSON.stringify(json.errors)}`);
   return json;
 }
@@ -91,6 +99,32 @@ const EXTRA_ALIASES = {
   lito: ["lito"],
   torque: ["montevideo city torque", "torque"],
   wanderers: ["montevideo wanderers", "wanderers"],
+  rennes: ["stade rennais", "rennes"],
+  olympiacos: ["olympiakos piraeus", "olympiakos", "olympiacos piraeus"],
+  brugge: ["club brugge kv", "club brugge", "brugge"],
+  psv: ["psv eindhoven", "psv"],
+  lillestrom: ["lillestrom", "lillestrom sk"],
+  plzen: ["viktoria plzen", "plzen"],
+  salzburg: ["red bull salzburg", "rb salzburg", "salzburg"],
+  leverkusen: ["bayer leverkusen", "leverkusen"],
+  marseille: ["olympique marseille", "marseille"],
+  thun: ["fc thun", "thun"],
+  hearts: ["heart of midlothian", "hearts"],
+  freiburg: ["sc freiburg", "freiburg"],
+  monaco: ["as monaco", "monaco"],
+  nordsjaelland: ["fc nordsjaelland", "nordsjaelland", "nordsjelland"],
+  ferencvaros: ["ferencvarosi tc", "ferencvaros"],
+  agf: ["aarhus", "agf aarhus", "aarhus gf"],
+  copenhagen: ["fc copenhagen", "copenhagen", "kobenhavn"],
+  "slavia-praha": ["slavia praha", "slavia prague"],
+  "sparta-praha": ["sparta praha", "sparta prague"],
+  besiktas: ["besiktas"],
+  "dinamo-zagreb": ["dinamo zagreb"],
+  lech: ["lech poznan"],
+  pafos: ["pafos", "paphos"],
+  "kauno-zalgiris": ["kauno zalgiris", "zalgiris kaunas"],
+  "iberia-1999": ["iberia 1999", "iberia"],
+  "inter-escaldes": ["inter club d escaldes", "inter escaldes"],
 };
 
 const teamsById = new Map(snapshot.teams.map((t) => [t.id, t]));
@@ -142,7 +176,14 @@ for (const date of dates) {
       if (score > 0.45 && (!best || score > best.score)) best = { f, score, sh, sa };
     }
     if (!best) {
-      console.log(`sin match API: ${m.id}`);
+      const near = list
+        .filter((f) => Math.abs(Date.parse(f.fixture.date) - ko) <= 3 * 3600 * 1000)
+        .map((f) => ({ n: `${f.teams.home.name} vs ${f.teams.away.name}`, s: Math.max(teamMatches(m.homeId, f.teams.home), teamMatches(m.awayId, f.teams.away)) }))
+        .filter((x) => x.s >= 0.3)
+        .sort((a, b) => b.s - a.s)
+        .slice(0, 3)
+        .map((x) => `${x.n} (${x.s.toFixed(2)})`);
+      console.log(`sin match API: ${m.id}${near.length ? ` · cercanos: ${near.join(" | ")}` : ""}`);
       continue;
     }
     const f = best.f;

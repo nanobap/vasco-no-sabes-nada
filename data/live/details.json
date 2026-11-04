@@ -1,1 +1,606 @@
-{}
+{
+  "20261104-auf-ferro-carril-nacional": {
+    "updatedAtUtc": "2026-11-04T12:53:31.737Z",
+    "injuries": [],
+    "prediction": {
+      "home": 0.33,
+      "draw": 0.33,
+      "away": 0.33,
+      "advice": "No predictions available",
+      "formHome": "0%",
+      "formAway": "DWWW",
+      "comparison": {
+        "form": {
+          "home": "0%",
+          "away": "100%"
+        },
+        "att": {
+          "home": "0%",
+          "away": "100%"
+        },
+        "def": {
+          "home": "100%",
+          "away": "0%"
+        },
+        "total": {
+          "home": "0%",
+          "away": "0%"
+        }
+      },
+      "h2h": []
+    }
+  },
+  "20261103-ucl-atletico-bayern": {
+    "updatedAtUtc": "2026-11-04T12:53:32.582Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "J. Cardoso",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Hjulmand",
+        "type": "Missing Fixture",
+        "reason": "Red Card"
+      },
+      {
+        "team": "home",
+        "player": "C. Romero",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "L. Diaz",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "S. Gnabry",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "J. Musiala",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "I. Saibari",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "J. Cardoso",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Hjulmand",
+        "type": "Missing Fixture",
+        "reason": "Red Card"
+      },
+      {
+        "team": "home",
+        "player": "C. Romero",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "L. Diaz",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "S. Gnabry",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "J. Musiala",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "I. Saibari",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0.1,
+      "draw": 0.45,
+      "away": 0.45,
+      "advice": "Double chance : draw or Bayern München",
+      "formHome": "LWD",
+      "formAway": "WDD",
+      "comparison": {
+        "form": {
+          "home": "44%",
+          "away": "56%"
+        },
+        "att": {
+          "home": "29%",
+          "away": "71%"
+        },
+        "def": {
+          "home": "63%",
+          "away": "38%"
+        },
+        "total": {
+          "home": "38.4%",
+          "away": "61.8%"
+        }
+      },
+      "h2h": [
+        {
+          "date": "2020-12-01T20:00:00+00:00",
+          "home": "Atletico Madrid",
+          "away": "Bayern Munich",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2020-10-21T19:00:00+00:00",
+          "home": "Bayern Munich",
+          "away": "Atletico Madrid",
+          "homeGoals": 4,
+          "awayGoals": 0
+        },
+        {
+          "date": "2016-12-06T19:45:00+00:00",
+          "home": "Bayern Munich",
+          "away": "Atletico Madrid",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2016-09-28T18:45:00+00:00",
+          "home": "Atletico Madrid",
+          "away": "Bayern Munich",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2016-05-03T18:45:00+00:00",
+          "home": "Bayern Munich",
+          "away": "Atletico Madrid",
+          "homeGoals": 2,
+          "awayGoals": 1
+        }
+      ]
+    }
+  },
+  "20261105-auf-gladiador-liverpool": {
+    "updatedAtUtc": "2026-11-04T12:53:33.134Z",
+    "injuries": [],
+    "prediction": {
+      "home": 0.33,
+      "draw": 0.33,
+      "away": 0.33,
+      "advice": "No predictions available",
+      "formHome": "0%",
+      "formAway": "WLWW",
+      "comparison": {
+        "form": {
+          "home": "0%",
+          "away": "100%"
+        },
+        "att": {
+          "home": "0%",
+          "away": "100%"
+        },
+        "def": {
+          "home": "100%",
+          "away": "0%"
+        },
+        "total": {
+          "home": "0%",
+          "away": "0%"
+        }
+      },
+      "h2h": []
+    }
+  },
+  "20261104-ucl-aek-real-madrid": {
+    "updatedAtUtc": "2026-11-04T12:55:20.060Z",
+    "injuries": [],
+    "prediction": {
+      "home": 0.1,
+      "draw": 0.45,
+      "away": 0.45,
+      "advice": "Combo Double chance : draw or Real Madrid and +1.5 goals",
+      "formHome": "DWWLL",
+      "formAway": "WWW",
+      "comparison": {
+        "form": {
+          "home": "44%",
+          "away": "56%"
+        },
+        "att": {
+          "home": "41%",
+          "away": "59%"
+        },
+        "def": {
+          "home": "38%",
+          "away": "62%"
+        },
+        "total": {
+          "home": "41.0%",
+          "away": "59.0%"
+        }
+      },
+      "h2h": []
+    }
+  },
+  "20261104-ucl-fenerbahce-liverpool": {
+    "updatedAtUtc": "2026-11-04T12:55:33.733Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "N. Ake",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Asensio",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Diouf",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "A. Fall",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "J. Oosterwolde",
+        "type": "Missing Fixture",
+        "reason": "Achilles Tendon Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Yandas",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "K. Peprah",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "C. Bradley",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "F. Chiesa",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "H. Ekitike",
+        "type": "Missing Fixture",
+        "reason": "Achilles Tendon Injury"
+      },
+      {
+        "team": "away",
+        "player": "W. Endo",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "J. Frimpong",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "R. Gravenberch",
+        "type": "Missing Fixture",
+        "reason": "Heel Injury"
+      },
+      {
+        "team": "away",
+        "player": "G. Leoni",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Nallo",
+        "type": "Missing Fixture",
+        "reason": "Leg Injury"
+      },
+      {
+        "team": "home",
+        "player": "N. Ake",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Asensio",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Diouf",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "A. Fall",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "J. Oosterwolde",
+        "type": "Missing Fixture",
+        "reason": "Achilles Tendon Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Yandas",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "K. Peprah",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "C. Bradley",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "F. Chiesa",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "H. Ekitike",
+        "type": "Missing Fixture",
+        "reason": "Achilles Tendon Injury"
+      },
+      {
+        "team": "away",
+        "player": "W. Endo",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "J. Frimpong",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "R. Gravenberch",
+        "type": "Missing Fixture",
+        "reason": "Heel Injury"
+      },
+      {
+        "team": "away",
+        "player": "G. Leoni",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Nallo",
+        "type": "Missing Fixture",
+        "reason": "Leg Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0,
+      "draw": 0.5,
+      "away": 0.5,
+      "advice": "Combo Winner : Liverpool and +2.5 goals",
+      "formHome": "WDWWDWDLD",
+      "formAway": "WWW",
+      "comparison": {
+        "form": {
+          "home": "40%",
+          "away": "60%"
+        },
+        "att": {
+          "home": "33%",
+          "away": "67%"
+        },
+        "def": {
+          "home": "39%",
+          "away": "61%"
+        },
+        "total": {
+          "home": "37.3%",
+          "away": "62.8%"
+        }
+      },
+      "h2h": []
+    }
+  },
+  "20261104-auf-san-carlos-boston-river": {
+    "updatedAtUtc": "2026-11-04T12:55:47.620Z",
+    "injuries": [],
+    "prediction": {
+      "home": 0.33,
+      "draw": 0.33,
+      "away": 0.33,
+      "advice": "No predictions available",
+      "formHome": "0%",
+      "formAway": "WWWW",
+      "comparison": {
+        "form": {
+          "home": "0%",
+          "away": "100%"
+        },
+        "att": {
+          "home": "0%",
+          "away": "100%"
+        },
+        "def": {
+          "home": "100%",
+          "away": "0%"
+        },
+        "total": {
+          "home": "0%",
+          "away": "0%"
+        }
+      },
+      "h2h": []
+    }
+  },
+  "20261104-ucl-dortmund-betis": {
+    "updatedAtUtc": "2026-11-04T12:56:01.230Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "E. Can",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "G. Konstantelias",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "J. Lerma",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Fidalgo",
+        "type": "Missing Fixture",
+        "reason": "Illness"
+      },
+      {
+        "team": "away",
+        "player": "J. Firpo",
+        "type": "Missing Fixture",
+        "reason": "Groin Injury"
+      },
+      {
+        "team": "away",
+        "player": "C. Hernandez",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      {
+        "team": "away",
+        "player": "I. Losada",
+        "type": "Missing Fixture",
+        "reason": "Coach's decision"
+      },
+      {
+        "team": "home",
+        "player": "E. Can",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "G. Konstantelias",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "J. Lerma",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Fidalgo",
+        "type": "Missing Fixture",
+        "reason": "Illness"
+      },
+      {
+        "team": "away",
+        "player": "J. Firpo",
+        "type": "Missing Fixture",
+        "reason": "Groin Injury"
+      },
+      {
+        "team": "away",
+        "player": "C. Hernandez",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      {
+        "team": "away",
+        "player": "I. Losada",
+        "type": "Missing Fixture",
+        "reason": "Coach's decision"
+      }
+    ],
+    "prediction": {
+      "home": 0.1,
+      "draw": 0.45,
+      "away": 0.45,
+      "advice": "Combo Double chance : draw or Real Betis and +1.5 goals",
+      "formHome": "WLW",
+      "formAway": "WWW",
+      "comparison": {
+        "form": {
+          "home": "40%",
+          "away": "60%"
+        },
+        "att": {
+          "home": "42%",
+          "away": "58%"
+        },
+        "def": {
+          "home": "50%",
+          "away": "50%"
+        },
+        "total": {
+          "home": "43.0%",
+          "away": "57.0%"
+        }
+      },
+      "h2h": []
+    }
+  }
+}

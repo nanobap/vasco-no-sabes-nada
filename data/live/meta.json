@@ -1,7 +1,8 @@
 {
   "source": "API-Football (api-sports.io)",
-  "syncedAtUtc": null,
-  "requestsUsed": 0,
-  "matched": 0,
-  "total": 0
+  "syncedAtUtc": "2026-11-04T12:56:01.230Z",
+  "requestsUsed": 12,
+  "matched": 66,
+  "total": 69,
+  "dryRun": false
 }
