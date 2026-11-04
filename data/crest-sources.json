@@ -1,113 +1,325 @@
 {
   "_doc": "Fuente alternativa de escudos cuando TheSportsDB no responde: imagen principal del artículo de Wikipedia (API pageimages, pilicense=any) o una URL directa. id → { wiki: 'lang:Título' } | { url }.",
   "teams": {
-    "bodo-glimt": { "wiki": "en:FK Bodø/Glimt" },
-    "lille": { "wiki": "en:Lille OSC" },
-    "como": { "wiki": "en:Como 1907" },
-    "slavia-praha": { "wiki": "en:SK Slavia Prague" },
-    "arsenal": { "wiki": "en:Arsenal F.C." },
-    "viking": { "wiki": "en:Viking FK" },
-    "sabah": { "wiki": "en:Sabah FC (Azerbaijan)" },
-    "rennes": { "wiki": "en:Stade Rennais F.C." },
-    "omonia": { "wiki": "en:AC Omonia" },
-    "levski": { "wiki": "en:PFC Levski Sofia" },
-    "jagiellonia": { "wiki": "en:Jagiellonia Białystok" },
-    "real-sociedad": { "wiki": "en:Real Sociedad" },
-    "lyon": { "wiki": "en:Olympique Lyonnais" },
-    "anderlecht": { "wiki": "en:R.S.C. Anderlecht" },
-    "salzburg": { "wiki": "en:FC Red Bull Salzburg" },
-    "az": { "wiki": "en:AZ Alkmaar" },
-    "juventus": { "wiki": "en:Juventus FC" },
-    "leverkusen": { "wiki": "en:Bayer 04 Leverkusen" },
-    "marseille": { "wiki": "en:Olympique de Marseille" },
-    "celtic": { "wiki": "en:Celtic F.C." },
-    "besiktas": { "wiki": "en:Beşiktaş J.K." },
-    "hapoel-beer-sheva": { "wiki": "en:Hapoel Be'er Sheva F.C." },
-    "ofi": { "wiki": "en:OFI Crete F.C." },
-    "celta": { "wiki": "en:RC Celta de Vigo" },
-    "union-sg": { "wiki": "en:Royale Union Saint-Gilloise" },
-    "torreense": { "wiki": "en:S.C.U. Torreense" },
-    "ararat-armenia": { "wiki": "en:FC Ararat-Armenia" },
-    "sturm-graz": { "wiki": "en:SK Sturm Graz" },
-    "celje": { "wiki": "en:NK Celje" },
-    "benfica": { "wiki": "en:S.L. Benfica" },
-    "lech": { "wiki": "en:Lech Poznań" },
-    "sunderland": { "wiki": "en:Sunderland A.F.C." },
-    "dinamo-zagreb": { "wiki": "en:GNK Dinamo Zagreb" },
-    "agf": { "wiki": "en:Aarhus Gymnastikforening" },
-    "braga": { "wiki": "en:S.C. Braga" },
-    "atalanta": { "wiki": "en:Atalanta BC" },
-    "kairat": { "wiki": "en:FC Kairat" },
-    "midtjylland": { "wiki": "en:FC Midtjylland" },
-    "ajax": { "wiki": "en:AFC Ajax" },
-    "thun": { "wiki": "en:FC Thun" },
-    "hearts": { "wiki": "en:Heart of Midlothian F.C." },
-    "red-star": { "wiki": "en:Red Star Belgrade" },
-    "inter-escaldes": { "wiki": "en:Inter Club d'Escaldes" },
-    "kups": { "wiki": "en:Kuopion Palloseura" },
-    "gent": { "wiki": "en:K.A.A. Gent" },
-    "lincoln": { "wiki": "en:Lincoln Red Imps F.C." },
-    "hajduk": { "wiki": "en:HNK Hajduk Split" },
-    "mjallby": { "wiki": "en:Mjällby AIF" },
-    "borac": { "wiki": "en:FK Borac Banja Luka" },
-    "trabzonspor": { "wiki": "en:Trabzonspor" },
-    "freiburg": { "wiki": "en:SC Freiburg" },
-    "monaco": { "wiki": "en:AS Monaco FC" },
-    "nordsjaelland": { "wiki": "en:FC Nordsjælland" },
-    "copenhagen": { "wiki": "en:F.C. Copenhagen" },
-    "iberia-1999": { "wiki": "en:FC Iberia 1999" },
-    "lugano": { "wiki": "en:FC Lugano" },
-    "kauno-zalgiris": { "wiki": "en:FK Kauno Žalgiris" },
-    "twente": { "wiki": "en:FC Twente" },
-    "pafos": { "wiki": "en:Pafos FC" },
-    "getafe": { "wiki": "en:Getafe CF" },
-    "brighton": { "wiki": "en:Brighton & Hove Albion F.C." },
-    "sint-truiden": { "wiki": "en:Sint-Truidense V.V." },
-    "brann": { "wiki": "en:SK Brann" },
-    "panathinaikos": { "wiki": "en:Panathinaikos F.C." },
-    "cska-sofia": { "wiki": "en:PFC CSKA Sofia" },
-    "riga": { "wiki": "en:Riga FC" },
-    "jablonec": { "wiki": "en:FK Jablonec" },
-    "u-craiova": { "wiki": "en:CS Universitatea Craiova" },
-    "egnatia": { "wiki": "en:KF Egnatia" },
-    "san-carlos": { "wiki": "es:San Carlos Fútbol Club" },
-    "boston-river": { "wiki": "en:Boston River" },
-    "lito": { "wiki": "es:Club Atlético Lito" },
-    "wanderers": { "wiki": "en:Montevideo Wanderers F.C." },
-    "ferro-carril-salto": { "wiki": "es:Ferro Carril Fútbol Club" },
-    "nacional": { "url": "https://r2.thesportsdb.com/images/media/team/badge/fvg3s21649793329.png" },
-    "penarol": { "url": "https://r2.thesportsdb.com/images/media/team/badge/uuwpux1473541171.png" },
-    "gladiador": { "wiki": "es:Gladiador Fútbol Club" },
-    "liverpool-uru": { "wiki": "en:Liverpool F.C. (Montevideo)" },
-    "libertad-san-carlos": { "wiki": "es:Club Libertad (San Carlos)" },
-    "torque": { "wiki": "en:Montevideo City Torque" },
-    "chapecoense": { "wiki": "en:Associação Chapecoense de Futebol" },
-    "mirassol": { "wiki": "en:Mirassol Futebol Clube" },
-    "internacional": { "wiki": "en:Sport Club Internacional" },
-    "coritiba": { "wiki": "en:Coritiba Foot Ball Club" },
-    "flamengo": { "wiki": "en:CR Flamengo" },
-    "gremio": { "wiki": "en:Grêmio Foot-Ball Porto Alegrense" },
-    "athletico-pr": { "wiki": "en:Club Athletico Paranaense" },
-    "vasco": { "wiki": "en:CR Vasco da Gama" },
-    "botafogo": { "wiki": "en:Botafogo de Futebol e Regatas" },
-    "atletico-mineiro": { "wiki": "en:Clube Atlético Mineiro" },
-    "sao-paulo": { "wiki": "en:São Paulo FC" },
-    "corinthians": { "wiki": "en:Sport Club Corinthians Paulista" },
-    "palmeiras": { "wiki": "en:Sociedade Esportiva Palmeiras" },
-    "remo": { "wiki": "en:Clube do Remo" },
-    "cruzeiro": { "wiki": "en:Cruzeiro Esporte Clube" },
-    "bahia": { "wiki": "en:Esporte Clube Bahia" },
-    "aldosivi": { "wiki": "en:Club Atlético Aldosivi" },
-    "river-plate-arg": { "wiki": "en:Club Atlético River Plate" },
-    "gimnasia-lp": { "wiki": "en:Club de Gimnasia y Esgrima La Plata" },
-    "belgrano": { "wiki": "en:Club Atlético Belgrano" }
+    "bodo-glimt": {
+      "wiki": "en:FK Bodø/Glimt"
+    },
+    "lille": {
+      "wiki": "en:Lille OSC"
+    },
+    "como": {
+      "wiki": "en:Como 1907"
+    },
+    "slavia-praha": {
+      "wiki": "en:SK Slavia Prague"
+    },
+    "arsenal": {
+      "wiki": "en:Arsenal F.C."
+    },
+    "viking": {
+      "wiki": "en:Viking FK"
+    },
+    "sabah": {
+      "wiki": "en:Sabah FC (Azerbaijan)"
+    },
+    "rennes": {
+      "wiki": "en:Stade Rennais F.C."
+    },
+    "omonia": {
+      "wiki": "en:AC Omonia"
+    },
+    "levski": {
+      "wiki": "en:PFC Levski Sofia"
+    },
+    "jagiellonia": {
+      "wiki": "en:Jagiellonia Białystok"
+    },
+    "real-sociedad": {
+      "wiki": "en:Real Sociedad"
+    },
+    "lyon": {
+      "wiki": "en:Olympique Lyonnais"
+    },
+    "anderlecht": {
+      "wiki": "en:R.S.C. Anderlecht"
+    },
+    "salzburg": {
+      "wiki": "en:FC Red Bull Salzburg"
+    },
+    "az": {
+      "wiki": "en:AZ Alkmaar"
+    },
+    "juventus": {
+      "wiki": "en:Juventus FC"
+    },
+    "leverkusen": {
+      "wiki": "en:Bayer 04 Leverkusen"
+    },
+    "marseille": {
+      "wiki": "en:Olympique de Marseille"
+    },
+    "celtic": {
+      "wiki": "en:Celtic F.C."
+    },
+    "besiktas": {
+      "wiki": "en:Beşiktaş J.K."
+    },
+    "hapoel-beer-sheva": {
+      "wiki": "en:Hapoel Be'er Sheva F.C."
+    },
+    "ofi": {
+      "wiki": "en:OFI Crete F.C."
+    },
+    "celta": {
+      "wiki": "en:RC Celta de Vigo"
+    },
+    "union-sg": {
+      "wiki": "en:Royale Union Saint-Gilloise"
+    },
+    "torreense": {
+      "wiki": "en:S.C.U. Torreense"
+    },
+    "ararat-armenia": {
+      "wiki": "en:FC Ararat-Armenia"
+    },
+    "sturm-graz": {
+      "wiki": "en:SK Sturm Graz"
+    },
+    "celje": {
+      "wiki": "en:NK Celje"
+    },
+    "benfica": {
+      "wiki": "en:S.L. Benfica"
+    },
+    "lech": {
+      "wiki": "en:Lech Poznań"
+    },
+    "sunderland": {
+      "wiki": "en:Sunderland A.F.C."
+    },
+    "dinamo-zagreb": {
+      "wiki": "en:GNK Dinamo Zagreb"
+    },
+    "agf": {
+      "wiki": "en:Aarhus Gymnastikforening"
+    },
+    "braga": {
+      "wiki": "en:S.C. Braga"
+    },
+    "atalanta": {
+      "wiki": "en:Atalanta BC"
+    },
+    "kairat": {
+      "wiki": "en:FC Kairat"
+    },
+    "midtjylland": {
+      "wiki": "en:FC Midtjylland"
+    },
+    "ajax": {
+      "wiki": "en:AFC Ajax"
+    },
+    "thun": {
+      "wiki": "en:FC Thun"
+    },
+    "hearts": {
+      "wiki": "en:Heart of Midlothian F.C."
+    },
+    "red-star": {
+      "wiki": "en:Red Star Belgrade"
+    },
+    "inter-escaldes": {
+      "wiki": "en:Inter Club d'Escaldes"
+    },
+    "kups": {
+      "wiki": "en:Kuopion Palloseura"
+    },
+    "gent": {
+      "wiki": "en:K.A.A. Gent"
+    },
+    "lincoln": {
+      "wiki": "en:Lincoln Red Imps F.C."
+    },
+    "hajduk": {
+      "wiki": "en:HNK Hajduk Split"
+    },
+    "mjallby": {
+      "wiki": "en:Mjällby AIF"
+    },
+    "borac": {
+      "wiki": "en:FK Borac Banja Luka"
+    },
+    "trabzonspor": {
+      "wiki": "en:Trabzonspor"
+    },
+    "freiburg": {
+      "wiki": "en:SC Freiburg"
+    },
+    "monaco": {
+      "wiki": "en:AS Monaco FC"
+    },
+    "nordsjaelland": {
+      "wiki": "en:FC Nordsjælland"
+    },
+    "copenhagen": {
+      "wiki": "en:F.C. Copenhagen"
+    },
+    "iberia-1999": {
+      "wiki": "en:FC Iberia 1999"
+    },
+    "lugano": {
+      "wiki": "en:FC Lugano"
+    },
+    "kauno-zalgiris": {
+      "wiki": "en:FK Kauno Žalgiris"
+    },
+    "twente": {
+      "wiki": "en:FC Twente"
+    },
+    "pafos": {
+      "wiki": "en:Pafos FC"
+    },
+    "getafe": {
+      "wiki": "en:Getafe CF"
+    },
+    "brighton": {
+      "wiki": "en:Brighton & Hove Albion F.C."
+    },
+    "sint-truiden": {
+      "wiki": "en:Sint-Truidense V.V."
+    },
+    "brann": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/960px-Brann_logo.svg.png"
+    },
+    "panathinaikos": {
+      "wiki": "en:Panathinaikos F.C."
+    },
+    "cska-sofia": {
+      "wiki": "en:PFC CSKA Sofia"
+    },
+    "riga": {
+      "wiki": "en:Riga FC"
+    },
+    "jablonec": {
+      "wiki": "en:FK Jablonec"
+    },
+    "u-craiova": {
+      "wiki": "en:CS Universitatea Craiova"
+    },
+    "egnatia": {
+      "wiki": "en:KF Egnatia"
+    },
+    "san-carlos": {
+      "url": "https://img.sofascore.com/api/v1/team/521097/image"
+    },
+    "boston-river": {
+      "wiki": "en:Boston River"
+    },
+    "lito": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/CA_Lito_2021.png"
+    },
+    "wanderers": {
+      "wiki": "en:Montevideo Wanderers F.C."
+    },
+    "ferro-carril-salto": {
+      "url": "https://www.auf.org.uy/imagenes/img_contenido/club_club/a/ferro_carril_salto.png"
+    },
+    "nacional": {
+      "url": "https://r2.thesportsdb.com/images/media/team/badge/fvg3s21649793329.png"
+    },
+    "penarol": {
+      "url": "https://r2.thesportsdb.com/images/media/team/badge/uuwpux1473541171.png"
+    },
+    "gladiador": {
+      "url": "https://img.sofascore.com/api/v1/team/1110876/image"
+    },
+    "liverpool-uru": {
+      "wiki": "en:Liverpool F.C. (Montevideo)"
+    },
+    "libertad-san-carlos": {
+      "url": "https://www.auf.org.uy/imagenes/img_contenido/club_club/a/club_atletico_libertad.png"
+    },
+    "torque": {
+      "wiki": "en:Montevideo City Torque"
+    },
+    "chapecoense": {
+      "wiki": "en:Associação Chapecoense de Futebol"
+    },
+    "mirassol": {
+      "wiki": "en:Mirassol Futebol Clube"
+    },
+    "internacional": {
+      "wiki": "en:Sport Club Internacional"
+    },
+    "coritiba": {
+      "wiki": "en:Coritiba Foot Ball Club"
+    },
+    "flamengo": {
+      "wiki": "en:CR Flamengo"
+    },
+    "gremio": {
+      "wiki": "en:Grêmio Foot-Ball Porto Alegrense"
+    },
+    "athletico-pr": {
+      "wiki": "en:Club Athletico Paranaense"
+    },
+    "vasco": {
+      "wiki": "en:CR Vasco da Gama"
+    },
+    "botafogo": {
+      "wiki": "en:Botafogo de Futebol e Regatas"
+    },
+    "atletico-mineiro": {
+      "wiki": "en:Clube Atlético Mineiro"
+    },
+    "sao-paulo": {
+      "wiki": "en:São Paulo FC"
+    },
+    "corinthians": {
+      "wiki": "en:Sport Club Corinthians Paulista"
+    },
+    "palmeiras": {
+      "wiki": "en:Sociedade Esportiva Palmeiras"
+    },
+    "remo": {
+      "wiki": "en:Clube do Remo"
+    },
+    "cruzeiro": {
+      "wiki": "en:Cruzeiro Esporte Clube"
+    },
+    "bahia": {
+      "wiki": "en:Esporte Clube Bahia"
+    },
+    "aldosivi": {
+      "wiki": "en:Club Atlético Aldosivi"
+    },
+    "river-plate-arg": {
+      "wiki": "en:Club Atlético River Plate"
+    },
+    "gimnasia-lp": {
+      "wiki": "en:Club de Gimnasia y Esgrima La Plata"
+    },
+    "belgrano": {
+      "wiki": "en:Club Atlético Belgrano"
+    }
   },
   "competitions": {
-    "copa-auf": { "url": "https://r2.thesportsdb.com/images/media/league/badge/bn34hc1734111428.png" },
-    "ucl": { "url": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png" },
-    "uel": { "url": "https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png" },
-    "uecl": { "url": "https://r2.thesportsdb.com/images/media/league/badge/ymfo5j1718775759.png" },
-    "brasileirao": { "url": "https://r2.thesportsdb.com/images/media/league/badge/lywv7t1766787179.png" },
-    "lpf": { "url": "https://r2.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png" }
+    "copa-auf": {
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/bn34hc1734111428.png"
+    },
+    "ucl": {
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/facv1u1742998896.png"
+    },
+    "uel": {
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/mlsr7d1718774547.png"
+    },
+    "uecl": {
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/ymfo5j1718775759.png"
+    },
+    "brasileirao": {
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/lywv7t1766787179.png"
+    },
+    "lpf": {
+      "url": "https://r2.thesportsdb.com/images/media/league/badge/rk9xhx1768238251.png"
+    }
   }
 }
