@@ -2,7 +2,8 @@
 import sharp from "sharp";
 import { readFileSync, existsSync } from "node:fs";
 
-const vasco = existsSync("public/vasco.jpg") ? readFileSync("public/vasco.jpg").toString("base64") : null;
+// Sin foto: la identidad del Vasco es el avatar 3D de la web.
+const vasco = null;
 
 const svg = `
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="630" viewBox="0 0 1200 630">

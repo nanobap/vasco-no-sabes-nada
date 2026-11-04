@@ -12,9 +12,11 @@
     "deploy": "npm run build && node scripts/deploy.mjs"
   },
   "dependencies": {
+    "@types/three": "^0.187.0",
     "next": "16.4.5",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "three": "^0.187.0"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",

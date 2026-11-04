@@ -12,7 +12,10 @@ import { Filters } from "./Filters";
 import { CompetitionSection } from "./CompetitionSection";
 import { EmptyState } from "./EmptyState";
 import { BottomBar } from "./BottomBar";
-import { IntroVasco } from "./IntroVasco";
+import dynamic from "next/dynamic";
+
+// La intro trae three.js: se carga solo cuando hace falta y nunca en el servidor.
+const IntroVasco = dynamic(() => import("./IntroVasco"), { ssr: false });
 
 const INTRO_KEY = "vasco:intro:v1";
 

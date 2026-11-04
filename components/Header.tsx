@@ -9,9 +9,9 @@ export function Header({ count, verifiedAtUtc }: { count: number; verifiedAtUtc:
           <p className="font-display text-[10px] font-bold uppercase tracking-[0.35em] text-neon">
             Agenda diaria de fútbol · UY
           </p>
-          <h1 className="font-display mt-2 text-[34px] font-black leading-[0.95] tracking-tight sm:text-5xl">
+          <h1 className="font-display mt-2 text-[32px] font-black leading-[1.08] tracking-tight sm:text-5xl">
             <span className="block text-fg">VASCO,</span>
-            <span className="brand-stroke block">NO SABÉS</span>
+            <span className="block text-fg-2">NO SABÉS</span>
             <span className="text-glow block text-neon">NADA.</span>
           </h1>
           <p className="mt-3 max-w-xs text-[14px] leading-snug text-fg-2 sm:max-w-sm sm:text-[15px]">
