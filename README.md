@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# VASCO, NO SABÉS NADA ⚽
 
-## Getting Started
+Agenda diaria de fútbol para compartir en el grupo. Horarios en **America/Montevideo**, escudos reales, sin resultados inventados.
 
-First, run the development server:
+**URL pública:** https://nanobap.github.io/vasco-no-sabes-nada/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Next.js 16 (App Router, `output: "export"`) + TypeScript + Tailwind v4
+- Sin backend: la agenda es un **snapshot verificado a mano** embebido en el build (`data/snapshot.json`)
+- Hosting: GitHub Pages (rama `gh-pages`, basePath `/vasco-no-sabes-nada`)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Cómo actualizar la agenda
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Editá `data/snapshot.matches.json` (partidos, estado, marcadores finales verificados) y `meta.verifiedAtUtc`.
+2. Si aparece un equipo nuevo, agregalo a `data/teams.source.json` y bajá su escudo:
+   ```bash
+   node scripts/fetch-crests.mjs --only nuevo-equipo
+   ```
+3. Generá y validá el snapshot (falla si falta un escudo, una referencia o si alguien declara un partido "live"):
+   ```bash
+   node scripts/build-snapshot.mjs
+   ```
+4. Build + deploy:
+   ```bash
+   npm run deploy
+   ```
 
-## Learn More
+## Reglas de datos
 
-To learn more about Next.js, take a look at the following resources:
+- `kickoffUtc` siempre en UTC con `Z`. La UI formatea en Montevideo.
+- `status: "finished"` solo con marcador verificado en ≥2 fuentes. Nunca `live` en el snapshot.
+- Si por horario un partido ya empezó, la UI dice explícitamente que **no hay marcador en vivo** (no finge).
+- Escudos: PNG transparentes normalizados a 256×256 en `public/crests/<id>.png`, descargados desde TheSportsDB.
+  Pertenecen a sus clubes; se usan únicamente para identificarlos (uso nominativo).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Fase 2 (preparada, no implementada)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+La UI consume solo el contrato `AgendaProvider` (`lib/data/provider.ts`). Para resultados en vivo:
 
-## Deploy on Vercel
+- Implementar `LiveProvider` (`lib/data/liveProvider.ts`): HTTP a una API deportiva, normalización a `Match[]`,
+  caché memoria + localStorage con TTL, polling adaptativo (30-60 s con partidos en curso, 10-15 min si no),
+  pausa con la pestaña oculta, fallback al último caché con marca de tiempo.
+- Activar con `NEXT_PUBLIC_DATA_SOURCE=live` y `NEXT_PUBLIC_LIVE_ENDPOINT=...` (idealmente un proxy mínimo que
+  esconda la API key).
+- Solo HTTP y lógica convencional. Nada de modelos de IA para "deducir" resultados.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Scripts
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Script | Qué hace |
+|---|---|
+| `scripts/fetch-crests.mjs` | Baja escudos y logos de torneos (TheSportsDB) y los normaliza |
+| `scripts/build-snapshot.mjs` | Une equipos + partidos, valida y escribe `data/snapshot.json` |
+| `scripts/og.mjs` | Genera `public/og.png` (1200×630) e íconos |
+| `scripts/vasco-photo.mjs` | Recorta y escala la foto del Vasco para la intro |
+| `scripts/deploy.mjs` | Publica `out/` en la rama `gh-pages` |
