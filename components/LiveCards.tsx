@@ -16,7 +16,6 @@ export function LiveCards({ match: m }: { match: MatchView }) {
     return true;
   });
   const p = d.prediction;
-  const pct = (v: number | null) => (v == null ? "–" : `${Math.round(v * 100)}%`);
   const form = (f: string | null) =>
     f ? (
       <span className="inline-flex gap-1">
@@ -40,7 +39,7 @@ export function LiveCards({ match: m }: { match: MatchView }) {
 
   return (
     <>
-      {p && (p.home != null || p.formHome || p.h2h?.length) && (
+      {p && (p.comparison || p.formHome || p.h2h?.length) && (
         <section className="card rounded-3xl p-5">
           <div className="flex items-start justify-between gap-3">
             <div>
@@ -51,19 +50,43 @@ export function LiveCards({ match: m }: { match: MatchView }) {
               API-Football
             </span>
           </div>
-          {p.home != null && (
-            <div className="mt-4 grid grid-cols-3 gap-2 text-center">
-              {[
-                { l: m.home.shortName, v: p.home, t: m.home },
-                { l: "Empate", v: p.draw, t: null },
-                { l: m.away.shortName, v: p.away, t: m.away },
-              ].map((x) => (
-                <div key={x.l} className="rounded-2xl border border-line bg-white/4 px-2 py-3">
-                  <div className="flex justify-center">{x.t ? <Crest team={x.t} size={24} /> : <span className="h-6" />}</div>
-                  <div className="font-display mt-1 text-2xl font-black tabular-nums">{pct(x.v)}</div>
-                  <div className="truncate text-[11px] text-muted">{x.l}</div>
-                </div>
-              ))}
+          {p.comparison && (
+            <div className="mt-4 space-y-2.5">
+              {(
+                [
+                  ["total", "Fuerza total"],
+                  ["form", "Forma"],
+                  ["att", "Ataque"],
+                  ["def", "Defensa"],
+                ] as const
+              ).map(([key, label]) => {
+                const rec = p.comparison?.[key];
+                if (!rec) return null;
+                const h = parseFloat(rec.home) || 0;
+                const a = parseFloat(rec.away) || 0;
+                const sum = h + a || 1;
+                return (
+                  <div key={key}>
+                    <div className="mb-1 flex items-center justify-between text-[12px]">
+                      <span className="font-display tabular-nums text-fg">{Math.round((h / sum) * 100)}%</span>
+                      <span className="text-[10px] uppercase tracking-[0.18em] text-muted">{label}</span>
+                      <span className="font-display tabular-nums text-fg">{Math.round((a / sum) * 100)}%</span>
+                    </div>
+                    <div className="flex h-2.5 overflow-hidden rounded-full bg-white/6">
+                      <div className="h-full" style={{ width: `${(h / sum) * 100}%`, background: m.home.color ?? "#4dff9a" }} />
+                      <div className="h-full flex-1" style={{ background: m.away.color ?? "#7dd3fc", opacity: 0.85 }} />
+                    </div>
+                  </div>
+                );
+              })}
+              <div className="flex items-center justify-between text-[11px] text-muted">
+                <span className="inline-flex items-center gap-1.5">
+                  <Crest team={m.home} size={16} /> {m.home.shortName}
+                </span>
+                <span className="inline-flex items-center gap-1.5">
+                  {m.away.shortName} <Crest team={m.away} size={16} />
+                </span>
+              </div>
             </div>
           )}
           <dl className="mt-4 grid grid-cols-2 gap-3 text-[13px]">
@@ -95,7 +118,7 @@ export function LiveCards({ match: m }: { match: MatchView }) {
           )}
           {p.advice && <p className="mt-3 text-[12px] text-muted">Lectura del modelo: {p.advice}</p>}
           <p className="mt-2 text-[11px] text-muted">
-            Pronóstico estadístico del proveedor, actualizado {formatStamp(d.updatedAtUtc)}. Referencia, no apuesta.
+            Comparativa estadística del proveedor (no es probabilidad de victoria), actualizada {formatStamp(d.updatedAtUtc)}.
           </p>
         </section>
       )}
