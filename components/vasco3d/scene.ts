@@ -519,10 +519,11 @@ export function mountVasco(canvas: HTMLCanvasElement, opts: Opts = {}): VascoHan
         // abre los brazos antes de doblar los codos, así el antebrazo sube por fuera del pecho
         const open = easeInOut(clamp(u * 4, 0, 1)) * easeInOut(clamp((1 - u) * 2.5, 0, 1));
         const bend = easeInOut(clamp((u - 0.12) * 3.5, 0, 1)) * easeInOut(clamp((1 - u) * 3, 0, 1));
-        p.armL.set(-0.35 * bend, 0.25 * bend, 0.18 + 1.2 * open);
-        p.armR.set(-0.35 * bend, -0.25 * bend, -0.18 - 1.2 * open);
-        p.forearmL = -0.25 - 1.6 * bend;
-        p.forearmR = -0.25 - 1.6 * bend;
+        // codos afuera y antebrazos hacia afuera: las manos quedan separadas, palmas arriba
+        p.armL.set(-0.3 * bend, -0.7 * bend, 0.18 + 1.25 * open);
+        p.armR.set(-0.3 * bend, 0.7 * bend, -0.18 - 1.25 * open);
+        p.forearmL = -0.25 - 1.5 * bend;
+        p.forearmR = -0.25 - 1.5 * bend;
         p.torsoY = 0.06 * hold;
         p.head.z = 0.2 * hold;
         p.head.x = -0.06 * hold;
