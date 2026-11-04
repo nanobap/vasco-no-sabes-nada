@@ -1,7 +1,414 @@
 {
   "source": "ClubElo",
-  "date": null,
-  "fetchedAtUtc": null,
-  "ratings": {},
-  "missing": []
+  "date": "2026-11-04",
+  "fetchedAtUtc": "2026-11-04T12:47:49.914Z",
+  "ratings": {
+    "shakhtar": {
+      "club": "Shakhtar",
+      "elo": 1689
+    },
+    "sporting": {
+      "club": "Sporting",
+      "elo": 1860
+    },
+    "galatasaray": {
+      "club": "Galatasaray",
+      "elo": 1821
+    },
+    "stuttgart": {
+      "club": "Stuttgart",
+      "elo": 1816
+    },
+    "atletico-madrid": {
+      "club": "Atlético",
+      "elo": 1915
+    },
+    "bayern": {
+      "club": "Bayern München",
+      "elo": 2044
+    },
+    "barcelona": {
+      "club": "Barcelona",
+      "elo": 2030
+    },
+    "aston-villa": {
+      "club": "Aston Villa",
+      "elo": 1898
+    },
+    "feyenoord": {
+      "club": "Feyenoord",
+      "elo": 1724
+    },
+    "inter": {
+      "club": "Internazionale",
+      "elo": 1945
+    },
+    "bodo-glimt": {
+      "club": "Bodø/Glimt",
+      "elo": 1775
+    },
+    "lille": {
+      "club": "Lille",
+      "elo": 1775
+    },
+    "lask": {
+      "club": "LASK",
+      "elo": 1643
+    },
+    "slovan-bratislava": {
+      "club": "Slovan",
+      "elo": 1545
+    },
+    "manchester-united": {
+      "club": "Man United",
+      "elo": 1852
+    },
+    "roma": {
+      "club": "Roma",
+      "elo": 1862
+    },
+    "villarreal": {
+      "club": "Villarreal",
+      "elo": 1786
+    },
+    "psg": {
+      "club": "Paris SG",
+      "elo": 1989
+    },
+    "aek": {
+      "club": "AEK",
+      "elo": 1693
+    },
+    "real-madrid": {
+      "club": "Real Madrid",
+      "elo": 1995
+    },
+    "fenerbahce": {
+      "club": "Fenerbahçe",
+      "elo": 1767
+    },
+    "liverpool-eng": {
+      "club": "Liverpool",
+      "elo": 1939
+    },
+    "dortmund": {
+      "club": "Dortmund",
+      "elo": 1894
+    },
+    "betis": {
+      "club": "Betis",
+      "elo": 1827
+    },
+    "porto": {
+      "club": "Porto",
+      "elo": 1833
+    },
+    "napoli": {
+      "club": "Napoli",
+      "elo": 1826
+    },
+    "psv": {
+      "club": "PSV",
+      "elo": 1783
+    },
+    "brugge": {
+      "club": "Brugge",
+      "elo": 1836
+    },
+    "leipzig": {
+      "club": "RB Leipzig",
+      "elo": 1831
+    },
+    "manchester-city": {
+      "club": "Man City",
+      "elo": 2011
+    },
+    "lens": {
+      "club": "Lens",
+      "elo": 1802
+    },
+    "como": {
+      "club": "Como",
+      "elo": 1827
+    },
+    "slavia-praha": {
+      "club": "Slavia Praha",
+      "elo": 1746
+    },
+    "arsenal": {
+      "club": "Arsenal",
+      "elo": 2045
+    },
+    "viking": {
+      "club": "Viking",
+      "elo": 1707
+    },
+    "sabah": {
+      "club": "Sabah FK",
+      "elo": 1567
+    },
+    "rennes": {
+      "club": "Rennes",
+      "elo": 1753
+    },
+    "olympiacos": {
+      "club": "Olympiakos",
+      "elo": 1745
+    },
+    "milan": {
+      "club": "Milan",
+      "elo": 1831
+    },
+    "ferencvaros": {
+      "club": "Ferencvaros",
+      "elo": 1667
+    },
+    "sparta-praha": {
+      "club": "Sparta Praha",
+      "elo": 1644
+    },
+    "bournemouth": {
+      "club": "Bournemouth",
+      "elo": 1887
+    },
+    "crystal-palace": {
+      "club": "Crystal Palace",
+      "elo": 1810
+    },
+    "hoffenheim": {
+      "club": "Hoffenheim",
+      "elo": 1734
+    },
+    "lillestrom": {
+      "club": "Lillestrøm",
+      "elo": 1533
+    },
+    "plzen": {
+      "club": "Viktoria Plzeň",
+      "elo": 1620
+    },
+    "nec": {
+      "club": "Nijmegen",
+      "elo": 1590
+    },
+    "omonia": {
+      "club": "Omonia",
+      "elo": 1636
+    },
+    "levski": {
+      "club": "Levski",
+      "elo": 1594
+    },
+    "jagiellonia": {
+      "club": "Jagiellonia",
+      "elo": 1591
+    },
+    "real-sociedad": {
+      "club": "Real Sociedad",
+      "elo": 1789
+    },
+    "lyon": {
+      "club": "Lyon",
+      "elo": 1792
+    },
+    "anderlecht": {
+      "club": "Anderlecht",
+      "elo": 1662
+    },
+    "salzburg": {
+      "club": "RB Salzburg",
+      "elo": 1660
+    },
+    "az": {
+      "club": "AZ",
+      "elo": 1681
+    },
+    "juventus": {
+      "club": "Juventus",
+      "elo": 1828
+    },
+    "leverkusen": {
+      "club": "Leverkusen",
+      "elo": 1865
+    },
+    "marseille": {
+      "club": "Marseille",
+      "elo": 1765
+    },
+    "celtic": {
+      "club": "Celtic",
+      "elo": 1650
+    },
+    "besiktas": {
+      "club": "Besiktas",
+      "elo": 1707
+    },
+    "hapoel-beer-sheva": {
+      "club": "Beer-Sheva",
+      "elo": 1630
+    },
+    "ofi": {
+      "club": "OFI",
+      "elo": 1490
+    },
+    "celta": {
+      "club": "Celta",
+      "elo": 1746
+    },
+    "union-sg": {
+      "club": "St Gillis",
+      "elo": 1817
+    },
+    "torreense": {
+      "club": "Torreense",
+      "elo": 1452
+    },
+    "ararat-armenia": {
+      "club": "Ararat-Armenia",
+      "elo": 1439
+    },
+    "sturm-graz": {
+      "club": "Sturm Graz",
+      "elo": 1631
+    },
+    "celje": {
+      "club": "Celje",
+      "elo": 1512
+    },
+    "benfica": {
+      "club": "Benfica",
+      "elo": 1866
+    },
+    "lech": {
+      "club": "Lech",
+      "elo": 1681
+    },
+    "sunderland": {
+      "club": "Sunderland",
+      "elo": 1732
+    },
+    "dinamo-zagreb": {
+      "club": "Dinamo Zagreb",
+      "elo": 1655
+    },
+    "agf": {
+      "club": "Aarhus",
+      "elo": 1593
+    },
+    "braga": {
+      "club": "Braga",
+      "elo": 1707
+    },
+    "atalanta": {
+      "club": "Atalanta",
+      "elo": 1781
+    },
+    "midtjylland": {
+      "club": "Midtjylland",
+      "elo": 1712
+    },
+    "ajax": {
+      "club": "Ajax",
+      "elo": 1701
+    },
+    "thun": {
+      "club": "Thun",
+      "elo": 1546
+    },
+    "hearts": {
+      "club": "Hearts",
+      "elo": 1545
+    },
+    "red-star": {
+      "club": "Crvena Zvezda",
+      "elo": 1663
+    },
+    "gent": {
+      "club": "Gent",
+      "elo": 1641
+    },
+    "hajduk": {
+      "club": "Hajduk",
+      "elo": 1602
+    },
+    "mjallby": {
+      "club": "Mjällby",
+      "elo": 1513
+    },
+    "trabzonspor": {
+      "club": "Trabzonspor",
+      "elo": 1700
+    },
+    "freiburg": {
+      "club": "Freiburg",
+      "elo": 1786
+    },
+    "monaco": {
+      "club": "Monaco",
+      "elo": 1790
+    },
+    "nordsjaelland": {
+      "club": "Nordsjaelland",
+      "elo": 1621
+    },
+    "copenhagen": {
+      "club": "FC Kobenhavn",
+      "elo": 1692
+    },
+    "lugano": {
+      "club": "Lugano",
+      "elo": 1675
+    },
+    "twente": {
+      "club": "Twente",
+      "elo": 1683
+    },
+    "pafos": {
+      "club": "Paphos",
+      "elo": 1580
+    },
+    "getafe": {
+      "club": "Getafe",
+      "elo": 1684
+    },
+    "brighton": {
+      "club": "Brighton",
+      "elo": 1903
+    },
+    "sint-truiden": {
+      "club": "St Truiden",
+      "elo": 1617
+    },
+    "brann": {
+      "club": "Brann",
+      "elo": 1582
+    },
+    "panathinaikos": {
+      "club": "Panathinaikos",
+      "elo": 1671
+    },
+    "cska-sofia": {
+      "club": "CSKA Sofia",
+      "elo": 1515
+    },
+    "jablonec": {
+      "club": "Jablonec",
+      "elo": 1547
+    },
+    "u-craiova": {
+      "club": "Craiova",
+      "elo": 1599
+    }
+  },
+  "missing": [
+    "kairat",
+    "inter-escaldes",
+    "kups",
+    "lincoln",
+    "borac",
+    "iberia-1999",
+    "kauno-zalgiris",
+    "riga",
+    "egnatia"
+  ]
 }

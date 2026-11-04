@@ -34,16 +34,31 @@ Agenda diaria de fútbol para compartir en el grupo. Horarios en **America/Monte
 - Escudos: PNG transparentes normalizados a 256×256 en `public/crests/<id>.png`, descargados desde TheSportsDB.
   Pertenecen a sus clubes; se usan únicamente para identificarlos (uso nominativo).
 
-## Fase 2 (preparada, no implementada)
+## Fase 2: datos reales con API-Football (listo, falta la clave)
 
-La UI consume solo el contrato `AgendaProvider` (`lib/data/provider.ts`). Para resultados en vivo:
+Sin backend ni agentes: un cron de GitHub Actions (`.github/workflows/sync.yml`) corre
+`scripts/sync-api-football.mjs`, que con HTTP común:
 
-- Implementar `LiveProvider` (`lib/data/liveProvider.ts`): HTTP a una API deportiva, normalización a `Match[]`,
-  caché memoria + localStorage con TTL, polling adaptativo (30-60 s con partidos en curso, 10-15 min si no),
-  pausa con la pestaña oculta, fallback al último caché con marca de tiempo.
-- Activar con `NEXT_PUBLIC_DATA_SOURCE=live` y `NEXT_PUBLIC_LIVE_ENDPOINT=...` (idealmente un proxy mínimo que
-  esconda la API key).
-- Solo HTTP y lógica convencional. Nada de modelos de IA para "deducir" resultados.
+1. Pide `/fixtures?date=` por cada día del snapshot (1 pedido por día) y empareja cada partido nuestro por
+   equipos + hora. Guarda estado y marcador reales en `data/live/fixtures.json`.
+2. Para los partidos más cercanos (destacados, de hoy) pide `/injuries` y `/predictions`
+   (2 pedidos por partido, tope `--details`). Guarda `data/live/details.json`.
+3. Commitea `data/live` a `main`, hace el build y publica en `gh-pages`.
+
+La web mezcla eso sobre el snapshot (`lib/data/overlay.ts`): resultados finales, "en vivo" solo si la
+sincronización tiene menos de 25 minutos, postergados, y en la página del partido las bajas y el pronóstico.
+Nunca se inventa un marcador: sin datos, queda el snapshot.
+
+**Para activarlo:**
+1. Crear una cuenta en api-football.com (plan gratuito: 100 pedidos/día) y copiar la clave.
+2. Local: `.env.local` con `API_FOOTBALL_KEY=...` y correr `npm run sync` para probar.
+3. GitHub: `gh secret set API_FOOTBALL_KEY` en el repo. El cron arranca solo; también se puede
+   disparar a mano desde Actions ("Run workflow").
+
+Presupuesto: cada corrida usa ~3 pedidos de fixtures + 2 por partido con detalles. Con el cron cada 2 h
+y `--details 6` son ~180/día en el peor caso: el script corta al llegar a `--max-requests` (20 por defecto,
+o sea ≤ 240/día teóricos pero en la práctica ~60-100 porque los detalles frescos no se vuelven a pedir).
+Con plan pago (7.500/día) se puede bajar el cron a cada 5 minutos para marcador casi en vivo.
 
 ## Scripts
 

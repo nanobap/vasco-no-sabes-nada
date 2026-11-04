@@ -1,0 +1,85 @@
+# Sincroniza datos reales desde API-Football y republica el sitio. Sin IA ni agentes:
+# HTTP + build + push. Corre cada 2 horas (12 corridas/día ≈ 40-60 pedidos, dentro
+# de los 100 del plan gratuito). Con plan pago, bajar el cron a */5 y subir --details.
+name: sync-and-deploy
+
+on:
+  schedule:
+    - cron: "17 */2 * * *" # cada 2 horas (UTC)
+  workflow_dispatch:
+    inputs:
+      max_requests:
+        description: "Tope de pedidos a la API en esta corrida"
+        default: "20"
+      details:
+        description: "Cantidad de partidos con lesionados/pronóstico"
+        default: "6"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ¿Hay clave?
+        id: guard
+        env:
+          KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: |
+          if [ -z "$KEY" ]; then
+            echo "::notice::Falta el secret API_FOOTBALL_KEY; no se sincroniza nada."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.guard.outputs.skip != 'true'
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        if: steps.guard.outputs.skip != 'true'
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+        if: steps.guard.outputs.skip != 'true'
+
+      - name: Sincronizar con API-Football
+        if: steps.guard.outputs.skip != 'true'
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: |
+          node scripts/sync-api-football.mjs \
+            --max-requests "${{ github.event.inputs.max_requests || '20' }}" \
+            --details "${{ github.event.inputs.details || '6' }}"
+
+      - name: Guardar datos sincronizados en main
+        if: steps.guard.outputs.skip != 'true'
+        run: |
+          git config user.name "vasco-sync[bot]"
+          git config user.email "vasco-sync@users.noreply.github.com"
+          git add data/live data/apifootball-aliases.json
+          if git diff --cached --quiet; then
+            echo "sin cambios en data/live"
+          else
+            git commit -m "data: sincronización API-Football $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+            git push
+          fi
+
+      - name: Build
+        if: steps.guard.outputs.skip != 'true'
+        run: npm run build
+
+      - name: Deploy a gh-pages
+        if: steps.guard.outputs.skip != 'true'
+        env:
+          DEPLOY_REMOTE: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        run: node scripts/deploy.mjs

@@ -2,7 +2,7 @@
 
 import type { MatchView } from "@/lib/types";
 import { displayStatus } from "@/lib/status";
-import { isFinished } from "@/lib/agenda";
+import { hasScore } from "@/lib/agenda";
 import Link from "next/link";
 import { Crest } from "./Crest";
 import { CompetitionLogo } from "./CompetitionLogo";
@@ -10,7 +10,7 @@ import { StatusChip } from "./StatusChip";
 
 export function FeaturedMatch({ match: m, now }: { match: MatchView; now: number | null }) {
   const st = displayStatus(m, now);
-  const finished = isFinished(m);
+  const finished = hasScore(m);
 
   return (
     <section

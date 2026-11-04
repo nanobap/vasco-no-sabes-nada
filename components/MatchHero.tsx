@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import type { MatchView } from "@/lib/types";
 import { asset } from "@/lib/site";
-import { isFinished } from "@/lib/agenda";
+import { hasScore } from "@/lib/agenda";
 import type { StadiumHandle } from "./stadium3d/stadium";
 import { Crest } from "./Crest";
 import { CompetitionLogo } from "./CompetitionLogo";
@@ -17,7 +17,7 @@ export function MatchHero({ match: m }: { match: MatchView }) {
   const wrapRef = useRef<HTMLDivElement>(null);
   const handleRef = useRef<StadiumHandle | null>(null);
   const [ready, setReady] = useState(false);
-  const finished = isFinished(m);
+  const finished = hasScore(m);
 
   useEffect(() => {
     let cancelled = false;

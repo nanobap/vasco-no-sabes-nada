@@ -1,7 +1,7 @@
 import { SITE } from "@/lib/site";
 import { formatStamp } from "@/lib/time";
 
-export function Header({ count, verifiedAtUtc }: { count: number; verifiedAtUtc: string }) {
+export function Header({ count, verifiedAtUtc, syncedAtUtc }: { count: number; verifiedAtUtc: string; syncedAtUtc?: string | null }) {
   return (
     <header className="relative pb-5 pt-7 sm:pt-10">
       <div className="flex items-start justify-between gap-4">
@@ -34,7 +34,11 @@ export function Header({ count, verifiedAtUtc }: { count: number; verifiedAtUtc:
       <p className="mt-4 inline-flex flex-wrap items-center gap-x-2 gap-y-1 rounded-full border border-line bg-white/3 px-3 py-1.5 text-[11px] text-fg-2">
         <span className="inline-block h-1.5 w-1.5 rounded-full bg-neon" />
         Agenda verificada el {formatStamp(verifiedAtUtc)} (hora UY)
-        <span className="text-muted">· sin marcadores en vivo</span>
+        {syncedAtUtc ? (
+          <span className="text-muted">· resultados sincronizados {formatStamp(syncedAtUtc)}</span>
+        ) : (
+          <span className="text-muted">· sin marcadores en vivo</span>
+        )}
       </p>
     </header>
   );

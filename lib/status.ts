@@ -2,6 +2,7 @@ import type { MatchView } from "./types";
 
 export type DisplayStatus =
   | { kind: "scheduled"; label: string }
+  | { kind: "live"; label: string }
   | { kind: "in-progress"; label: string; note: string }
   | { kind: "ended-pending"; label: string; note: string }
   | { kind: "finished"; label: string }
@@ -17,6 +18,7 @@ const MATCH_LENGTH_MS = 115 * 60 * 1000;
  */
 export function displayStatus(m: MatchView, now: number | null): DisplayStatus {
   if (m.status === "finished") return { kind: "finished", label: "Final" };
+  if (m.status === "live") return { kind: "live", label: "En vivo" };
   if (m.status === "postponed") return { kind: "postponed", label: "Postergado" };
   if (m.status === "unknown") return { kind: "unknown", label: "Sin datos" };
   if (now == null) return { kind: "scheduled", label: m.localTime };

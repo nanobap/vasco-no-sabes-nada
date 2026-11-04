@@ -2,7 +2,7 @@
 
 import type { MatchView } from "@/lib/types";
 import { displayStatus } from "@/lib/status";
-import { isFinished } from "@/lib/agenda";
+import { hasScore } from "@/lib/agenda";
 import Link from "next/link";
 import { Crest } from "./Crest";
 import { StatusChip } from "./StatusChip";
@@ -15,7 +15,7 @@ interface Props {
 
 export function MatchCard({ match: m, now, index = 0 }: Props) {
   const st = displayStatus(m, now);
-  const finished = isFinished(m);
+  const finished = hasScore(m);
   const homeWins = finished && (m.homeScore ?? 0) > (m.awayScore ?? 0);
   const awayWins = finished && (m.awayScore ?? 0) > (m.homeScore ?? 0);
 

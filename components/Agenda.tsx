@@ -5,6 +5,7 @@ import type { MatchView, SnapshotMeta } from "@/lib/types";
 import { groupByCompetition, matchesQuery, pickFeatured } from "@/lib/agenda";
 import { addDays, formatLongDay, formatShortDay, todayLocal } from "@/lib/time";
 import { buildShareText, whatsappUrl } from "@/lib/share";
+import { liveMeta } from "@/lib/data/overlay";
 import { Header } from "./Header";
 import { DayNav, type DayTab } from "./DayNav";
 import { FeaturedMatch } from "./FeaturedMatch";
@@ -119,7 +120,7 @@ export function Agenda({ matches, meta, defaultToday }: Props) {
       {intro && <IntroVasco onDone={closeIntro} />}
 
       <main className="relative z-[1] mx-auto w-full max-w-3xl px-4 pb-32">
-        <Header count={tabs[1].count} verifiedAtUtc={meta.verifiedAtUtc} />
+        <Header count={tabs[1].count} verifiedAtUtc={meta.verifiedAtUtc} syncedAtUtc={liveMeta.syncedAtUtc} />
 
         <DayNav tabs={tabs} active={active} onChange={changeDay} />
 

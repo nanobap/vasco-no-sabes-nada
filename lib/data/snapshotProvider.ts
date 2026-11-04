@@ -2,10 +2,12 @@ import type { AgendaProvider } from "./provider";
 import type { AgendaSnapshot, Match, SnapshotMeta } from "@/lib/types";
 import { toLocalDate } from "@/lib/time";
 import snapshot from "@/data/snapshot.json";
+import { applyOverlay } from "./overlay";
 
-const data = snapshot as unknown as AgendaSnapshot;
+// Snapshot verificado a mano + capa de datos reales (API-Football) si el cron la escribió.
+const data = applyOverlay(snapshot as unknown as AgendaSnapshot);
 
-/** Proveedor de la fase 1: snapshot verificado a mano, embebido en el build. */
+/** Snapshot embebido en el build, con superposición de resultados reales cuando existen. */
 export class SnapshotProvider implements AgendaProvider {
   readonly kind = "snapshot";
 

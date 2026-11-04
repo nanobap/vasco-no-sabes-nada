@@ -7,7 +7,8 @@ import { join } from "node:path";
 
 if (!existsSync("out/index.html")) throw new Error("No existe out/index.html: corré `npm run build` primero");
 
-const remote = execSync("git remote get-url origin").toString().trim();
+// En GitHub Actions se pasa DEPLOY_REMOTE con el token; local usa origin.
+const remote = process.env.DEPLOY_REMOTE ?? execSync("git remote get-url origin").toString().trim();
 const sha = execSync("git rev-parse --short HEAD").toString().trim();
 const work = mkdtempSync(join(tmpdir(), "vasco-pages-"));
 

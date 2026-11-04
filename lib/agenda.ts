@@ -74,3 +74,8 @@ export function matchesQuery(m: MatchView, q: string): boolean {
 export function isFinished(m: Match): boolean {
   return m.status === "finished" && m.homeScore != null && m.awayScore != null;
 }
+
+/** Hay marcador para mostrar: terminado o en vivo con datos frescos. */
+export function hasScore(m: Match): boolean {
+  return (m.status === "finished" || m.status === "live") && m.homeScore != null && m.awayScore != null;
+}

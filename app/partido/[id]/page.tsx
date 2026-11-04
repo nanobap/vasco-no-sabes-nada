@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getProvider } from "@/lib/data";
-import { buildViews, isFinished } from "@/lib/agenda";
+import { buildViews, isFinished, hasScore } from "@/lib/agenda";
 import { formatLongDay } from "@/lib/time";
 import { quipsFor } from "@/lib/quips";
 import { SITE } from "@/lib/site";
@@ -10,6 +10,7 @@ import { MatchHero } from "@/components/MatchHero";
 import { ProbabilityCard } from "@/components/ProbabilityCard";
 import { VascoBubble } from "@/components/VascoBubble";
 import { MatchShare } from "@/components/MatchShare";
+import { LiveCards } from "@/components/LiveCards";
 import { CompetitionLogo } from "@/components/CompetitionLogo";
 import { Crest } from "@/components/Crest";
 
@@ -42,7 +43,7 @@ export default async function MatchPage({ params }: { params: Promise<{ id: stri
   const { snapshot, views } = await allViews();
   const m = views.find((x) => x.id === id);
   if (!m) notFound();
-  const finished = isFinished(m);
+  const finished = hasScore(m);
   const quips = quipsFor(m);
   const others = views.filter((x) => x.competition.id === m.competition.id && x.localDate === m.localDate && x.id !== m.id);
 
@@ -95,12 +96,17 @@ export default async function MatchPage({ params }: { params: Promise<{ id: stri
             )}
           </dl>
           {m.featuredBlurb && <p className="mt-4 text-[14px] leading-relaxed text-fg-2">{m.featuredBlurb}</p>}
-          {!finished && (
-            <p className="mt-3 text-[11px] text-muted">
-              Esta versión no muestra marcador en vivo. Agenda verificada el {snapshot.meta.verifiedAtUtc.slice(0, 10)}.
+          {m.status === "live" && (
+            <p className="mt-3 text-[11px] text-rose">
+              En juego según la última sincronización; el marcador se actualiza con cada corrida del cron, no al segundo.
             </p>
           )}
+          {!finished && m.status !== "live" && (
+            <p className="mt-3 text-[11px] text-muted">Agenda verificada el {snapshot.meta.verifiedAtUtc.slice(0, 10)}.</p>
+          )}
         </section>
+
+        <LiveCards match={m} />
 
         <ProbabilityCard match={m} />
 
