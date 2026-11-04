@@ -44,3 +44,7 @@ next-env.d.ts
 data/*.log
 data/*.report.json
 AGENTS.md
+
+# variante artifact (relativa) y su lista
+out-artifact/
+out-artifact.files.json
