@@ -7,7 +7,14 @@ import { Crest } from "./Crest";
 export function LiveCards({ match: m }: { match: MatchView }) {
   const d = liveDetailsFor(m.id);
   if (!d) return null;
-  const inj = d.injuries ?? [];
+  // La API repite jugadores (una entrada por tipo de baja); nos quedamos con uno por jugador y equipo.
+  const seen = new Set<string>();
+  const inj = (d.injuries ?? []).filter((x) => {
+    const k = `${x.team}|${x.player}`;
+    if (seen.has(k)) return false;
+    seen.add(k);
+    return true;
+  });
   const p = d.prediction;
   const pct = (v: number | null) => (v == null ? "–" : `${Math.round(v * 100)}%`);
   const form = (f: string | null) =>
