@@ -266,9 +266,14 @@ export function IntroVasco({ onDone }: { onDone: () => void }) {
             </span>
           </div>
         )}
-        {ready && hint && !finished && (
-          <span className="pointer-events-none absolute bottom-2 left-1/2 -translate-x-1/2 rounded-full border border-line bg-ink/70 px-3 py-1 text-[11px] text-fg-2 backdrop-blur">
-            Tocalo o arrastralo
+        {ready && hint && (
+          <span
+            className={`pointer-events-none absolute bottom-2 left-1/2 inline-flex -translate-x-1/2 items-center gap-2 whitespace-nowrap rounded-full border px-3.5 py-1.5 text-[12px] font-semibold backdrop-blur transition ${
+              finished ? "border-neon/60 bg-neon/15 text-neon" : "border-line bg-ink/70 text-fg-2"
+            }`}
+            style={finished ? { animation: "pulse-neon 1.8s infinite" } : undefined}
+          >
+            <span aria-hidden>👆</span> Tocá al Vasco para escuchar sus frases típicas
           </span>
         )}
       </div>
