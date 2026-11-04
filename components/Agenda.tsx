@@ -32,9 +32,11 @@ export function Agenda({ matches, meta, defaultToday }: Props) {
   const [intro, setIntro] = useState(false);
   const searchRef = useRef<HTMLInputElement>(null);
 
-  // Fecha y reloj reales del dispositivo, en zona Montevideo.
+  // Fecha y reloj reales del dispositivo, en zona Montevideo (sincroniza con el
+  // mundo exterior tras hidratar; por eso el setState vive en el efecto).
   useEffect(() => {
     const t = todayLocal();
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setToday(t);
     setActive(t);
     setNow(Date.now());
@@ -75,7 +77,7 @@ export function Agenda({ matches, meta, defaultToday }: Props) {
     [today, byDay],
   );
 
-  const dayMatches = byDay.get(active) ?? [];
+  const dayMatches = useMemo(() => byDay.get(active) ?? [], [byDay, active]);
   const competitionsToday = useMemo(
     () => groupByCompetition(dayMatches).map((g) => g.competition),
     [dayMatches],

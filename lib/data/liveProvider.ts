@@ -40,6 +40,7 @@ export class LiveProvider implements AgendaProvider {
   async getMeta(): Promise<SnapshotMeta> {
     return this.notReady();
   }
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   async getMatches(_from: string, _to: string): Promise<Match[]> {
     return this.notReady();
   }

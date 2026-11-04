@@ -49,6 +49,7 @@ export function IntroVasco({ onDone }: { onDone: () => void }) {
       return () => window.clearTimeout(t);
     }
     let i = 0;
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setTyped("");
     const iv = window.setInterval(() => {
       i += 1;
