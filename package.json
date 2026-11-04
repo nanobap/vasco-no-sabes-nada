@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node scripts/build-snapshot.mjs && node scripts/og.mjs && next build",
+    "build": "tsc --noEmit && node scripts/build-snapshot.mjs && node scripts/og.mjs && next build",
     "start": "next start",
     "lint": "eslint",
     "crests": "node scripts/fetch-crests.mjs",
