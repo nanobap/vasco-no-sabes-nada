@@ -233,9 +233,9 @@ interface Pose {
 }
 
 const REST = {
-  armL: new THREE.Euler(0.06, 0, 0.1),
-  armR: new THREE.Euler(0.06, 0, -0.1),
-  forearm: -0.3,
+  armL: new THREE.Euler(0.06, 0, 0.18),
+  armR: new THREE.Euler(0.06, 0, -0.18),
+  forearm: -0.25,
   mouthSmile: 0.6,
 };
 
@@ -330,7 +330,7 @@ export function mountVasco(canvas: HTMLCanvasElement, opts: Opts = {}): VascoHan
 
   function makeArm(side: -1 | 1) {
     const shoulder = new THREE.Group();
-    shoulder.position.set(side * 0.3, 1.62, 0);
+    shoulder.position.set(side * 0.37, 1.62, 0);
     body.add(shoulder);
     const sleeve = mesh(shoulder, capsule(0.075, 0.15), M(C.shirt), 0, -0.07, 0);
     sleeve.rotation.z = side * 0.05;
@@ -509,17 +509,20 @@ export function mountVasco(canvas: HTMLCanvasElement, opts: Opts = {}): VascoHan
     const hold = easeInOut(clamp(u * 3, 0, 1)) * easeInOut(clamp((1 - u) * 3, 0, 1));
     switch (g.name) {
       case "wave":
-        p.armR.set(0.15, 0, -2.55 * hold);
-        p.forearmR = -0.7 * hold + Math.sin(u * Math.PI * 7) * 0.5 * hold;
+        p.armR.set(0.15, 0.3 * hold, -0.18 - 2.3 * hold);
+        p.forearmR = -0.25 - 0.5 * hold + Math.sin(u * Math.PI * 7) * 0.45 * hold;
         p.head.z = -0.1 * hold;
         p.browY = 0.025 * hold;
         p.mouthSmile = 0.9;
         break;
-      case "shrug":
-        p.armL.set(-0.5 * hold, 0, 1.25 * hold);
-        p.armR.set(-0.5 * hold, 0, -1.25 * hold);
-        p.forearmL = -1.8 * hold;
-        p.forearmR = -1.8 * hold;
+      case "shrug": {
+        // abre los brazos antes de doblar los codos, así el antebrazo sube por fuera del pecho
+        const open = easeInOut(clamp(u * 4, 0, 1)) * easeInOut(clamp((1 - u) * 2.5, 0, 1));
+        const bend = easeInOut(clamp((u - 0.12) * 3.5, 0, 1)) * easeInOut(clamp((1 - u) * 3, 0, 1));
+        p.armL.set(-0.35 * bend, 0.25 * bend, 0.18 + 1.2 * open);
+        p.armR.set(-0.35 * bend, -0.25 * bend, -0.18 - 1.2 * open);
+        p.forearmL = -0.25 - 1.6 * bend;
+        p.forearmR = -0.25 - 1.6 * bend;
         p.torsoY = 0.06 * hold;
         p.head.z = 0.2 * hold;
         p.head.x = -0.06 * hold;
@@ -527,6 +530,7 @@ export function mountVasco(canvas: HTMLCanvasElement, opts: Opts = {}): VascoHan
         p.browTilt = 0.28 * hold;
         p.mouthSmile = 0.15;
         break;
+      }
       case "shake":
         p.head.y = Math.sin(u * Math.PI * 6) * 0.42 * hold;
         p.browTilt = -0.18 * hold;
@@ -538,31 +542,34 @@ export function mountVasco(canvas: HTMLCanvasElement, opts: Opts = {}): VascoHan
         p.mouthSmile = 0.8;
         break;
       case "point":
-        p.armR.set(-1.55 * hold, 0, -0.2 * hold);
+        p.armR.set(-1.55 * hold, 0, -0.18 - 0.2 * hold);
         p.forearmR = -0.1 * hold;
         p.head.x = 0.05 * hold;
         p.browY = 0.02 * hold;
         p.mouthSmile = 0.95;
         break;
       case "cheer":
-        p.armL.set(0, 0, 2.6 * hold);
-        p.armR.set(0, 0, -2.6 * hold);
-        p.forearmL = -0.5 * hold;
-        p.forearmR = -0.5 * hold;
+        p.armL.set(0, 0, 0.18 + 2.4 * hold);
+        p.armR.set(0, 0, -0.18 - 2.4 * hold);
+        p.forearmL = -0.25 - 0.4 * hold;
+        p.forearmR = -0.25 - 0.4 * hold;
         p.torsoY = 0.09 * k;
         p.head.x = -0.18 * hold;
         p.browY = 0.05 * hold;
         p.mouthSmile = 1;
         break;
-      case "think":
-        p.armR.set(-0.95 * hold, 0.35 * hold, -0.45 * hold);
-        p.forearmR = -2.35 * hold;
+      case "think": {
+        const open = easeInOut(clamp(u * 4, 0, 1)) * easeInOut(clamp((1 - u) * 2.5, 0, 1));
+        const bend = easeInOut(clamp((u - 0.1) * 3.5, 0, 1)) * easeInOut(clamp((1 - u) * 3, 0, 1));
+        p.armR.set(-0.55 * bend, 0.9 * bend, -0.18 - 0.75 * open);
+        p.forearmR = -0.25 - 2.1 * bend;
         p.head.x = -0.14 * hold;
         p.head.z = 0.1 * hold;
         p.browTilt = 0.3 * hold;
         p.browY = 0.025 * hold;
         p.mouthSmile = 0.25;
         break;
+      }
     }
     return p;
   }
@@ -645,6 +652,9 @@ export function mountVasco(canvas: HTMLCanvasElement, opts: Opts = {}): VascoHan
     torso.position.y = 1.36 + pose.torsoY;
     armL.shoulder.position.y = 1.62 + pose.torsoY;
     armR.shoulder.position.y = 1.62 + pose.torsoY;
+    // el brazo nunca entra en el torso: la apertura lateral tiene un mínimo
+    armL.shoulder.rotation.z = Math.max(armL.shoulder.rotation.z, 0.16);
+    armR.shoulder.rotation.z = Math.min(armR.shoulder.rotation.z, -0.16);
     headPivot.position.y = 1.84 + pose.torsoY * 0.6;
 
     if (t - state.lastPointer > 2.5 && t > state.saccadeAt) {
