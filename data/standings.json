@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-04T13:30:10.175Z",
+  "fetchedAtUtc": "2026-11-04T20:50:44.410Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -1271,7 +1271,7 @@
       "rows": [
         {
           "pos": 1,
-          "team": "Paris Saint Germain",
+          "team": "Paris Saint-Germain",
           "teamId": "psg",
           "pts": "12",
           "pj": "4",
@@ -1290,6 +1290,25 @@
         },
         {
           "pos": 2,
+          "team": "Real Madrid",
+          "teamId": "real-madrid",
+          "pts": "12",
+          "pj": "4",
+          "dif": "+6",
+          "values": {
+            "Pts": "12",
+            "PJ": "4",
+            "G": "4",
+            "E": "0",
+            "P": "0",
+            "GF": "13",
+            "GC": "7",
+            "Dif": "+6",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 3,
           "team": "Barcelona",
           "teamId": "barcelona",
           "pts": "9",
@@ -1308,7 +1327,7 @@
           }
         },
         {
-          "pos": 3,
+          "pos": 4,
           "team": "Aston Villa",
           "teamId": "aston-villa",
           "pts": "9",
@@ -1327,40 +1346,21 @@
           }
         },
         {
-          "pos": 4,
+          "pos": 5,
           "team": "Liverpool",
           "teamId": "liverpool-eng",
           "pts": "9",
-          "pj": "3",
-          "dif": "+5",
+          "pj": "4",
+          "dif": "+4",
           "values": {
             "Pts": "9",
-            "PJ": "3",
+            "PJ": "4",
             "G": "3",
             "E": "0",
-            "P": "0",
-            "GF": "12",
-            "GC": "7",
-            "Dif": "+5",
-            "Clasificación": ""
-          }
-        },
-        {
-          "pos": 5,
-          "team": "Real Madrid",
-          "teamId": "real-madrid",
-          "pts": "9",
-          "pj": "3",
-          "dif": "+5",
-          "values": {
-            "Pts": "9",
-            "PJ": "3",
-            "G": "3",
-            "E": "0",
-            "P": "0",
-            "GF": "10",
-            "GC": "5",
-            "Dif": "+5",
+            "P": "1",
+            "GF": "14",
+            "GC": "10",
+            "Dif": "+4",
             "Clasificación": ""
           }
         },
@@ -1613,6 +1613,25 @@
         },
         {
           "pos": 19,
+          "team": "Fenerbahçe",
+          "teamId": "fenerbahce",
+          "pts": "5",
+          "pj": "4",
+          "dif": "−5",
+          "values": {
+            "Pts": "5",
+            "PJ": "4",
+            "G": "1",
+            "E": "2",
+            "P": "1",
+            "GF": "6",
+            "GC": "11",
+            "Dif": "−5",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 20,
           "team": "Roma",
           "teamId": "roma",
           "pts": "4",
@@ -1631,7 +1650,7 @@
           }
         },
         {
-          "pos": 20,
+          "pos": 21,
           "team": "Shakhtar Donetsk",
           "teamId": "shakhtar",
           "pts": "4",
@@ -1650,7 +1669,7 @@
           }
         },
         {
-          "pos": 21,
+          "pos": 22,
           "team": "PSV Eindhoven",
           "teamId": "psv",
           "pts": "4",
@@ -1669,7 +1688,7 @@
           }
         },
         {
-          "pos": 22,
+          "pos": 23,
           "team": "Atlético de Madrid",
           "teamId": "atletico-madrid",
           "pts": "4",
@@ -1688,7 +1707,7 @@
           }
         },
         {
-          "pos": 23,
+          "pos": 24,
           "team": "Bodø/Glimt",
           "teamId": "bodo-glimt",
           "pts": "4",
@@ -1707,7 +1726,7 @@
           }
         },
         {
-          "pos": 24,
+          "pos": 25,
           "team": "Napoli",
           "teamId": "napoli",
           "pts": "3",
@@ -1722,11 +1741,11 @@
             "GF": "5",
             "GC": "7",
             "Dif": "−2",
-            "Clasificación": ""
+            "Clasificación": "Eliminado de la competición"
           }
         },
         {
-          "pos": 25,
+          "pos": 26,
           "team": "Sabah",
           "teamId": "sabah",
           "pts": "3",
@@ -1741,11 +1760,11 @@
             "GF": "3",
             "GC": "6",
             "Dif": "−3",
-            "Clasificación": "Eliminado de la competición"
+            "Clasificación": ""
           }
         },
         {
-          "pos": 26,
+          "pos": 27,
           "team": "Lens",
           "teamId": "lens",
           "pts": "3",
@@ -1764,28 +1783,9 @@
           }
         },
         {
-          "pos": 27,
+          "pos": 28,
           "team": "Leipzig",
           "teamId": "leipzig",
-          "pts": "3",
-          "pj": "3",
-          "dif": "−5",
-          "values": {
-            "Pts": "3",
-            "PJ": "3",
-            "G": "1",
-            "E": "0",
-            "P": "2",
-            "GF": "3",
-            "GC": "8",
-            "Dif": "−5",
-            "Clasificación": ""
-          }
-        },
-        {
-          "pos": 28,
-          "team": "AEK Atenas",
-          "teamId": "aek",
           "pts": "3",
           "pj": "3",
           "dif": "−5",
@@ -1822,6 +1822,25 @@
         },
         {
           "pos": 30,
+          "team": "AEK Atenas",
+          "teamId": "aek",
+          "pts": "3",
+          "pj": "4",
+          "dif": "−6",
+          "values": {
+            "Pts": "3",
+            "PJ": "4",
+            "G": "1",
+            "E": "0",
+            "P": "3",
+            "GF": "5",
+            "GC": "11",
+            "Dif": "−6",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 31,
           "team": "Feyenoord",
           "teamId": "feyenoord",
           "pts": "3",
@@ -1836,25 +1855,6 @@
             "GF": "4",
             "GC": "11",
             "Dif": "−7",
-            "Clasificación": ""
-          }
-        },
-        {
-          "pos": 31,
-          "team": "Fenerbahçe",
-          "teamId": "fenerbahce",
-          "pts": "2",
-          "pj": "3",
-          "dif": "−6",
-          "values": {
-            "Pts": "2",
-            "PJ": "3",
-            "G": "0",
-            "E": "2",
-            "P": "1",
-            "GF": "3",
-            "GC": "9",
-            "Dif": "−6",
             "Clasificación": ""
           }
         },
@@ -1955,7 +1955,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2026-27",
-      "revision": 176140055
+      "revision": 176150794
     },
     {
       "key": "uel-liga",
@@ -2663,7 +2663,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA_2026-27",
-      "revision": 176020783
+      "revision": 176150098
     },
     {
       "key": "uecl-liga",
@@ -3775,7 +3775,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026",
-      "revision": 176139956
+      "revision": 176149469
     },
     {
       "key": "arg-anual",

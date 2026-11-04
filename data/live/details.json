@@ -1,6 +1,6 @@
 {
   "20261104-auf-ferro-carril-nacional": {
-    "updatedAtUtc": "2026-11-04T12:53:31.737Z",
+    "updatedAtUtc": "2026-11-04T20:51:25.568Z",
     "injuries": [],
     "prediction": {
       "home": 0.33,
@@ -183,7 +183,7 @@
     }
   },
   "20261105-auf-gladiador-liverpool": {
-    "updatedAtUtc": "2026-11-04T12:53:33.134Z",
+    "updatedAtUtc": "2026-11-04T20:51:38.817Z",
     "injuries": [],
     "prediction": {
       "home": 0.33,
@@ -488,7 +488,7 @@
     }
   },
   "20261104-ucl-dortmund-betis": {
-    "updatedAtUtc": "2026-11-04T12:56:01.230Z",
+    "updatedAtUtc": "2026-11-04T20:51:52.077Z",
     "injuries": [
       {
         "team": "home",
@@ -604,7 +604,7 @@
     }
   },
   "20261104-ucl-porto-napoli": {
-    "updatedAtUtc": "2026-11-04T13:10:22.188Z",
+    "updatedAtUtc": "2026-11-04T20:52:05.327Z",
     "injuries": [
       {
         "team": "home",
@@ -840,7 +840,7 @@
     }
   },
   "20261104-ucl-psv-brugge": {
-    "updatedAtUtc": "2026-11-04T13:10:35.539Z",
+    "updatedAtUtc": "2026-11-04T20:52:18.572Z",
     "injuries": [
       {
         "team": "home",
@@ -971,7 +971,7 @@
     }
   },
   "20261104-ucl-leipzig-city": {
-    "updatedAtUtc": "2026-11-04T13:10:48.888Z",
+    "updatedAtUtc": "2026-11-04T20:52:31.820Z",
     "injuries": [
       {
         "team": "home",

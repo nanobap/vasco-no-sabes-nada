@@ -9,7 +9,7 @@
     "awayScore": 1,
     "venue": "Stamford Bridge · London",
     "kickoffUtc": "2026-11-03T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:48.713Z",
+    "updatedAtUtc": "2026-11-04T20:50:52.261Z",
     "confidence": 1
   },
   "20261103-ucl-galatasaray-stuttgart": {
@@ -22,7 +22,7 @@
     "awayScore": 0,
     "venue": "Rams Park · Istanbul",
     "kickoffUtc": "2026-11-03T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:48.714Z",
+    "updatedAtUtc": "2026-11-04T20:50:52.263Z",
     "confidence": 1
   },
   "20261103-ucl-atletico-bayern": {
@@ -35,7 +35,7 @@
     "awayScore": 2,
     "venue": "Riyadh Air Metropolitano · Madrid",
     "kickoffUtc": "2026-11-03T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:48.715Z",
+    "updatedAtUtc": "2026-11-04T20:50:52.264Z",
     "confidence": 1
   },
   "20261103-ucl-barcelona-aston-villa": {
@@ -48,7 +48,7 @@
     "awayScore": 0,
     "venue": "Spotify Camp Nou · Barcelona",
     "kickoffUtc": "2026-11-03T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:48.716Z",
+    "updatedAtUtc": "2026-11-04T20:50:52.266Z",
     "confidence": 1
   },
   "20261103-ucl-feyenoord-inter": {
@@ -61,7 +61,7 @@
     "awayScore": 3,
     "venue": "Stadion Feijenoord · Rotterdam",
     "kickoffUtc": "2026-11-03T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:48.717Z",
+    "updatedAtUtc": "2026-11-04T20:50:52.268Z",
     "confidence": 1
   },
   "20261103-ucl-bodo-lille": {
@@ -74,7 +74,7 @@
     "awayScore": 0,
     "venue": "Aspmyra Stadion · Hakata",
     "kickoffUtc": "2026-11-03T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:48.718Z",
+    "updatedAtUtc": "2026-11-04T20:50:52.269Z",
     "confidence": 1
   },
   "20261103-ucl-lask-slovan": {
@@ -87,7 +87,7 @@
     "awayScore": 0,
     "venue": "Raiffeisen Arena · Linz",
     "kickoffUtc": "2026-11-03T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:48.718Z",
+    "updatedAtUtc": "2026-11-04T20:50:52.270Z",
     "confidence": 1
   },
   "20261103-ucl-manutd-roma": {
@@ -100,7 +100,7 @@
     "awayScore": 2,
     "venue": "Old Trafford · Manchester",
     "kickoffUtc": "2026-11-03T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:48.719Z",
+    "updatedAtUtc": "2026-11-04T20:50:52.272Z",
     "confidence": 1
   },
   "20261103-ucl-villarreal-psg": {
@@ -113,7 +113,7 @@
     "awayScore": 6,
     "venue": "Estadio de la Cerámica · Villarreal",
     "kickoffUtc": "2026-11-03T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:48.720Z",
+    "updatedAtUtc": "2026-11-04T20:50:52.273Z",
     "confidence": 1
   },
   "20261103-bra-chapecoense-mirassol": {
@@ -126,7 +126,7 @@
     "awayScore": 2,
     "venue": "Arena Condá · Chapecó",
     "kickoffUtc": "2026-11-03T22:30:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:48.720Z",
+    "updatedAtUtc": "2026-11-04T20:50:52.274Z",
     "confidence": 1
   },
   "20261103-bra-internacional-coritiba": {
@@ -139,123 +139,123 @@
     "awayScore": 0,
     "venue": "Estádio Beira-Rio · Porto Alegre",
     "kickoffUtc": "2026-11-04T00:30:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:55.406Z",
+    "updatedAtUtc": "2026-11-04T20:50:58.917Z",
     "confidence": 1
   },
   "20261104-ucl-aek-real-madrid": {
     "apiFixtureId": 1635606,
     "leagueId": 2,
-    "status": "NS",
-    "statusLong": "Not Started",
-    "elapsed": null,
-    "homeScore": null,
-    "awayScore": null,
+    "status": "FT",
+    "statusLong": "Match Finished",
+    "elapsed": 90,
+    "homeScore": 2,
+    "awayScore": 3,
     "venue": "Allwyn Arena · Nea Filadelfeia",
     "kickoffUtc": "2026-11-04T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:55.408Z",
+    "updatedAtUtc": "2026-11-04T20:50:58.921Z",
     "confidence": 1
   },
   "20261104-ucl-fenerbahce-liverpool": {
     "apiFixtureId": 1635658,
     "leagueId": 2,
-    "status": "NS",
-    "statusLong": "Not Started",
-    "elapsed": null,
-    "homeScore": null,
-    "awayScore": null,
+    "status": "FT",
+    "statusLong": "Match Finished",
+    "elapsed": 90,
+    "homeScore": 3,
+    "awayScore": 2,
     "venue": "Chobani Stadium · Istanbul",
     "kickoffUtc": "2026-11-04T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:55.409Z",
+    "updatedAtUtc": "2026-11-04T20:50:58.922Z",
     "confidence": 1
   },
   "20261104-ucl-dortmund-betis": {
     "apiFixtureId": 1635651,
     "leagueId": 2,
-    "status": "NS",
-    "statusLong": "Not Started",
-    "elapsed": null,
-    "homeScore": null,
-    "awayScore": null,
+    "status": "1H",
+    "statusLong": "First Half",
+    "elapsed": 45,
+    "homeScore": 0,
+    "awayScore": 0,
     "venue": "Signal Iduna Park · Dortmund",
     "kickoffUtc": "2026-11-04T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:55.409Z",
+    "updatedAtUtc": "2026-11-04T20:50:58.923Z",
     "confidence": 1
   },
   "20261104-ucl-porto-napoli": {
     "apiFixtureId": 1635656,
     "leagueId": 2,
-    "status": "NS",
-    "statusLong": "Not Started",
-    "elapsed": null,
-    "homeScore": null,
-    "awayScore": null,
+    "status": "HT",
+    "statusLong": "Halftime",
+    "elapsed": 45,
+    "homeScore": 1,
+    "awayScore": 1,
     "venue": "Estádio do Dragão · Porto",
     "kickoffUtc": "2026-11-04T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:55.410Z",
+    "updatedAtUtc": "2026-11-04T20:50:58.924Z",
     "confidence": 1
   },
   "20261104-ucl-leipzig-city": {
     "apiFixtureId": 1635710,
     "leagueId": 2,
-    "status": "NS",
-    "statusLong": "Not Started",
-    "elapsed": null,
-    "homeScore": null,
-    "awayScore": null,
+    "status": "HT",
+    "statusLong": "Halftime",
+    "elapsed": 45,
+    "homeScore": 0,
+    "awayScore": 1,
     "venue": "Leipzig Red Bull Arena · Leipzig",
     "kickoffUtc": "2026-11-04T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:55.412Z",
+    "updatedAtUtc": "2026-11-04T20:50:58.929Z",
     "confidence": 1
   },
   "20261104-ucl-lens-como": {
     "apiFixtureId": 1635681,
     "leagueId": 2,
-    "status": "NS",
-    "statusLong": "Not Started",
-    "elapsed": null,
-    "homeScore": null,
-    "awayScore": null,
+    "status": "1H",
+    "statusLong": "First Half",
+    "elapsed": 45,
+    "homeScore": 0,
+    "awayScore": 3,
     "venue": "Stade Bollaert-Delelis · Lens",
     "kickoffUtc": "2026-11-04T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:55.412Z",
+    "updatedAtUtc": "2026-11-04T20:50:58.930Z",
     "confidence": 1
   },
   "20261104-ucl-slavia-arsenal": {
     "apiFixtureId": 1635726,
     "leagueId": 2,
-    "status": "NS",
-    "statusLong": "Not Started",
-    "elapsed": null,
-    "homeScore": null,
-    "awayScore": null,
+    "status": "HT",
+    "statusLong": "Halftime",
+    "elapsed": 45,
+    "homeScore": 0,
+    "awayScore": 2,
     "venue": "Sinobo Stadium · Prague",
     "kickoffUtc": "2026-11-04T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:55.413Z",
+    "updatedAtUtc": "2026-11-04T20:50:58.932Z",
     "confidence": 1
   },
   "20261104-ucl-viking-sabah": {
     "apiFixtureId": 1635745,
     "leagueId": 2,
-    "status": "NS",
-    "statusLong": "Not Started",
-    "elapsed": null,
-    "homeScore": null,
-    "awayScore": null,
+    "status": "HT",
+    "statusLong": "Halftime",
+    "elapsed": 45,
+    "homeScore": 1,
+    "awayScore": 1,
     "venue": "SR-Bank Arena · Stavanger",
     "kickoffUtc": "2026-11-04T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:55.414Z",
+    "updatedAtUtc": "2026-11-04T20:50:58.934Z",
     "confidence": 1
   },
   "20261104-auf-san-carlos-boston-river": {
     "apiFixtureId": 1647202,
     "leagueId": 930,
-    "status": "NS",
-    "statusLong": "Not Started",
-    "elapsed": null,
-    "homeScore": null,
-    "awayScore": null,
+    "status": "FT",
+    "statusLong": "Match Finished",
+    "elapsed": 90,
+    "homeScore": 0,
+    "awayScore": 2,
     "kickoffUtc": "2026-11-04T18:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:55.415Z",
+    "updatedAtUtc": "2026-11-04T20:50:58.936Z",
     "confidence": 1
   },
   "20261104-bra-flamengo-gremio": {
@@ -268,7 +268,7 @@
     "awayScore": null,
     "venue": "Estádio do Maracanã · Rio de Janeiro",
     "kickoffUtc": "2026-11-04T22:30:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:55.418Z",
+    "updatedAtUtc": "2026-11-04T20:50:58.940Z",
     "confidence": 1
   },
   "20261104-bra-athletico-vasco": {
@@ -281,7 +281,7 @@
     "awayScore": null,
     "venue": "Arena da Baixada · Curitiba",
     "kickoffUtc": "2026-11-04T22:30:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:55.419Z",
+    "updatedAtUtc": "2026-11-04T20:50:58.940Z",
     "confidence": 1
   },
   "20261104-auf-ferro-carril-nacional": {
@@ -294,7 +294,7 @@
     "awayScore": null,
     "venue": "Estadio Parque Artigas",
     "kickoffUtc": "2026-11-05T00:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.120Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.570Z",
     "confidence": 1
   },
   "20261104-bra-botafogo-atletico-mg": {
@@ -307,7 +307,7 @@
     "awayScore": null,
     "venue": "Estadio Olimpico Nilton Santos · Rio de Janeiro",
     "kickoffUtc": "2026-11-05T00:30:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.120Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.571Z",
     "confidence": 1
   },
   "20261104-bra-sao-paulo-corinthians": {
@@ -320,7 +320,7 @@
     "awayScore": null,
     "venue": "Estadio Do MorumBIS · Sao Paulo",
     "kickoffUtc": "2026-11-05T00:30:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.120Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.571Z",
     "confidence": 1
   },
   "20261105-auf-gladiador-liverpool": {
@@ -333,7 +333,7 @@
     "awayScore": null,
     "venue": "Estadio Parque Artigas",
     "kickoffUtc": "2026-11-05T21:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.120Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.572Z",
     "confidence": 1
   },
   "20261105-uel-milan-ferencvaros": {
@@ -346,7 +346,7 @@
     "awayScore": null,
     "venue": "San Siro/Giuseppe Meazza · Milan",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.121Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.573Z",
     "confidence": 1
   },
   "20261105-uel-sparta-bournemouth": {
@@ -359,7 +359,7 @@
     "awayScore": null,
     "venue": "Stadion Letná · Prague",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.121Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.573Z",
     "confidence": 1
   },
   "20261105-uel-palace-hoffenheim": {
@@ -372,7 +372,7 @@
     "awayScore": null,
     "venue": "Selhurst Park · London",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.122Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.574Z",
     "confidence": 1
   },
   "20261105-uel-nec-omonia": {
@@ -385,7 +385,7 @@
     "awayScore": null,
     "venue": "Stadion de Goffert · Nijmegen",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.122Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.575Z",
     "confidence": 1
   },
   "20261105-uel-levski-jagiellonia": {
@@ -398,7 +398,7 @@
     "awayScore": null,
     "venue": "Vasil Levski National Stadium · Sophia",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.123Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.576Z",
     "confidence": 1
   },
   "20261105-uel-real-sociedad-lyon": {
@@ -411,7 +411,7 @@
     "awayScore": null,
     "venue": "Anoeta Stadium · San Sebastian",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.123Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.576Z",
     "confidence": 1
   },
   "20261105-uel-az-juventus": {
@@ -424,7 +424,7 @@
     "awayScore": null,
     "venue": "AFAS Stadion（Alkmaar） · Alkmaar",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.124Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.577Z",
     "confidence": 1
   },
   "20261105-uel-celtic-besiktas": {
@@ -437,7 +437,7 @@
     "awayScore": null,
     "venue": "Celtic Park · Glasgow",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.124Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.579Z",
     "confidence": 1
   },
   "20261105-uel-hapoel-ofi": {
@@ -450,7 +450,7 @@
     "awayScore": null,
     "venue": "Giulești · Bucharest",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.125Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.579Z",
     "confidence": 1
   },
   "20261105-uel-celta-union": {
@@ -463,7 +463,7 @@
     "awayScore": null,
     "venue": "Municipal de Balaídos · Vigo",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.125Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.580Z",
     "confidence": 1
   },
   "20261105-uel-torreense-ararat": {
@@ -476,7 +476,7 @@
     "awayScore": null,
     "venue": "Estádio Dr. Magalhães Pessoa · Leiria",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.125Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.580Z",
     "confidence": 1
   },
   "20261105-uel-sturm-celje": {
@@ -489,7 +489,7 @@
     "awayScore": null,
     "venue": "Stadion Graz-Liebenau · Graz",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.126Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.581Z",
     "confidence": 1
   },
   "20261105-uel-benfica-lech": {
@@ -502,7 +502,7 @@
     "awayScore": null,
     "venue": "Estádio da Luz · Lisbon",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.126Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.581Z",
     "confidence": 1
   },
   "20261105-uel-sunderland-dinamo": {
@@ -515,7 +515,7 @@
     "awayScore": null,
     "venue": "Stadium of Light · Sunderland",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.126Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.582Z",
     "confidence": 1
   },
   "20261105-uecl-agf-braga": {
@@ -528,7 +528,7 @@
     "awayScore": null,
     "venue": "Cepheus Park · Randers",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.127Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.583Z",
     "confidence": 1
   },
   "20261105-uecl-atalanta-kairat": {
@@ -541,7 +541,7 @@
     "awayScore": null,
     "venue": "New Balance Arena · Bergamo",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.127Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.583Z",
     "confidence": 1
   },
   "20261105-uecl-midtjylland-ajax": {
@@ -554,7 +554,7 @@
     "awayScore": null,
     "venue": "MCH Arena · Herning",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.127Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.584Z",
     "confidence": 1
   },
   "20261105-uecl-red-star-escaldes": {
@@ -567,7 +567,7 @@
     "awayScore": null,
     "venue": "Stadion Rajko Mit · Belgrade",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.128Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.585Z",
     "confidence": 1
   },
   "20261105-uecl-kups-gent": {
@@ -580,7 +580,7 @@
     "awayScore": null,
     "venue": "Tammelan Stadion · Tampere",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.128Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.586Z",
     "confidence": 1
   },
   "20261105-uecl-lincoln-hajduk": {
@@ -593,7 +593,7 @@
     "awayScore": null,
     "venue": "Europa Point Stadium",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.128Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.586Z",
     "confidence": 1
   },
   "20261105-uecl-mjallby-borac": {
@@ -606,7 +606,7 @@
     "awayScore": null,
     "venue": "Olympia · Helsingborg",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.129Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.587Z",
     "confidence": 1
   },
   "20261105-uecl-copenhagen-iberia": {
@@ -619,7 +619,7 @@
     "awayScore": null,
     "venue": "Parken Stadium · Copenhagen",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.130Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.589Z",
     "confidence": 1
   },
   "20261105-uecl-lugano-zalgiris": {
@@ -632,7 +632,7 @@
     "awayScore": null,
     "venue": "AIL Arena · Lugano",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.130Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.590Z",
     "confidence": 1
   },
   "20261105-uecl-twente-pafos": {
@@ -645,7 +645,7 @@
     "awayScore": null,
     "venue": "De Grolsch Veste · Enschede",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.131Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.590Z",
     "confidence": 1
   },
   "20261105-uecl-getafe-brighton": {
@@ -658,7 +658,7 @@
     "awayScore": null,
     "venue": "Coliseum · Getafe",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.131Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.591Z",
     "confidence": 1
   },
   "20261105-uecl-stvv-brann": {
@@ -671,7 +671,7 @@
     "awayScore": null,
     "venue": "Daio Wasabi Stayen · Sint-Truiden",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.131Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.591Z",
     "confidence": 1
   },
   "20261105-uecl-panathinaikos-cska": {
@@ -684,7 +684,7 @@
     "awayScore": null,
     "venue": "Olympic Stadium of Athens · Athens",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.131Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.592Z",
     "confidence": 1
   },
   "20261105-uecl-riga-jablonec": {
@@ -697,7 +697,7 @@
     "awayScore": null,
     "venue": "Skonto stadions · Riga",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.132Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.592Z",
     "confidence": 1
   },
   "20261105-uecl-craiova-egnatia": {
@@ -710,7 +710,7 @@
     "awayScore": null,
     "venue": "Stadionul Ion Oblemenco · Craiova",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.132Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.593Z",
     "confidence": 1
   },
   "20261105-bra-palmeiras-remo": {
@@ -723,7 +723,7 @@
     "awayScore": null,
     "venue": "Nubank Parque · Sao Paulo",
     "kickoffUtc": "2026-11-05T22:30:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.132Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.593Z",
     "confidence": 1
   },
   "20261105-lpf-aldosivi-river": {
@@ -736,7 +736,7 @@
     "awayScore": null,
     "venue": "Estadio Jose Maria Minella · Mar del Plata",
     "kickoffUtc": "2026-11-05T18:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.133Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.594Z",
     "confidence": 1
   },
   "20261105-lpf-gimnasia-belgrano": {
@@ -749,33 +749,33 @@
     "awayScore": null,
     "venue": "Estadio Juan Carmelo Zerillo · La Plata",
     "kickoffUtc": "2026-11-05T22:15:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.133Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.594Z",
     "confidence": 1
   },
   "20261104-uel-rennes-olympiacos": {
     "apiFixtureId": 1636324,
     "leagueId": 3,
-    "status": "NS",
-    "statusLong": "Not Started",
-    "elapsed": null,
-    "homeScore": null,
-    "awayScore": null,
+    "status": "FT",
+    "statusLong": "Match Finished",
+    "elapsed": 90,
+    "homeScore": 0,
+    "awayScore": 0,
     "venue": "Roazhon Park · Rennes",
     "kickoffUtc": "2026-11-04T15:30:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:55.408Z",
+    "updatedAtUtc": "2026-11-04T20:50:58.920Z",
     "confidence": 1
   },
   "20261104-ucl-psv-brugge": {
     "apiFixtureId": 1635707,
     "leagueId": 2,
-    "status": "NS",
-    "statusLong": "Not Started",
-    "elapsed": null,
-    "homeScore": null,
-    "awayScore": null,
+    "status": "1H",
+    "statusLong": "First Half",
+    "elapsed": 45,
+    "homeScore": 0,
+    "awayScore": 1,
     "venue": "Philips Stadion · Eindhoven",
     "kickoffUtc": "2026-11-04T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:09:55.411Z",
+    "updatedAtUtc": "2026-11-04T20:50:58.927Z",
     "confidence": 1
   },
   "20261105-uel-lillestrom-plzen": {
@@ -788,7 +788,7 @@
     "awayScore": null,
     "venue": "Åråsen Stadion · Lillestrom",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.122Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.575Z",
     "confidence": 1
   },
   "20261105-uel-anderlecht-salzburg": {
@@ -801,7 +801,7 @@
     "awayScore": null,
     "venue": "Lotto Park · Brussels",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.123Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.577Z",
     "confidence": 1
   },
   "20261105-uel-leverkusen-marseille": {
@@ -814,7 +814,7 @@
     "awayScore": null,
     "venue": "BayArena · Bayer Leverkusen",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.124Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.578Z",
     "confidence": 1
   },
   "20261105-uecl-thun-hearts": {
@@ -827,7 +827,7 @@
     "awayScore": null,
     "venue": "Stockhorn Arena · Thun",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.127Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.584Z",
     "confidence": 1
   },
   "20261105-uecl-trabzonspor-freiburg": {
@@ -840,7 +840,7 @@
     "awayScore": null,
     "venue": "Papara Park · Trabzon",
     "kickoffUtc": "2026-11-05T17:45:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.129Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.587Z",
     "confidence": 1
   },
   "20261105-uecl-monaco-nordsjaelland": {
@@ -853,7 +853,7 @@
     "awayScore": null,
     "venue": "Stade Louis II · Monaco",
     "kickoffUtc": "2026-11-05T20:00:00+00:00",
-    "updatedAtUtc": "2026-11-04T13:10:02.130Z",
+    "updatedAtUtc": "2026-11-04T20:51:05.588Z",
     "confidence": 1
   }
 }
