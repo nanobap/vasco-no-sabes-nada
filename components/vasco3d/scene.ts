@@ -646,16 +646,18 @@ export function mountVasco(canvas: HTMLCanvasElement, opts: Opts = {}): VascoHan
     if (state.gesture && t - state.gesture.start > state.gesture.dur) state.gesture = null;
 
     const swing = Math.sin(t * 2.0) * 0.04 * s;
-    armL.shoulder.rotation.set(pose.armL.x + swing, pose.armL.y, pose.armL.z);
-    armR.shoulder.rotation.set(pose.armR.x - swing, pose.armR.y, pose.armR.z);
+    // Convención: en la pose, z positivo = brazo izquierdo hacia afuera, z negativo = derecho hacia afuera.
+    // Con el orden de Euler XYZ el giro z del hombro va al revés, así que se invierte acá.
+    armL.shoulder.rotation.set(pose.armL.x + swing, pose.armL.y, -pose.armL.z);
+    armR.shoulder.rotation.set(pose.armR.x - swing, pose.armR.y, -pose.armR.z);
     armL.elbow.rotation.x = pose.forearmL;
     armR.elbow.rotation.x = pose.forearmR;
     torso.position.y = 1.36 + pose.torsoY;
     armL.shoulder.position.y = 1.62 + pose.torsoY;
     armR.shoulder.position.y = 1.62 + pose.torsoY;
     // el brazo nunca entra en el torso: la apertura lateral tiene un mínimo
-    armL.shoulder.rotation.z = Math.max(armL.shoulder.rotation.z, 0.16);
-    armR.shoulder.rotation.z = Math.min(armR.shoulder.rotation.z, -0.16);
+    armL.shoulder.rotation.z = Math.min(armL.shoulder.rotation.z, -0.16);
+    armR.shoulder.rotation.z = Math.max(armR.shoulder.rotation.z, 0.16);
     headPivot.position.y = 1.84 + pose.torsoY * 0.6;
 
     if (t - state.lastPointer > 2.5 && t > state.saccadeAt) {
@@ -724,7 +726,7 @@ export function mountVasco(canvas: HTMLCanvasElement, opts: Opts = {}): VascoHan
   }
   raf = requestAnimationFrame(frame);
 
-  return {
+  const handle: VascoHandle = {
     setTalking(on) {
       state.talking = on;
     },
@@ -756,4 +758,8 @@ export function mountVasco(canvas: HTMLCanvasElement, opts: Opts = {}): VascoHan
       renderer.dispose();
     },
   };
+  if (process.env.NODE_ENV !== "production") {
+    (window as unknown as { __vasco?: VascoHandle }).__vasco = handle;
+  }
+  return handle;
 }
