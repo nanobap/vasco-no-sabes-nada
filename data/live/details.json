@@ -183,7 +183,7 @@
     }
   },
   "20261105-auf-gladiador-liverpool": {
-    "updatedAtUtc": "2026-11-04T20:51:38.817Z",
+    "updatedAtUtc": "2026-11-05T12:20:23.867Z",
     "injuries": [],
     "prediction": {
       "home": 0.33,
@@ -1989,7 +1989,7 @@
     }
   },
   "20261105-auf-libertad-torque": {
-    "updatedAtUtc": "2026-11-05T02:29:40.984Z",
+    "updatedAtUtc": "2026-11-05T12:20:37.117Z",
     "injuries": [],
     "prediction": {
       "home": 0.33,
@@ -2229,6 +2229,722 @@
           "awayGoals": 1
         }
       ]
+    }
+  },
+  "20261105-uel-milan-ferencvaros": {
+    "updatedAtUtc": "2026-11-05T12:20:50.352Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "W. Bondo",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "S. Chukwueze",
+        "type": "Missing Fixture",
+        "reason": "Hip Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Gabbia",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "home",
+        "player": "R. Loftus-Cheek",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Maignan",
+        "type": "Missing Fixture",
+        "reason": "Red Card"
+      },
+      {
+        "team": "home",
+        "player": "A. Saelemaekers",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "F. Tomori",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "E. Botka",
+        "type": "Missing Fixture",
+        "reason": "Inactive"
+      },
+      {
+        "team": "away",
+        "player": "B. Nagy",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "B. Otvos",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "I. Pappoe",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "G. Szecsi",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "F. Kovacevic",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "W. Bondo",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "S. Chukwueze",
+        "type": "Missing Fixture",
+        "reason": "Hip Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Gabbia",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "home",
+        "player": "R. Loftus-Cheek",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Maignan",
+        "type": "Missing Fixture",
+        "reason": "Red Card"
+      },
+      {
+        "team": "home",
+        "player": "A. Saelemaekers",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "F. Tomori",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "E. Botka",
+        "type": "Missing Fixture",
+        "reason": "Inactive"
+      },
+      {
+        "team": "away",
+        "player": "B. Nagy",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "B. Otvos",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "I. Pappoe",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "G. Szecsi",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "F. Kovacevic",
+        "type": "Questionable",
+        "reason": "Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0,
+      "draw": 0.5,
+      "away": 0.5,
+      "advice": "Double chance : draw or Ferencvarosi TC",
+      "formHome": "LWL",
+      "formAway": "WWWDWDWWWWW",
+      "comparison": {
+        "form": {
+          "home": "17%",
+          "away": "83%"
+        },
+        "att": {
+          "home": "22%",
+          "away": "78%"
+        },
+        "def": {
+          "home": "38%",
+          "away": "63%"
+        },
+        "total": {
+          "home": "25.7%",
+          "away": "74.7%"
+        }
+      },
+      "h2h": []
+    }
+  },
+  "20261105-uel-sparta-bournemouth": {
+    "updatedAtUtc": "2026-11-05T12:21:03.598Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "M. Andersen",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Karabec",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "J. Mercado",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      {
+        "team": "home",
+        "player": "O. Penxa",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Rynes",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Sevinsky",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "E. Uchenna",
+        "type": "Missing Fixture",
+        "reason": "Groin Injury"
+      },
+      {
+        "team": "away",
+        "player": "M. Aarons",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "J. Araujo",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "away",
+        "player": "F. Forster",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "D. Jebbison",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "V. Milosavljevic",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "J. Sanchez",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "A. Scott",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Toth",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Andersen",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Karabec",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "J. Mercado",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      {
+        "team": "home",
+        "player": "O. Penxa",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Rynes",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Sevinsky",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "E. Uchenna",
+        "type": "Missing Fixture",
+        "reason": "Groin Injury"
+      },
+      {
+        "team": "away",
+        "player": "M. Aarons",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "J. Araujo",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "away",
+        "player": "F. Forster",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "D. Jebbison",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "V. Milosavljevic",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "J. Sanchez",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "A. Scott",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Toth",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0,
+      "draw": 0.5,
+      "away": 0.5,
+      "advice": "Double chance : draw or Bournemouth",
+      "formHome": "WDL",
+      "formAway": "WWW",
+      "comparison": {
+        "form": {
+          "home": "31%",
+          "away": "69%"
+        },
+        "att": {
+          "home": "38%",
+          "away": "62%"
+        },
+        "def": {
+          "home": "25%",
+          "away": "75%"
+        },
+        "total": {
+          "home": "30.5%",
+          "away": "69.5%"
+        }
+      },
+      "h2h": []
+    }
+  },
+  "20261105-uel-palace-hoffenheim": {
+    "updatedAtUtc": "2026-11-05T12:21:16.852Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "C. Doucoure",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "Z. Gozo",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "E. Guessand",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "J. Lerma",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "C. Riad",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "T. Tomiyasu",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      {
+        "team": "home",
+        "player": "J. Larsen",
+        "type": "Questionable",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "I. Sarr",
+        "type": "Questionable",
+        "reason": "Groin Injury"
+      },
+      {
+        "team": "home",
+        "player": "Q. Timber",
+        "type": "Questionable",
+        "reason": "Hamstring Injury"
+      },
+      {
+        "team": "away",
+        "player": "B. Conte",
+        "type": "Missing Fixture",
+        "reason": "Groin Injury"
+      },
+      {
+        "team": "away",
+        "player": "N. De Cat",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "L. Engelns",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "V. Gendrey",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Hajdari",
+        "type": "Missing Fixture",
+        "reason": "Foot Injury"
+      },
+      {
+        "team": "away",
+        "player": "R. Hranac",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "P. Wimmer",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "away",
+        "player": "V. Coufal",
+        "type": "Questionable",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "C. Doucoure",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "Z. Gozo",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "E. Guessand",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "J. Lerma",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "C. Riad",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "T. Tomiyasu",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      {
+        "team": "home",
+        "player": "J. Larsen",
+        "type": "Questionable",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "I. Sarr",
+        "type": "Questionable",
+        "reason": "Groin Injury"
+      },
+      {
+        "team": "home",
+        "player": "Q. Timber",
+        "type": "Questionable",
+        "reason": "Hamstring Injury"
+      },
+      {
+        "team": "away",
+        "player": "B. Conte",
+        "type": "Missing Fixture",
+        "reason": "Groin Injury"
+      },
+      {
+        "team": "away",
+        "player": "N. De Cat",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "L. Engelns",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "V. Gendrey",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Hajdari",
+        "type": "Missing Fixture",
+        "reason": "Foot Injury"
+      },
+      {
+        "team": "away",
+        "player": "R. Hranac",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "P. Wimmer",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "away",
+        "player": "V. Coufal",
+        "type": "Questionable",
+        "reason": "Muscle Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0.45,
+      "draw": 0.45,
+      "away": 0.1,
+      "advice": "Combo Winner : Crystal Palace and +1.5 goals",
+      "formHome": "WLD",
+      "formAway": "LLW",
+      "comparison": {
+        "form": {
+          "home": "57%",
+          "away": "43%"
+        },
+        "att": {
+          "home": "62%",
+          "away": "38%"
+        },
+        "def": {
+          "home": "50%",
+          "away": "50%"
+        },
+        "total": {
+          "home": "56.3%",
+          "away": "43.7%"
+        }
+      },
+      "h2h": []
+    }
+  },
+  "20261105-uel-lillestrom-plzen": {
+    "updatedAtUtc": "2026-11-05T12:21:30.095Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "E. B. Garnas",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "C. Jebara",
+        "type": "Missing Fixture",
+        "reason": "Groin Injury"
+      },
+      {
+        "team": "away",
+        "player": "V. Jemelka",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "M. Tvrdon",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "E. B. Garnas",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "C. Jebara",
+        "type": "Missing Fixture",
+        "reason": "Groin Injury"
+      },
+      {
+        "team": "away",
+        "player": "V. Jemelka",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "M. Tvrdon",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      }
+    ],
+    "prediction": {
+      "home": 0.35,
+      "draw": 0.35,
+      "away": 0.3,
+      "advice": "Double chance : Lillestrom or draw",
+      "formHome": "DWLDL",
+      "formAway": "LWLLL",
+      "comparison": {
+        "form": {
+          "home": "63%",
+          "away": "38%"
+        },
+        "att": {
+          "home": "36%",
+          "away": "64%"
+        },
+        "def": {
+          "home": "52%",
+          "away": "48%"
+        },
+        "total": {
+          "home": "51.8%",
+          "away": "48.5%"
+        }
+      },
+      "h2h": []
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-05T02:28:06.152Z",
+  "fetchedAtUtc": "2026-11-05T12:19:42.552Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -1955,7 +1955,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2026-27",
-      "revision": 176154666
+      "revision": 176155945
     },
     {
       "key": "uel-liga",
@@ -3512,17 +3512,17 @@
           "team": "Atlético Mineiro",
           "teamId": "atletico-mineiro",
           "pts": "50",
-          "pj": "33",
-          "dif": "+5",
+          "pj": "34",
+          "dif": "+4",
           "values": {
             "Pts": "50",
-            "PJ": "33",
+            "PJ": "34",
             "G": "14",
             "E": "8",
-            "P": "11",
+            "P": "12",
             "GF": "44",
-            "GC": "39",
-            "Dif": "+5",
+            "GC": "40",
+            "Dif": "+4",
             "Clasificación 2027": ""
           }
         },
@@ -3568,14 +3568,14 @@
           "pos": 10,
           "team": "São Paulo",
           "teamId": "sao-paulo",
-          "pts": "43",
-          "pj": "33",
+          "pts": "44",
+          "pj": "34",
           "dif": "0",
           "values": {
-            "Pts": "43",
-            "PJ": "33",
+            "Pts": "44",
+            "PJ": "34",
             "G": "12",
-            "E": "7",
+            "E": "8",
             "P": "14",
             "GF": "39",
             "GC": "39",
@@ -3585,6 +3585,25 @@
         },
         {
           "pos": 11,
+          "team": "Botafogo",
+          "teamId": "botafogo",
+          "pts": "42",
+          "pj": "34",
+          "dif": "−7",
+          "values": {
+            "Pts": "42",
+            "PJ": "34",
+            "G": "11",
+            "E": "9",
+            "P": "14",
+            "GF": "46",
+            "GC": "53",
+            "Dif": "−7",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 12,
           "team": "Coritiba",
           "teamId": "coritiba",
           "pts": "42",
@@ -3603,12 +3622,12 @@
           }
         },
         {
-          "pos": 12,
+          "pos": 13,
           "team": "Vasco da Gama",
           "teamId": "vasco",
           "pts": "41",
           "pj": "33",
-          "dif": "−7",
+          "dif": "+3",
           "values": {
             "Pts": "41",
             "PJ": "33",
@@ -3616,13 +3635,13 @@
             "E": "8",
             "P": "14",
             "GF": "43",
-            "GC": "50",
-            "Dif": "−7",
+            "GC": "40",
+            "Dif": "+3",
             "Clasificación 2027": ""
           }
         },
         {
-          "pos": 13,
+          "pos": 14,
           "team": "Mirassol",
           "teamId": "mirassol",
           "pts": "40",
@@ -3637,25 +3656,6 @@
             "GF": "39",
             "GC": "48",
             "Dif": "−9",
-            "Clasificación 2027": ""
-          }
-        },
-        {
-          "pos": 14,
-          "team": "Botafogo",
-          "teamId": "botafogo",
-          "pts": "39",
-          "pj": "33",
-          "dif": "−8",
-          "values": {
-            "Pts": "39",
-            "PJ": "33",
-            "G": "10",
-            "E": "9",
-            "P": "14",
-            "GF": "45",
-            "GC": "53",
-            "Dif": "−8",
             "Clasificación 2027": ""
           }
         },
@@ -3699,6 +3699,25 @@
         },
         {
           "pos": 17,
+          "team": "Corinthians",
+          "teamId": "corinthians",
+          "pts": "37",
+          "pj": "34",
+          "dif": "−6",
+          "values": {
+            "Pts": "37",
+            "PJ": "34",
+            "G": "9",
+            "E": "10",
+            "P": "15",
+            "GF": "36",
+            "GC": "42",
+            "Dif": "−6",
+            "Clasificación 2027": "Descenso a la Brasileirão Superbet"
+          }
+        },
+        {
+          "pos": 18,
           "team": "Grêmio",
           "teamId": "gremio",
           "pts": "37",
@@ -3713,25 +3732,6 @@
             "GF": "38",
             "GC": "47",
             "Dif": "−9",
-            "Clasificación 2027": "Descenso a la Brasileirão Superbet"
-          }
-        },
-        {
-          "pos": 18,
-          "team": "Corinthians",
-          "teamId": "corinthians",
-          "pts": "36",
-          "pj": "33",
-          "dif": "−6",
-          "values": {
-            "Pts": "36",
-            "PJ": "33",
-            "G": "9",
-            "E": "9",
-            "P": "15",
-            "GF": "36",
-            "GC": "42",
-            "Dif": "−6",
             "Clasificación 2027": ""
           }
         },
@@ -3775,7 +3775,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026",
-      "revision": 176154065
+      "revision": 176156298
     },
     {
       "key": "arg-anual",
