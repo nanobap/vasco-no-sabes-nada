@@ -1297,5 +1297,938 @@
       },
       "h2h": []
     }
+  },
+  "20261104-bra-botafogo-atletico-mg": {
+    "updatedAtUtc": "2026-11-05T02:28:47.523Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "J. Barrera",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "Danilo Santos",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "Kaio Pantaleao",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "Arthur Chaves",
+        "type": "Questionable",
+        "reason": "Inactive"
+      },
+      {
+        "team": "away",
+        "player": "T. Borbas",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "M. Cassierra",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "Fred",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "Reinier",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "Ruan Tressoldi",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "J. Barrera",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "Danilo Santos",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "Kaio Pantaleao",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "Arthur Chaves",
+        "type": "Questionable",
+        "reason": "Inactive"
+      },
+      {
+        "team": "away",
+        "player": "T. Borbas",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "M. Cassierra",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "Fred",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "Reinier",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "Ruan Tressoldi",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0.35,
+      "draw": 0.35,
+      "away": 0.3,
+      "advice": "Double chance : Botafogo or draw",
+      "formHome": "WLLLLWLWWDWDLDWDLWDWDLLLDDWLLDWLL",
+      "formAway": "DLDLWLWLWWLLLWDWLWDWDWDWLWDWDWWLL",
+      "comparison": {
+        "form": {
+          "home": "36%",
+          "away": "64%"
+        },
+        "att": {
+          "home": "36%",
+          "away": "64%"
+        },
+        "def": {
+          "home": "47%",
+          "away": "53%"
+        },
+        "total": {
+          "home": "49.3%",
+          "away": "50.8%"
+        }
+      },
+      "h2h": [
+        {
+          "date": "2026-05-10T19:00:00+00:00",
+          "home": "Atletico-MG",
+          "away": "Botafogo",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-09-20T21:30:00+00:00",
+          "home": "Botafogo",
+          "away": "Atletico-MG",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-04-20T19:00:00+00:00",
+          "home": "Atletico-MG",
+          "away": "Botafogo",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2024-11-30T20:00:00+00:00",
+          "home": "Atletico-MG",
+          "away": "Botafogo",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2024-11-21T00:30:00+00:00",
+          "home": "Atletico-MG",
+          "away": "Botafogo",
+          "homeGoals": 0,
+          "awayGoals": 0
+        }
+      ]
+    }
+  },
+  "20261104-bra-sao-paulo-corinthians": {
+    "updatedAtUtc": "2026-11-05T02:29:00.896Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "Artur",
+        "type": "Missing Fixture",
+        "reason": "Back Injury"
+      },
+      {
+        "team": "home",
+        "player": "N. Bosshardt",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "Buta",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "D. Duarte",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "Marcos Antonio",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "Sabino",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "home",
+        "player": "Ferreira",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "M. Depay",
+        "type": "Missing Fixture",
+        "reason": "Inactive"
+      },
+      {
+        "team": "away",
+        "player": "Gabriel Paulista",
+        "type": "Missing Fixture",
+        "reason": "Inactive"
+      },
+      {
+        "team": "away",
+        "player": "Kayke",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "Z. Labyad",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "Matheuzinho",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "away",
+        "player": "Raniele",
+        "type": "Missing Fixture",
+        "reason": "Inactive"
+      },
+      {
+        "team": "away",
+        "player": "Alex Santana",
+        "type": "Questionable",
+        "reason": "Inactive"
+      },
+      {
+        "team": "home",
+        "player": "Artur",
+        "type": "Missing Fixture",
+        "reason": "Back Injury"
+      },
+      {
+        "team": "home",
+        "player": "N. Bosshardt",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "Buta",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "D. Duarte",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "Marcos Antonio",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      {
+        "team": "home",
+        "player": "Sabino",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "home",
+        "player": "Ferreira",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "M. Depay",
+        "type": "Missing Fixture",
+        "reason": "Inactive"
+      },
+      {
+        "team": "away",
+        "player": "Gabriel Paulista",
+        "type": "Missing Fixture",
+        "reason": "Inactive"
+      },
+      {
+        "team": "away",
+        "player": "Kayke",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "Z. Labyad",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "Matheuzinho",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "away",
+        "player": "Raniele",
+        "type": "Missing Fixture",
+        "reason": "Inactive"
+      },
+      {
+        "team": "away",
+        "player": "Alex Santana",
+        "type": "Questionable",
+        "reason": "Inactive"
+      }
+    ],
+    "prediction": {
+      "home": 0.45,
+      "draw": 0.45,
+      "away": 0.1,
+      "advice": "Double chance : Sao Paulo or draw",
+      "formHome": "WDWWWWLLDWLLWDLLDLLDLDLWWLWLLWWDL",
+      "formAway": "LWWDLDDDLLDDWLWLWWWDDWLLLLLLLLDLW",
+      "comparison": {
+        "form": {
+          "home": "64%",
+          "away": "36%"
+        },
+        "att": {
+          "home": "46%",
+          "away": "54%"
+        },
+        "def": {
+          "home": "59%",
+          "away": "41%"
+        },
+        "total": {
+          "home": "56.3%",
+          "away": "43.7%"
+        }
+      },
+      "h2h": [
+        {
+          "date": "2026-05-10T21:30:00+00:00",
+          "home": "Corinthians",
+          "away": "Sao Paulo",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-01-18T19:00:00+00:00",
+          "home": "Corinthians",
+          "away": "Sao Paulo",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-20T22:30:00+00:00",
+          "home": "Corinthians",
+          "away": "Sao Paulo",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-07-20T00:00:00+00:00",
+          "home": "Sao Paulo",
+          "away": "Corinthians",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-01-26T21:30:00+00:00",
+          "home": "Sao Paulo",
+          "away": "Corinthians",
+          "homeGoals": 3,
+          "awayGoals": 1
+        }
+      ]
+    }
+  },
+  "20261104-ucl-slavia-arsenal": {
+    "updatedAtUtc": "2026-11-05T02:29:14.251Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "T. Chory",
+        "type": "Missing Fixture",
+        "reason": "Coach's decision"
+      },
+      {
+        "team": "home",
+        "player": "H. Kante",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "O. Kolar",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "I. Ogbu",
+        "type": "Missing Fixture",
+        "reason": "Achilles Tendon Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Ouanda",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "I. Schranz",
+        "type": "Missing Fixture",
+        "reason": "Illness"
+      },
+      {
+        "team": "home",
+        "player": "S. Isife",
+        "type": "Questionable",
+        "reason": "Illness"
+      },
+      {
+        "team": "home",
+        "player": "E. Pitak",
+        "type": "Questionable",
+        "reason": "Health problems"
+      },
+      {
+        "team": "away",
+        "player": "B. Saka",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "home",
+        "player": "T. Chory",
+        "type": "Missing Fixture",
+        "reason": "Coach's decision"
+      },
+      {
+        "team": "home",
+        "player": "H. Kante",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "O. Kolar",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "I. Ogbu",
+        "type": "Missing Fixture",
+        "reason": "Achilles Tendon Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Ouanda",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "I. Schranz",
+        "type": "Missing Fixture",
+        "reason": "Illness"
+      },
+      {
+        "team": "home",
+        "player": "S. Isife",
+        "type": "Questionable",
+        "reason": "Illness"
+      },
+      {
+        "team": "home",
+        "player": "E. Pitak",
+        "type": "Questionable",
+        "reason": "Health problems"
+      },
+      {
+        "team": "away",
+        "player": "B. Saka",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0,
+      "draw": 0.5,
+      "away": 0.5,
+      "advice": "Double chance : draw or Arsenal",
+      "formHome": "LLD",
+      "formAway": "WWD",
+      "comparison": {
+        "form": {
+          "home": "13%",
+          "away": "88%"
+        },
+        "att": {
+          "home": "40%",
+          "away": "60%"
+        },
+        "def": {
+          "home": "22%",
+          "away": "78%"
+        },
+        "total": {
+          "home": "20.3%",
+          "away": "80.0%"
+        }
+      },
+      "h2h": [
+        {
+          "date": "2025-11-04T17:45:00+00:00",
+          "home": "Slavia Praha",
+          "away": "Arsenal",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2021-04-15T19:00:00+00:00",
+          "home": "Slavia Praha",
+          "away": "Arsenal",
+          "homeGoals": 0,
+          "awayGoals": 4
+        },
+        {
+          "date": "2021-04-08T19:00:00+00:00",
+          "home": "Arsenal",
+          "away": "Slavia Praha",
+          "homeGoals": 1,
+          "awayGoals": 1
+        }
+      ]
+    }
+  },
+  "20261104-ucl-viking-sabah": {
+    "updatedAtUtc": "2026-11-05T02:29:27.625Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "A. Baertelsen",
+        "type": "Missing Fixture",
+        "reason": "Foot Injury"
+      },
+      {
+        "team": "home",
+        "player": "V. Berisha",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "home",
+        "player": "S. Bjorshol",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "N. D'Agostino",
+        "type": "Missing Fixture",
+        "reason": "Leg Injury"
+      },
+      {
+        "team": "home",
+        "player": "K. Frimpong",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "M. Roseth",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "V. Simic",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Baertelsen",
+        "type": "Missing Fixture",
+        "reason": "Foot Injury"
+      },
+      {
+        "team": "home",
+        "player": "V. Berisha",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      {
+        "team": "home",
+        "player": "S. Bjorshol",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "N. D'Agostino",
+        "type": "Missing Fixture",
+        "reason": "Leg Injury"
+      },
+      {
+        "team": "home",
+        "player": "K. Frimpong",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "M. Roseth",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "V. Simic",
+        "type": "Questionable",
+        "reason": "Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0.45,
+      "draw": 0.45,
+      "away": 0.1,
+      "advice": "Combo Double chance : Viking or draw and +1.5 goals",
+      "formHome": "DWLDL",
+      "formAway": "WWWWLWLWLWL",
+      "comparison": {
+        "form": {
+          "home": "45%",
+          "away": "55%"
+        },
+        "att": {
+          "home": "53%",
+          "away": "47%"
+        },
+        "def": {
+          "home": "45%",
+          "away": "55%"
+        },
+        "total": {
+          "home": "50.8%",
+          "away": "49.3%"
+        }
+      },
+      "h2h": []
+    }
+  },
+  "20261105-auf-libertad-torque": {
+    "updatedAtUtc": "2026-11-05T02:29:40.984Z",
+    "injuries": [],
+    "prediction": {
+      "home": 0.33,
+      "draw": 0.33,
+      "away": 0.33,
+      "advice": "No predictions available",
+      "formHome": "0%",
+      "formAway": "LWDW",
+      "comparison": {
+        "form": {
+          "home": "0%",
+          "away": "100%"
+        },
+        "att": {
+          "home": "0%",
+          "away": "100%"
+        },
+        "def": {
+          "home": "100%",
+          "away": "0%"
+        },
+        "total": {
+          "home": "0%",
+          "away": "0%"
+        }
+      },
+      "h2h": []
+    }
+  },
+  "20261104-bra-flamengo-gremio": {
+    "updatedAtUtc": "2026-11-05T02:29:54.356Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "Danilo",
+        "type": "Missing Fixture",
+        "reason": "Jaw injury"
+      },
+      {
+        "team": "home",
+        "player": "S. Niguez",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "G. Plata",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "home",
+        "player": "A. Valencia",
+        "type": "Missing Fixture",
+        "reason": "Eye injury"
+      },
+      {
+        "team": "home",
+        "player": "Lucas Paqueta",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "Carlos Vinicius",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "away",
+        "player": "Danilo Barbosa",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "Diego Caito",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "J. Nardoni",
+        "type": "Missing Fixture",
+        "reason": "Inactive"
+      },
+      {
+        "team": "away",
+        "player": "C. Pavon",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "Weverton",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "away",
+        "player": "J. Cabral",
+        "type": "Questionable",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "Danilo",
+        "type": "Missing Fixture",
+        "reason": "Jaw injury"
+      },
+      {
+        "team": "home",
+        "player": "S. Niguez",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "G. Plata",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "home",
+        "player": "A. Valencia",
+        "type": "Missing Fixture",
+        "reason": "Eye injury"
+      },
+      {
+        "team": "home",
+        "player": "Lucas Paqueta",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "Carlos Vinicius",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "away",
+        "player": "Danilo Barbosa",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "Diego Caito",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "J. Nardoni",
+        "type": "Missing Fixture",
+        "reason": "Inactive"
+      },
+      {
+        "team": "away",
+        "player": "C. Pavon",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "Weverton",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "away",
+        "player": "J. Cabral",
+        "type": "Questionable",
+        "reason": "Muscle Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0.45,
+      "draw": 0.45,
+      "away": 0.1,
+      "advice": "Winner : Flamengo",
+      "formHome": "LDWWWWDLWWWWDWDLWWDDWWLWWWWWDWWWW",
+      "formAway": "LWLWDDWLLDDLWDLDWLLDWLLWLLLDDDLWW",
+      "comparison": {
+        "form": {
+          "home": "62%",
+          "away": "38%"
+        },
+        "att": {
+          "home": "65%",
+          "away": "35%"
+        },
+        "def": {
+          "home": "55%",
+          "away": "45%"
+        },
+        "total": {
+          "home": "66.2%",
+          "away": "33.8%"
+        }
+      },
+      "h2h": [
+        {
+          "date": "2026-05-10T22:30:00+00:00",
+          "home": "Gremio",
+          "away": "Flamengo",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-08-31T19:00:00+00:00",
+          "home": "Flamengo",
+          "away": "Gremio",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-04-13T20:30:00+00:00",
+          "home": "Gremio",
+          "away": "Flamengo",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2024-09-22T21:30:00+00:00",
+          "home": "Gremio",
+          "away": "Flamengo",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2024-06-13T23:00:00+00:00",
+          "home": "Flamengo",
+          "away": "Gremio",
+          "homeGoals": 2,
+          "awayGoals": 1
+        }
+      ]
+    }
   }
 }
