@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-05T12:19:42.552Z",
+  "fetchedAtUtc": "2026-11-05T21:05:47.985Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -1955,7 +1955,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2026-27",
-      "revision": 176155945
+      "revision": 176166549
     },
     {
       "key": "uel-liga",
@@ -1979,6 +1979,44 @@
       "rows": [
         {
           "pos": 1,
+          "team": "Bournemouth",
+          "teamId": "bournemouth",
+          "pts": "12",
+          "pj": "4",
+          "dif": "+9",
+          "values": {
+            "Pts": "12",
+            "PJ": "4",
+            "G": "4",
+            "E": "0",
+            "P": "0",
+            "GF": "11",
+            "GC": "2",
+            "Dif": "+9",
+            "Clasificación": "Clasificados para los octavos de final"
+          }
+        },
+        {
+          "pos": 2,
+          "team": "Ferencváros",
+          "teamId": "ferencvaros",
+          "pts": "12",
+          "pj": "4",
+          "dif": "+8",
+          "values": {
+            "Pts": "12",
+            "PJ": "4",
+            "G": "4",
+            "E": "0",
+            "P": "0",
+            "GF": "11",
+            "GC": "3",
+            "Dif": "+8",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 3,
           "team": "Olympiakos",
           "teamId": null,
           "pts": "10",
@@ -1993,11 +2031,11 @@
             "GF": "4",
             "GC": "1",
             "Dif": "+3",
-            "Clasificación": "Clasificados para los octavos de final"
+            "Clasificación": ""
           }
         },
         {
-          "pos": 2,
+          "pos": 4,
           "team": "Benfica",
           "teamId": "benfica",
           "pts": "9",
@@ -2016,7 +2054,7 @@
           }
         },
         {
-          "pos": 3,
+          "pos": 5,
           "team": "Bayer Leverkusen",
           "teamId": "leverkusen",
           "pts": "9",
@@ -2031,44 +2069,6 @@
             "GF": "8",
             "GC": "0",
             "Dif": "+8",
-            "Clasificación": ""
-          }
-        },
-        {
-          "pos": 4,
-          "team": "Bournemouth",
-          "teamId": "bournemouth",
-          "pts": "9",
-          "pj": "3",
-          "dif": "+7",
-          "values": {
-            "Pts": "9",
-            "PJ": "3",
-            "G": "3",
-            "E": "0",
-            "P": "0",
-            "GF": "8",
-            "GC": "1",
-            "Dif": "+7",
-            "Clasificación": ""
-          }
-        },
-        {
-          "pos": 5,
-          "team": "Ferencváros",
-          "teamId": "ferencvaros",
-          "pts": "9",
-          "pj": "3",
-          "dif": "+6",
-          "values": {
-            "Pts": "9",
-            "PJ": "3",
-            "G": "3",
-            "E": "0",
-            "P": "0",
-            "GF": "9",
-            "GC": "3",
-            "Dif": "+6",
             "Clasificación": ""
           }
         },
@@ -2150,6 +2150,63 @@
         },
         {
           "pos": 10,
+          "team": "Levski Sofia",
+          "teamId": "levski",
+          "pts": "7",
+          "pj": "4",
+          "dif": "+1",
+          "values": {
+            "Pts": "7",
+            "PJ": "4",
+            "G": "2",
+            "E": "1",
+            "P": "1",
+            "GF": "4",
+            "GC": "3",
+            "Dif": "+1",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 11,
+          "team": "NEC Nijmegen",
+          "teamId": "nec",
+          "pts": "7",
+          "pj": "4",
+          "dif": "−1",
+          "values": {
+            "Pts": "7",
+            "PJ": "4",
+            "G": "2",
+            "E": "1",
+            "P": "1",
+            "GF": "8",
+            "GC": "9",
+            "Dif": "−1",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 12,
+          "team": "Lyon",
+          "teamId": "lyon",
+          "pts": "7",
+          "pj": "4",
+          "dif": "−1",
+          "values": {
+            "Pts": "7",
+            "PJ": "4",
+            "G": "2",
+            "E": "1",
+            "P": "1",
+            "GF": "6",
+            "GC": "7",
+            "Dif": "−1",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 13,
           "team": "AZ Alkmaar",
           "teamId": "az",
           "pts": "6",
@@ -2168,26 +2225,26 @@
           }
         },
         {
-          "pos": 11,
-          "team": "Omonia Nicosia",
-          "teamId": null,
+          "pos": 14,
+          "team": "Anderlecht",
+          "teamId": "anderlecht",
           "pts": "6",
-          "pj": "3",
-          "dif": "+1",
+          "pj": "4",
+          "dif": "+3",
           "values": {
             "Pts": "6",
-            "PJ": "3",
+            "PJ": "4",
             "G": "2",
             "E": "0",
-            "P": "1",
-            "GF": "5",
-            "GC": "4",
-            "Dif": "+1",
+            "P": "2",
+            "GF": "6",
+            "GC": "3",
+            "Dif": "+3",
             "Clasificación": ""
           }
         },
         {
-          "pos": 12,
+          "pos": 15,
           "team": "Rennes",
           "teamId": "rennes",
           "pts": "6",
@@ -2206,102 +2263,102 @@
           }
         },
         {
-          "pos": 13,
-          "team": "Lyon",
-          "teamId": "lyon",
+          "pos": 16,
+          "team": "Omonia Nicosia",
+          "teamId": null,
           "pts": "6",
-          "pj": "3",
+          "pj": "4",
           "dif": "−1",
           "values": {
             "Pts": "6",
-            "PJ": "3",
+            "PJ": "4",
             "G": "2",
             "E": "0",
-            "P": "1",
-            "GF": "5",
-            "GC": "6",
+            "P": "2",
+            "GF": "6",
+            "GC": "7",
             "Dif": "−1",
             "Clasificación": ""
           }
         },
         {
-          "pos": 14,
+          "pos": 17,
           "team": "Real Sociedad",
           "teamId": "real-sociedad",
-          "pts": "4",
-          "pj": "3",
+          "pts": "5",
+          "pj": "4",
           "dif": "+5",
           "values": {
-            "Pts": "4",
-            "PJ": "3",
+            "Pts": "5",
+            "PJ": "4",
             "G": "1",
-            "E": "1",
+            "E": "2",
             "P": "1",
-            "GF": "8",
-            "GC": "3",
+            "GF": "9",
+            "GC": "4",
             "Dif": "+5",
-            "Clasificación": ""
-          }
-        },
-        {
-          "pos": 15,
-          "team": "Crystal Palace",
-          "teamId": "crystal-palace",
-          "pts": "4",
-          "pj": "3",
-          "dif": "+3",
-          "values": {
-            "Pts": "4",
-            "PJ": "3",
-            "G": "1",
-            "E": "1",
-            "P": "1",
-            "GF": "8",
-            "GC": "5",
-            "Dif": "+3",
-            "Clasificación": ""
-          }
-        },
-        {
-          "pos": 16,
-          "team": "Sparta Praga",
-          "teamId": "sparta-praha",
-          "pts": "4",
-          "pj": "3",
-          "dif": "+2",
-          "values": {
-            "Pts": "4",
-            "PJ": "3",
-            "G": "1",
-            "E": "1",
-            "P": "1",
-            "GF": "5",
-            "GC": "3",
-            "Dif": "+2",
-            "Clasificación": ""
-          }
-        },
-        {
-          "pos": 17,
-          "team": "Levski Sofia",
-          "teamId": "levski",
-          "pts": "4",
-          "pj": "3",
-          "dif": "0",
-          "values": {
-            "Pts": "4",
-            "PJ": "3",
-            "G": "1",
-            "E": "1",
-            "P": "1",
-            "GF": "3",
-            "GC": "3",
-            "Dif": "0",
             "Clasificación": "Clasificados para la ronda preliminar (no cabeza de serie)"
           }
         },
         {
           "pos": 18,
+          "team": "Crystal Palace",
+          "teamId": "crystal-palace",
+          "pts": "5",
+          "pj": "4",
+          "dif": "+3",
+          "values": {
+            "Pts": "5",
+            "PJ": "4",
+            "G": "1",
+            "E": "2",
+            "P": "1",
+            "GF": "9",
+            "GC": "6",
+            "Dif": "+3",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 19,
+          "team": "Sparta Praga",
+          "teamId": "sparta-praha",
+          "pts": "4",
+          "pj": "4",
+          "dif": "0",
+          "values": {
+            "Pts": "4",
+            "PJ": "4",
+            "G": "1",
+            "E": "1",
+            "P": "2",
+            "GF": "6",
+            "GC": "6",
+            "Dif": "0",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 20,
+          "team": "Hoffenheim",
+          "teamId": "hoffenheim",
+          "pts": "4",
+          "pj": "4",
+          "dif": "0",
+          "values": {
+            "Pts": "4",
+            "PJ": "4",
+            "G": "1",
+            "E": "1",
+            "P": "2",
+            "GF": "6",
+            "GC": "6",
+            "Dif": "0",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 21,
           "team": "Dinamo Zagreb",
           "teamId": "dinamo-zagreb",
           "pts": "4",
@@ -2320,7 +2377,7 @@
           }
         },
         {
-          "pos": 19,
+          "pos": 22,
           "team": "Sturm Graz",
           "teamId": "sturm-graz",
           "pts": "4",
@@ -2339,85 +2396,28 @@
           }
         },
         {
-          "pos": 20,
-          "team": "NEC Nijmegen",
-          "teamId": "nec",
-          "pts": "4",
-          "pj": "3",
-          "dif": "−3",
-          "values": {
-            "Pts": "4",
-            "PJ": "3",
-            "G": "1",
-            "E": "1",
-            "P": "1",
-            "GF": "5",
-            "GC": "8",
-            "Dif": "−3",
-            "Clasificación": ""
-          }
-        },
-        {
-          "pos": 21,
+          "pos": 23,
           "team": "Salzburgo",
           "teamId": "salzburg",
           "pts": "4",
-          "pj": "3",
-          "dif": "−3",
+          "pj": "4",
+          "dif": "−5",
           "values": {
             "Pts": "4",
-            "PJ": "3",
+            "PJ": "4",
             "G": "1",
             "E": "1",
-            "P": "1",
+            "P": "2",
             "GF": "3",
-            "GC": "6",
-            "Dif": "−3",
-            "Clasificación": ""
-          }
-        },
-        {
-          "pos": 22,
-          "team": "Anderlecht",
-          "teamId": "anderlecht",
-          "pts": "3",
-          "pj": "3",
-          "dif": "+1",
-          "values": {
-            "Pts": "3",
-            "PJ": "3",
-            "G": "1",
-            "E": "0",
-            "P": "2",
-            "GF": "4",
-            "GC": "3",
-            "Dif": "+1",
-            "Clasificación": ""
-          }
-        },
-        {
-          "pos": 23,
-          "team": "Hoffenheim",
-          "teamId": "hoffenheim",
-          "pts": "3",
-          "pj": "3",
-          "dif": "0",
-          "values": {
-            "Pts": "3",
-            "PJ": "3",
-            "G": "1",
-            "E": "0",
-            "P": "2",
-            "GF": "5",
-            "GC": "5",
-            "Dif": "0",
+            "GC": "8",
+            "Dif": "−5",
             "Clasificación": ""
           }
         },
         {
           "pos": 24,
-          "team": "Milan",
-          "teamId": "milan",
+          "team": "Celta de Vigo",
+          "teamId": "celta",
           "pts": "3",
           "pj": "3",
           "dif": "−1",
@@ -2427,16 +2427,16 @@
             "G": "1",
             "E": "0",
             "P": "2",
-            "GF": "4",
-            "GC": "5",
+            "GF": "3",
+            "GC": "4",
             "Dif": "−1",
             "Clasificación": ""
           }
         },
         {
           "pos": 25,
-          "team": "Celta de Vigo",
-          "teamId": "celta",
+          "team": "OFI Creta",
+          "teamId": "ofi",
           "pts": "3",
           "pj": "3",
           "dif": "−1",
@@ -2454,44 +2454,25 @@
         },
         {
           "pos": 26,
-          "team": "OFI Creta",
-          "teamId": "ofi",
+          "team": "Milan",
+          "teamId": "milan",
           "pts": "3",
-          "pj": "3",
-          "dif": "−1",
+          "pj": "4",
+          "dif": "−3",
           "values": {
             "Pts": "3",
-            "PJ": "3",
+            "PJ": "4",
             "G": "1",
             "E": "0",
-            "P": "2",
-            "GF": "3",
-            "GC": "4",
-            "Dif": "−1",
+            "P": "3",
+            "GF": "4",
+            "GC": "7",
+            "Dif": "−3",
             "Clasificación": ""
           }
         },
         {
           "pos": 27,
-          "team": "Jagiellonia Białystok",
-          "teamId": "jagiellonia",
-          "pts": "3",
-          "pj": "3",
-          "dif": "−2",
-          "values": {
-            "Pts": "3",
-            "PJ": "3",
-            "G": "1",
-            "E": "0",
-            "P": "2",
-            "GF": "4",
-            "GC": "6",
-            "Dif": "−2",
-            "Clasificación": ""
-          }
-        },
-        {
-          "pos": 28,
           "team": "Torreense",
           "teamId": "torreense",
           "pts": "3",
@@ -2510,7 +2491,45 @@
           }
         },
         {
+          "pos": 28,
+          "team": "Jagiellonia Białystok",
+          "teamId": "jagiellonia",
+          "pts": "3",
+          "pj": "4",
+          "dif": "−3",
+          "values": {
+            "Pts": "3",
+            "PJ": "4",
+            "G": "1",
+            "E": "0",
+            "P": "3",
+            "GF": "4",
+            "GC": "7",
+            "Dif": "−3",
+            "Clasificación": ""
+          }
+        },
+        {
           "pos": 29,
+          "team": "Viktoria Plzen",
+          "teamId": "plzen",
+          "pts": "3",
+          "pj": "4",
+          "dif": "−4",
+          "values": {
+            "Pts": "3",
+            "PJ": "4",
+            "G": "1",
+            "E": "0",
+            "P": "3",
+            "GF": "3",
+            "GC": "7",
+            "Dif": "−4",
+            "Clasificación": ""
+          }
+        },
+        {
+          "pos": 30,
           "team": "Celje",
           "teamId": "celje",
           "pts": "1",
@@ -2529,7 +2548,7 @@
           }
         },
         {
-          "pos": 30,
+          "pos": 31,
           "team": "Hapoel Be'er Sheva",
           "teamId": null,
           "pts": "1",
@@ -2548,26 +2567,26 @@
           }
         },
         {
-          "pos": 31,
+          "pos": 32,
           "team": "Lillestrøm",
           "teamId": "lillestrom",
           "pts": "1",
-          "pj": "3",
-          "dif": "−7",
+          "pj": "4",
+          "dif": "−8",
           "values": {
             "Pts": "1",
-            "PJ": "3",
+            "PJ": "4",
             "G": "0",
             "E": "1",
-            "P": "2",
+            "P": "3",
             "GF": "2",
-            "GC": "9",
-            "Dif": "−7",
+            "GC": "10",
+            "Dif": "−8",
             "Clasificación": ""
           }
         },
         {
-          "pos": 32,
+          "pos": 33,
           "team": "Lech Poznań",
           "teamId": "lech",
           "pts": "1",
@@ -2582,25 +2601,6 @@
             "GF": "1",
             "GC": "9",
             "Dif": "−8",
-            "Clasificación": ""
-          }
-        },
-        {
-          "pos": 33,
-          "team": "Viktoria Plzen",
-          "teamId": "plzen",
-          "pts": "0",
-          "pj": "3",
-          "dif": "−5",
-          "values": {
-            "Pts": "0",
-            "PJ": "3",
-            "G": "0",
-            "E": "0",
-            "P": "3",
-            "GF": "2",
-            "GC": "7",
-            "Dif": "−5",
             "Clasificación": ""
           }
         },
@@ -2663,7 +2663,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA_2026-27",
-      "revision": 176151710
+      "revision": 176165382
     },
     {
       "key": "uecl-liga",
@@ -2687,6 +2687,44 @@
       "rows": [
         {
           "pos": 1,
+          "team": "Mjällby",
+          "teamId": "mjallby",
+          "pts": "7",
+          "pj": "3",
+          "dif": "+4",
+          "values": {
+            "Pts": "7",
+            "PJ": "3",
+            "G": "2",
+            "E": "1",
+            "P": "0",
+            "GF": "5",
+            "GC": "1",
+            "Dif": "+4",
+            "Clasificación 2026-27": "Clasificado a los octavos de final"
+          }
+        },
+        {
+          "pos": 2,
+          "team": "Ajax",
+          "teamId": "ajax",
+          "pts": "6",
+          "pj": "3",
+          "dif": "+6",
+          "values": {
+            "Pts": "6",
+            "PJ": "3",
+            "G": "2",
+            "E": "0",
+            "P": "1",
+            "GF": "9",
+            "GC": "3",
+            "Dif": "+6",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 3,
           "team": "Panathinaikos",
           "teamId": "panathinaikos",
           "pts": "6",
@@ -2701,11 +2739,11 @@
             "GF": "7",
             "GC": "2",
             "Dif": "+5",
-            "Clasificación 2026-27": "Clasificado a los octavos de final"
+            "Clasificación 2026-27": ""
           }
         },
         {
-          "pos": 2,
+          "pos": 4,
           "team": "Lugano",
           "teamId": "lugano",
           "pts": "6",
@@ -2724,7 +2762,7 @@
           }
         },
         {
-          "pos": 3,
+          "pos": 5,
           "team": "Brann",
           "teamId": "brann",
           "pts": "6",
@@ -2743,26 +2781,7 @@
           }
         },
         {
-          "pos": 4,
-          "team": "Trabzonspor",
-          "teamId": "trabzonspor",
-          "pts": "6",
-          "pj": "2",
-          "dif": "+4",
-          "values": {
-            "Pts": "6",
-            "PJ": "2",
-            "G": "2",
-            "E": "0",
-            "P": "0",
-            "GF": "6",
-            "GC": "2",
-            "Dif": "+4",
-            "Clasificación 2026-27": ""
-          }
-        },
-        {
-          "pos": 5,
+          "pos": 6,
           "team": "Twente",
           "teamId": "twente",
           "pts": "6",
@@ -2781,7 +2800,7 @@
           }
         },
         {
-          "pos": 6,
+          "pos": 7,
           "team": "Monaco",
           "teamId": "monaco",
           "pts": "6",
@@ -2800,7 +2819,26 @@
           }
         },
         {
-          "pos": 7,
+          "pos": 8,
+          "team": "Trabzonspor",
+          "teamId": "trabzonspor",
+          "pts": "6",
+          "pj": "3",
+          "dif": "+3",
+          "values": {
+            "Pts": "6",
+            "PJ": "3",
+            "G": "2",
+            "E": "0",
+            "P": "1",
+            "GF": "6",
+            "GC": "3",
+            "Dif": "+3",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 9,
           "team": "Sint-Truidense",
           "teamId": null,
           "pts": "6",
@@ -2815,30 +2853,49 @@
             "GF": "3",
             "GC": "0",
             "Dif": "+3",
-            "Clasificación 2026-27": ""
+            "Clasificación 2026-27": "Clasificado a la ronda preliminar (cabeza de serie)"
           }
         },
         {
-          "pos": 8,
+          "pos": 10,
           "team": "Hajduk Split",
           "teamId": "hajduk",
           "pts": "6",
-          "pj": "2",
-          "dif": "+2",
+          "pj": "3",
+          "dif": "+1",
           "values": {
             "Pts": "6",
-            "PJ": "2",
+            "PJ": "3",
             "G": "2",
             "E": "0",
-            "P": "0",
+            "P": "1",
             "GF": "3",
-            "GC": "1",
-            "Dif": "+2",
+            "GC": "2",
+            "Dif": "+1",
             "Clasificación 2026-27": ""
           }
         },
         {
-          "pos": 9,
+          "pos": 11,
+          "team": "Friburgo",
+          "teamId": "freiburg",
+          "pts": "6",
+          "pj": "3",
+          "dif": "−1",
+          "values": {
+            "Pts": "6",
+            "PJ": "3",
+            "G": "2",
+            "E": "0",
+            "P": "1",
+            "GF": "4",
+            "GC": "5",
+            "Dif": "−1",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 12,
           "team": "Brighton & Hove Albion",
           "teamId": "brighton",
           "pts": "4",
@@ -2853,11 +2910,11 @@
             "GF": "4",
             "GC": "0",
             "Dif": "+4",
-            "Clasificación 2026-27": "Clasificado a la ronda preliminar (cabeza de serie)"
+            "Clasificación 2026-27": ""
           }
         },
         {
-          "pos": 10,
+          "pos": 13,
           "team": "Copenhague",
           "teamId": "copenhagen",
           "pts": "4",
@@ -2876,7 +2933,7 @@
           }
         },
         {
-          "pos": 11,
+          "pos": 14,
           "team": "Universitatea Craiova",
           "teamId": "u-craiova",
           "pts": "4",
@@ -2895,75 +2952,94 @@
           }
         },
         {
-          "pos": 12,
-          "team": "Mjällby",
-          "teamId": "mjallby",
+          "pos": 15,
+          "team": "Estrella Roja",
+          "teamId": "red-star",
           "pts": "4",
-          "pj": "2",
-          "dif": "+2",
+          "pj": "3",
+          "dif": "0",
           "values": {
             "Pts": "4",
-            "PJ": "2",
+            "PJ": "3",
             "G": "1",
             "E": "1",
-            "P": "0",
-            "GF": "3",
-            "GC": "1",
-            "Dif": "+2",
-            "Clasificación 2026-27": ""
-          }
-        },
-        {
-          "pos": 13,
-          "team": "Ajax",
-          "teamId": "ajax",
-          "pts": "3",
-          "pj": "2",
-          "dif": "+1",
-          "values": {
-            "Pts": "3",
-            "PJ": "2",
-            "G": "1",
-            "E": "0",
             "P": "1",
-            "GF": "3",
-            "GC": "2",
-            "Dif": "+1",
+            "GF": "6",
+            "GC": "6",
+            "Dif": "0",
             "Clasificación 2026-27": ""
           }
         },
         {
-          "pos": 14,
-          "team": "Borac Banja Luka",
-          "teamId": "borac",
-          "pts": "3",
-          "pj": "2",
-          "dif": "+1",
-          "values": {
-            "Pts": "3",
-            "PJ": "2",
-            "G": "1",
-            "E": "0",
-            "P": "1",
-            "GF": "3",
-            "GC": "2",
-            "Dif": "+1",
-            "Clasificación 2026-27": ""
-          }
-        },
-        {
-          "pos": 15,
+          "pos": 16,
           "team": "Atalanta",
           "teamId": "atalanta",
+          "pts": "4",
+          "pj": "3",
+          "dif": "0",
+          "values": {
+            "Pts": "4",
+            "PJ": "3",
+            "G": "1",
+            "E": "1",
+            "P": "1",
+            "GF": "4",
+            "GC": "4",
+            "Dif": "0",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 17,
+          "team": "Sporting Braga",
+          "teamId": null,
+          "pts": "4",
+          "pj": "3",
+          "dif": "−1",
+          "values": {
+            "Pts": "4",
+            "PJ": "3",
+            "G": "1",
+            "E": "1",
+            "P": "1",
+            "GF": "2",
+            "GC": "3",
+            "Dif": "−1",
+            "Clasificación 2026-27": "Clasificado a la ronda preliminar (no cabeza de serie)"
+          }
+        },
+        {
+          "pos": 18,
+          "team": "Gent",
+          "teamId": "gent",
+          "pts": "4",
+          "pj": "3",
+          "dif": "−1",
+          "values": {
+            "Pts": "4",
+            "PJ": "3",
+            "G": "1",
+            "E": "1",
+            "P": "1",
+            "GF": "1",
+            "GC": "2",
+            "Dif": "−1",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 19,
+          "team": "Thun",
+          "teamId": "thun",
           "pts": "3",
-          "pj": "2",
+          "pj": "3",
           "dif": "0",
           "values": {
             "Pts": "3",
-            "PJ": "2",
+            "PJ": "3",
             "G": "1",
             "E": "0",
-            "P": "1",
+            "P": "2",
             "GF": "3",
             "GC": "3",
             "Dif": "0",
@@ -2971,64 +3047,45 @@
           }
         },
         {
-          "pos": 16,
-          "team": "Sporting Braga",
-          "teamId": null,
+          "pos": 20,
+          "team": "Borac Banja Luka",
+          "teamId": "borac",
           "pts": "3",
-          "pj": "2",
+          "pj": "3",
           "dif": "−1",
           "values": {
             "Pts": "3",
-            "PJ": "2",
+            "PJ": "3",
             "G": "1",
             "E": "0",
-            "P": "1",
-            "GF": "2",
-            "GC": "3",
-            "Dif": "−1",
-            "Clasificación 2026-27": ""
-          }
-        },
-        {
-          "pos": 17,
-          "team": "Gent",
-          "teamId": "gent",
-          "pts": "3",
-          "pj": "2",
-          "dif": "−1",
-          "values": {
-            "Pts": "3",
-            "PJ": "2",
-            "G": "1",
-            "E": "0",
-            "P": "1",
-            "GF": "1",
-            "GC": "2",
-            "Dif": "−1",
-            "Clasificación 2026-27": "Clasificado a la ronda preliminar (no cabeza de serie)"
-          }
-        },
-        {
-          "pos": 18,
-          "team": "Friburgo",
-          "teamId": "freiburg",
-          "pts": "3",
-          "pj": "2",
-          "dif": "−2",
-          "values": {
-            "Pts": "3",
-            "PJ": "2",
-            "G": "1",
-            "E": "0",
-            "P": "1",
+            "P": "2",
             "GF": "3",
-            "GC": "5",
-            "Dif": "−2",
+            "GC": "4",
+            "Dif": "−1",
             "Clasificación 2026-27": ""
           }
         },
         {
-          "pos": 19,
+          "pos": 21,
+          "team": "Lincoln Red Imps",
+          "teamId": "lincoln",
+          "pts": "3",
+          "pj": "3",
+          "dif": "−3",
+          "values": {
+            "Pts": "3",
+            "PJ": "3",
+            "G": "1",
+            "E": "0",
+            "P": "2",
+            "GF": "3",
+            "GC": "6",
+            "Dif": "−3",
+            "Clasificación 2026-27": ""
+          }
+        },
+        {
+          "pos": 22,
           "team": "Nordsjælland",
           "teamId": "nordsjaelland",
           "pts": "2",
@@ -3047,7 +3104,7 @@
           }
         },
         {
-          "pos": 20,
+          "pos": 23,
           "team": "Riga",
           "teamId": "riga",
           "pts": "2",
@@ -3066,7 +3123,7 @@
           }
         },
         {
-          "pos": 21,
+          "pos": 24,
           "team": "Egnatia",
           "teamId": "egnatia",
           "pts": "2",
@@ -3085,26 +3142,45 @@
           }
         },
         {
-          "pos": 22,
-          "team": "Estrella Roja",
-          "teamId": "red-star",
-          "pts": "1",
-          "pj": "2",
+          "pos": 25,
+          "team": "AGF Aarhus",
+          "teamId": null,
+          "pts": "2",
+          "pj": "3",
           "dif": "−1",
           "values": {
-            "Pts": "1",
-            "PJ": "2",
+            "Pts": "2",
+            "PJ": "3",
             "G": "0",
-            "E": "1",
+            "E": "2",
             "P": "1",
-            "GF": "4",
-            "GC": "5",
+            "GF": "1",
+            "GC": "2",
             "Dif": "−1",
+            "Clasificación 2026-27": "Eliminado de la competición"
+          }
+        },
+        {
+          "pos": 26,
+          "team": "Kairat Almaty",
+          "teamId": "kairat",
+          "pts": "2",
+          "pj": "3",
+          "dif": "−4",
+          "values": {
+            "Pts": "2",
+            "PJ": "3",
+            "G": "0",
+            "E": "2",
+            "P": "1",
+            "GF": "3",
+            "GC": "7",
+            "Dif": "−4",
             "Clasificación 2026-27": ""
           }
         },
         {
-          "pos": 23,
+          "pos": 27,
           "team": "CSKA Sofía",
           "teamId": "cska-sofia",
           "pts": "1",
@@ -3123,7 +3199,7 @@
           }
         },
         {
-          "pos": 24,
+          "pos": 28,
           "team": "Jablonec",
           "teamId": "jablonec",
           "pts": "1",
@@ -3142,45 +3218,7 @@
           }
         },
         {
-          "pos": 25,
-          "team": "Midtjylland",
-          "teamId": "midtjylland",
-          "pts": "1",
-          "pj": "2",
-          "dif": "−1",
-          "values": {
-            "Pts": "1",
-            "PJ": "2",
-            "G": "0",
-            "E": "1",
-            "P": "1",
-            "GF": "1",
-            "GC": "2",
-            "Dif": "−1",
-            "Clasificación 2026-27": "Eliminado de la competición"
-          }
-        },
-        {
-          "pos": 26,
-          "team": "AGF Aarhus",
-          "teamId": null,
-          "pts": "1",
-          "pj": "2",
-          "dif": "−1",
-          "values": {
-            "Pts": "1",
-            "PJ": "2",
-            "G": "0",
-            "E": "1",
-            "P": "1",
-            "GF": "1",
-            "GC": "2",
-            "Dif": "−1",
-            "Clasificación 2026-27": ""
-          }
-        },
-        {
-          "pos": 27,
+          "pos": 29,
           "team": "Pafos",
           "teamId": "pafos",
           "pts": "1",
@@ -3199,7 +3237,7 @@
           }
         },
         {
-          "pos": 28,
+          "pos": 30,
           "team": "Iberia 1999",
           "teamId": "iberia-1999",
           "pts": "1",
@@ -3218,26 +3256,7 @@
           }
         },
         {
-          "pos": 29,
-          "team": "Heart of Midlothian",
-          "teamId": null,
-          "pts": "1",
-          "pj": "2",
-          "dif": "−2",
-          "values": {
-            "Pts": "1",
-            "PJ": "2",
-            "G": "0",
-            "E": "1",
-            "P": "1",
-            "GF": "1",
-            "GC": "3",
-            "Dif": "−2",
-            "Clasificación 2026-27": ""
-          }
-        },
-        {
-          "pos": 30,
+          "pos": 31,
           "team": "Getafe",
           "teamId": "getafe",
           "pts": "1",
@@ -3256,18 +3275,18 @@
           }
         },
         {
-          "pos": 31,
-          "team": "Kairat Almaty",
-          "teamId": "kairat",
+          "pos": 32,
+          "team": "Heart of Midlothian",
+          "teamId": null,
           "pts": "1",
-          "pj": "2",
+          "pj": "3",
           "dif": "−4",
           "values": {
             "Pts": "1",
-            "PJ": "2",
+            "PJ": "3",
             "G": "0",
             "E": "1",
-            "P": "1",
+            "P": "2",
             "GF": "2",
             "GC": "6",
             "Dif": "−4",
@@ -3275,36 +3294,17 @@
           }
         },
         {
-          "pos": 32,
-          "team": "Thun",
-          "teamId": "thun",
-          "pts": "0",
-          "pj": "2",
-          "dif": "−2",
-          "values": {
-            "Pts": "0",
-            "PJ": "2",
-            "G": "0",
-            "E": "0",
-            "P": "2",
-            "GF": "0",
-            "GC": "2",
-            "Dif": "−2",
-            "Clasificación 2026-27": ""
-          }
-        },
-        {
           "pos": 33,
-          "team": "Lincoln Red Imps",
-          "teamId": "lincoln",
-          "pts": "0",
-          "pj": "2",
+          "team": "KuPS Kuopio",
+          "teamId": "kups",
+          "pts": "1",
+          "pj": "3",
           "dif": "−4",
           "values": {
-            "Pts": "0",
-            "PJ": "2",
+            "Pts": "1",
+            "PJ": "3",
             "G": "0",
-            "E": "0",
+            "E": "1",
             "P": "2",
             "GF": "2",
             "GC": "6",
@@ -3314,20 +3314,20 @@
         },
         {
           "pos": 34,
-          "team": "KuPS Kuopio",
-          "teamId": "kups",
-          "pts": "0",
-          "pj": "2",
-          "dif": "−4",
+          "team": "Midtjylland",
+          "teamId": "midtjylland",
+          "pts": "1",
+          "pj": "3",
+          "dif": "−6",
           "values": {
-            "Pts": "0",
-            "PJ": "2",
+            "Pts": "1",
+            "PJ": "3",
             "G": "0",
-            "E": "0",
+            "E": "1",
             "P": "2",
             "GF": "2",
-            "GC": "6",
-            "Dif": "−4",
+            "GC": "8",
+            "Dif": "−6",
             "Clasificación 2026-27": ""
           }
         },
@@ -3336,17 +3336,17 @@
           "team": "Inter Club d'Escaldes",
           "teamId": null,
           "pts": "0",
-          "pj": "2",
-          "dif": "−4",
+          "pj": "3",
+          "dif": "−5",
           "values": {
             "Pts": "0",
-            "PJ": "2",
+            "PJ": "3",
             "G": "0",
             "E": "0",
-            "P": "2",
-            "GF": "1",
-            "GC": "5",
-            "Dif": "−4",
+            "P": "3",
+            "GF": "2",
+            "GC": "7",
+            "Dif": "−5",
             "Clasificación 2026-27": ""
           }
         },
@@ -3371,7 +3371,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Liga_Conferencia_de_la_UEFA_2026-27",
-      "revision": 176020793
+      "revision": 176165538
     },
     {
       "key": "bra-tabla",
@@ -3888,6 +3888,24 @@
         },
         {
           "pos": 6,
+          "team": "River Plate",
+          "teamId": "river-plate-arg",
+          "pts": "55",
+          "pj": "32",
+          "dif": "17",
+          "values": {
+            "Pts": "55",
+            "PJ": "32",
+            "PG": "17",
+            "PE": "4",
+            "PP": "11",
+            "GF": "43",
+            "GC": "26",
+            "Dif": "17"
+          }
+        },
+        {
+          "pos": 7,
           "team": "Instituto",
           "teamId": null,
           "pts": "54",
@@ -3905,7 +3923,7 @@
           }
         },
         {
-          "pos": 7,
+          "pos": 8,
           "team": "Gimnasia y Esgrima (LP)",
           "teamId": "gimnasia-lp",
           "pts": "54",
@@ -3920,24 +3938,6 @@
             "GF": "42",
             "GC": "38",
             "Dif": "4"
-          }
-        },
-        {
-          "pos": 8,
-          "team": "River Plate",
-          "teamId": "river-plate-arg",
-          "pts": "52",
-          "pj": "31",
-          "dif": "15",
-          "values": {
-            "Pts": "52",
-            "PJ": "31",
-            "PG": "16",
-            "PE": "4",
-            "PP": "11",
-            "GF": "41",
-            "GC": "26",
-            "Dif": "15"
           }
         },
         {
@@ -4305,17 +4305,17 @@
           "team": "Aldosivi",
           "teamId": "aldosivi",
           "pts": "19",
-          "pj": "31",
-          "dif": "−21",
+          "pj": "32",
+          "dif": "−23",
           "values": {
             "Pts": "19",
-            "PJ": "31",
+            "PJ": "32",
             "PG": "3",
             "PE": "10",
-            "PP": "18",
+            "PP": "19",
             "GF": "22",
-            "GC": "43",
-            "Dif": "−21"
+            "GC": "45",
+            "Dif": "−23"
           }
         },
         {
@@ -4338,7 +4338,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176122592
+      "revision": 176165989
     },
     {
       "key": "arg-clausura-a",
@@ -4631,7 +4631,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176122592
+      "revision": 176165989
     },
     {
       "key": "arg-clausura-b",
@@ -4710,18 +4710,18 @@
           "pos": 4,
           "team": "River Plate",
           "teamId": "river-plate-arg",
-          "pts": "23",
-          "pj": "15",
-          "dif": "5",
+          "pts": "26",
+          "pj": "16",
+          "dif": "7",
           "values": {
-            "Pts": "23",
-            "PJ": "15",
-            "PG": "7",
+            "Pts": "26",
+            "PJ": "16",
+            "PG": "8",
             "PE": "2",
             "PP": "6",
-            "GF": "19",
+            "GF": "21",
             "GC": "14",
-            "Dif": "5"
+            "Dif": "7"
           }
         },
         {
@@ -4891,17 +4891,17 @@
           "team": "Aldosivi",
           "teamId": "aldosivi",
           "pts": "11",
-          "pj": "15",
-          "dif": "−8",
+          "pj": "16",
+          "dif": "−10",
           "values": {
             "Pts": "11",
-            "PJ": "15",
+            "PJ": "16",
             "PG": "3",
             "PE": "2",
-            "PP": "10",
+            "PP": "11",
             "GF": "16",
-            "GC": "24",
-            "Dif": "−8"
+            "GC": "26",
+            "Dif": "−10"
           }
         },
         {
@@ -4924,7 +4924,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176122592
+      "revision": 176165989
     }
   ]
 }
