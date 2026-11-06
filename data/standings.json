@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-06T02:26:12.163Z",
+  "fetchedAtUtc": "2026-11-06T12:06:47.162Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -2663,7 +2663,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA_2026-27",
-      "revision": 176168781
+      "revision": 176172604
     },
     {
       "key": "uecl-liga",
@@ -3371,7 +3371,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Liga_Conferencia_de_la_UEFA_2026-27",
-      "revision": 176167866
+      "revision": 176172812
     },
     {
       "key": "bra-tabla",
@@ -3435,18 +3435,18 @@
           "pos": 3,
           "team": "Cruzeiro",
           "teamId": "cruzeiro",
-          "pts": "57",
-          "pj": "33",
-          "dif": "+6",
+          "pts": "60",
+          "pj": "34",
+          "dif": "+7",
           "values": {
-            "Pts": "57",
-            "PJ": "33",
-            "G": "17",
+            "Pts": "60",
+            "PJ": "34",
+            "G": "18",
             "E": "6",
             "P": "10",
-            "GF": "52",
-            "GC": "46",
-            "Dif": "+6",
+            "GF": "55",
+            "GC": "48",
+            "Dif": "+7",
             "Clasificación 2027": ""
           }
         },
@@ -3493,17 +3493,17 @@
           "team": "Bahia",
           "teamId": "bahia",
           "pts": "53",
-          "pj": "33",
-          "dif": "+6",
+          "pj": "34",
+          "dif": "+5",
           "values": {
             "Pts": "53",
-            "PJ": "33",
+            "PJ": "34",
             "G": "14",
             "E": "11",
-            "P": "8",
-            "GF": "48",
-            "GC": "42",
-            "Dif": "+6",
+            "P": "9",
+            "GF": "50",
+            "GC": "45",
+            "Dif": "+5",
             "Clasificación 2027": "Fase de grupos de la Copa Sudamericana"
           }
         },
@@ -3775,7 +3775,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026",
-      "revision": 176170391
+      "revision": 176172396
     },
     {
       "key": "arg-anual",
