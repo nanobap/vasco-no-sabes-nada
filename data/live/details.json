@@ -3682,5 +3682,840 @@
       },
       "h2h": []
     }
+  },
+  "20261105-bra-cruzeiro-bahia": {
+    "updatedAtUtc": "2026-11-06T02:26:53.561Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "Felipe Morais",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "Gabriel Pec",
+        "type": "Missing Fixture",
+        "reason": "Broken Leg"
+      },
+      {
+        "team": "home",
+        "player": "Matheus Pereira",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "home",
+        "player": "L. Sinisterra",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "L. Villalba",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "home",
+        "player": "William Furtado",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "home",
+        "player": "Joao Marcelo",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "Leo Vieira",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "Felipe Morais",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "Gabriel Pec",
+        "type": "Missing Fixture",
+        "reason": "Broken Leg"
+      },
+      {
+        "team": "home",
+        "player": "Matheus Pereira",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "home",
+        "player": "L. Sinisterra",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "L. Villalba",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "home",
+        "player": "William Furtado",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      {
+        "team": "home",
+        "player": "Joao Marcelo",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "Leo Vieira",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0.45,
+      "draw": 0.45,
+      "away": 0.1,
+      "advice": "Double chance : Cruzeiro or draw",
+      "formHome": "LLDDLDLDWLWWWLWDWDWLWWWWLWLWWLWWW",
+      "formAway": "WDWDWWLWLWLDDLDLWWDDDDDWWWWLLWLDW",
+      "comparison": {
+        "form": {
+          "home": "63%",
+          "away": "37%"
+        },
+        "att": {
+          "home": "67%",
+          "away": "33%"
+        },
+        "def": {
+          "home": "54%",
+          "away": "46%"
+        },
+        "total": {
+          "home": "61.3%",
+          "away": "38.7%"
+        }
+      },
+      "h2h": [
+        {
+          "date": "2026-05-10T00:00:00+00:00",
+          "home": "Bahia",
+          "away": "Cruzeiro",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-09-15T23:00:00+00:00",
+          "home": "Bahia",
+          "away": "Cruzeiro",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-04-18T00:30:00+00:00",
+          "home": "Cruzeiro",
+          "away": "Bahia",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2024-10-19T00:30:00+00:00",
+          "home": "Cruzeiro",
+          "away": "Bahia",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2024-06-23T19:00:00+00:00",
+          "home": "Bahia",
+          "away": "Cruzeiro",
+          "homeGoals": 4,
+          "awayGoals": 1
+        }
+      ]
+    }
+  },
+  "20261105-bra-palmeiras-remo": {
+    "updatedAtUtc": "2026-11-06T02:27:06.848Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "Jefte",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "Paulinho",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      {
+        "team": "home",
+        "player": "R. Sosa",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "Gabriel Poveda",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "Joao Lucas",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "Matheus Felipe",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "Marlon",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "Jefte",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "Paulinho",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      {
+        "team": "home",
+        "player": "R. Sosa",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "away",
+        "player": "Gabriel Poveda",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "Joao Lucas",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "Matheus Felipe",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "Marlon",
+        "type": "Questionable",
+        "reason": "Injury"
+      }
+    ],
+    "prediction": {
+      "home": 0.45,
+      "draw": 0.45,
+      "away": 0.1,
+      "advice": "Winner : Palmeiras",
+      "formHome": "DWWWLWWWWWDWWDDDWWWLWDLWDDWDWWWWD",
+      "formAway": "LDDDLLLWLDDLLWDWLWLWLDDLLLLLDDDLW",
+      "comparison": {
+        "form": {
+          "home": "68%",
+          "away": "32%"
+        },
+        "att": {
+          "home": "69%",
+          "away": "31%"
+        },
+        "def": {
+          "home": "80%",
+          "away": "20%"
+        },
+        "total": {
+          "home": "66.5%",
+          "away": "33.5%"
+        }
+      },
+      "h2h": [
+        {
+          "date": "2026-05-10T19:00:00+00:00",
+          "home": "Remo",
+          "away": "Palmeiras",
+          "homeGoals": 1,
+          "awayGoals": 1
+        }
+      ]
+    }
+  },
+  "20261105-lpf-gimnasia-belgrano": {
+    "updatedAtUtc": "2026-11-06T02:27:20.128Z",
+    "injuries": [],
+    "prediction": {
+      "home": 0.45,
+      "draw": 0.45,
+      "away": 0.1,
+      "advice": "Double chance : Gimnasia L.P. or draw",
+      "formHome": "WLWLDWLDWLLLWWWWWLLWWWLLWWDDDDWWW",
+      "formAway": "WDDWWDWLWDLLWDLWWWWWWLDWWLDDDWWWLLD",
+      "comparison": {
+        "form": {
+          "home": "61%",
+          "away": "39%"
+        },
+        "att": {
+          "home": "62%",
+          "away": "38%"
+        },
+        "def": {
+          "home": "60%",
+          "away": "40%"
+        },
+        "total": {
+          "home": "48.7%",
+          "away": "51.3%"
+        }
+      },
+      "h2h": [
+        {
+          "date": "2026-04-26T20:30:00+00:00",
+          "home": "Belgrano Cordoba",
+          "away": "Gimnasia L.P.",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2024-08-26T21:30:00+00:00",
+          "home": "Belgrano Cordoba",
+          "away": "Gimnasia L.P.",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2023-04-16T00:30:00+00:00",
+          "home": "Gimnasia L.P.",
+          "away": "Belgrano Cordoba",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2018-11-02T22:00:00+00:00",
+          "home": "Belgrano Cordoba",
+          "away": "Gimnasia L.P.",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2017-11-25T20:00:00+00:00",
+          "home": "Belgrano Cordoba",
+          "away": "Gimnasia L.P.",
+          "homeGoals": 2,
+          "awayGoals": 0
+        }
+      ]
+    }
+  },
+  "20261105-uel-celta-union": {
+    "updatedAtUtc": "2026-11-06T02:27:33.411Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "H. F. Cuenca Martinez",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "J. El Abdellaoui",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "B. Iglesias",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Nunez",
+        "type": "Missing Fixture",
+        "reason": "Groin Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Roman",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "C. Starfelt",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "H. Gonzalez",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Ait El Hadj",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "M. Biondic",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "I. Hurtevent",
+        "type": "Missing Fixture",
+        "reason": "Knock"
+      },
+      {
+        "team": "away",
+        "player": "O. Kricfalusi",
+        "type": "Missing Fixture",
+        "reason": "Knock"
+      },
+      {
+        "team": "away",
+        "player": "K. Mac Allister",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "I. Pavlic",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "R. Schoofs",
+        "type": "Missing Fixture",
+        "reason": "Knock"
+      },
+      {
+        "team": "home",
+        "player": "H. F. Cuenca Martinez",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "J. El Abdellaoui",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "B. Iglesias",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      {
+        "team": "home",
+        "player": "A. Nunez",
+        "type": "Missing Fixture",
+        "reason": "Groin Injury"
+      },
+      {
+        "team": "home",
+        "player": "M. Roman",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "C. Starfelt",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "H. Gonzalez",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "A. Ait El Hadj",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "M. Biondic",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "I. Hurtevent",
+        "type": "Missing Fixture",
+        "reason": "Knock"
+      },
+      {
+        "team": "away",
+        "player": "O. Kricfalusi",
+        "type": "Missing Fixture",
+        "reason": "Knock"
+      },
+      {
+        "team": "away",
+        "player": "K. Mac Allister",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "away",
+        "player": "I. Pavlic",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "R. Schoofs",
+        "type": "Missing Fixture",
+        "reason": "Knock"
+      }
+    ],
+    "prediction": {
+      "home": 0,
+      "draw": 0.5,
+      "away": 0.5,
+      "advice": "Winner : Union St. Gilloise",
+      "formHome": "LLW",
+      "formAway": "WDW",
+      "comparison": {
+        "form": {
+          "home": "30%",
+          "away": "70%"
+        },
+        "att": {
+          "home": "27%",
+          "away": "73%"
+        },
+        "def": {
+          "home": "20%",
+          "away": "80%"
+        },
+        "total": {
+          "home": "25.7%",
+          "away": "74.3%"
+        }
+      },
+      "h2h": []
+    }
+  },
+  "20261105-uel-torreense-ararat": {
+    "updatedAtUtc": "2026-11-06T02:27:46.689Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "A. Baradji",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "P. Ayongo",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "A. Baradji",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "away",
+        "player": "P. Ayongo",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      }
+    ],
+    "prediction": {
+      "home": 0.45,
+      "draw": 0.45,
+      "away": 0.1,
+      "advice": "Double chance : Torreense or draw",
+      "formHome": "WLL",
+      "formAway": "DWLLL",
+      "comparison": {
+        "form": {
+          "home": "43%",
+          "away": "57%"
+        },
+        "att": {
+          "home": "50%",
+          "away": "50%"
+        },
+        "def": {
+          "home": "63%",
+          "away": "37%"
+        },
+        "total": {
+          "home": "49.8%",
+          "away": "50.3%"
+        }
+      },
+      "h2h": []
+    }
+  },
+  "20261105-uel-sturm-celje": {
+    "updatedAtUtc": "2026-11-06T02:28:00.003Z",
+    "injuries": [
+      {
+        "team": "home",
+        "player": "N. Geyrhofer",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "L. Grgic",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "S. Jatta",
+        "type": "Missing Fixture",
+        "reason": "Shoulder Injury"
+      },
+      {
+        "team": "home",
+        "player": "D. Khudyakov",
+        "type": "Missing Fixture",
+        "reason": "Leg Injury"
+      },
+      {
+        "team": "home",
+        "player": "O. Kiteishvili",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      {
+        "team": "home",
+        "player": "G. Mamageishvili",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "F. Rozga",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "E. Soglo",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "N. Weiper",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "S. Wlodarczyk",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "I. Calusic",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "J. Pisek",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "R. Pozeg",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "Z. L. Sega",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "S. Sluga",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "D. Vuklisevic",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "N. Geyrhofer",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "home",
+        "player": "L. Grgic",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      {
+        "team": "home",
+        "player": "S. Jatta",
+        "type": "Missing Fixture",
+        "reason": "Shoulder Injury"
+      },
+      {
+        "team": "home",
+        "player": "D. Khudyakov",
+        "type": "Missing Fixture",
+        "reason": "Leg Injury"
+      },
+      {
+        "team": "home",
+        "player": "O. Kiteishvili",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      {
+        "team": "home",
+        "player": "G. Mamageishvili",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "F. Rozga",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "E. Soglo",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      {
+        "team": "home",
+        "player": "N. Weiper",
+        "type": "Missing Fixture",
+        "reason": "Injury"
+      },
+      {
+        "team": "home",
+        "player": "S. Wlodarczyk",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "I. Calusic",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "J. Pisek",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "R. Pozeg",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "Z. L. Sega",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "S. Sluga",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      },
+      {
+        "team": "away",
+        "player": "D. Vuklisevic",
+        "type": "Missing Fixture",
+        "reason": "Off the roster"
+      }
+    ],
+    "prediction": {
+      "home": 0.45,
+      "draw": 0.45,
+      "away": 0.1,
+      "advice": "Combo Double chance : Sturm Graz or draw and -3.5 goals",
+      "formHome": "DLW",
+      "formAway": "LLD",
+      "comparison": {
+        "form": {
+          "home": "80%",
+          "away": "20%"
+        },
+        "att": {
+          "home": "33%",
+          "away": "67%"
+        },
+        "def": {
+          "home": "70%",
+          "away": "30%"
+        },
+        "total": {
+          "home": "61.0%",
+          "away": "39.0%"
+        }
+      },
+      "h2h": []
+    }
   }
 }
