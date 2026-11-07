@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-06T19:24:15.820Z",
+  "fetchedAtUtc": "2026-11-07T00:07:26.374Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -3996,6 +3996,24 @@
         },
         {
           "pos": 12,
+          "team": "Barracas Central",
+          "teamId": null,
+          "pts": "47",
+          "pj": "32",
+          "dif": "4",
+          "values": {
+            "Pts": "47",
+            "PJ": "32",
+            "PG": "12",
+            "PE": "11",
+            "PP": "9",
+            "GF": "32",
+            "GC": "28",
+            "Dif": "4"
+          }
+        },
+        {
+          "pos": 13,
           "team": "Estudiantes (LP)",
           "teamId": null,
           "pts": "46",
@@ -4013,7 +4031,7 @@
           }
         },
         {
-          "pos": 13,
+          "pos": 14,
           "team": "Independiente",
           "teamId": null,
           "pts": "44",
@@ -4027,24 +4045,6 @@
             "PP": "9",
             "GF": "37",
             "GC": "35",
-            "Dif": "2"
-          }
-        },
-        {
-          "pos": 14,
-          "team": "Barracas Central",
-          "teamId": null,
-          "pts": "44",
-          "pj": "31",
-          "dif": "2",
-          "values": {
-            "Pts": "44",
-            "PJ": "31",
-            "PG": "11",
-            "PE": "11",
-            "PP": "9",
-            "GF": "30",
-            "GC": "28",
             "Dif": "2"
           }
         },
@@ -4197,17 +4197,17 @@
           "team": "Racing Club",
           "teamId": null,
           "pts": "36",
-          "pj": "31",
-          "dif": "−4",
+          "pj": "32",
+          "dif": "−6",
           "values": {
             "Pts": "36",
-            "PJ": "31",
+            "PJ": "32",
             "PG": "9",
             "PE": "9",
-            "PP": "13",
+            "PP": "14",
             "GF": "33",
-            "GC": "37",
-            "Dif": "−4"
+            "GC": "39",
+            "Dif": "−6"
           }
         },
         {
@@ -4338,7 +4338,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176170093
+      "revision": 176180091
     },
     {
       "key": "arg-clausura-a",
@@ -4631,7 +4631,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176170093
+      "revision": 176180091
     },
     {
       "key": "arg-clausura-b",
@@ -4726,6 +4726,24 @@
         },
         {
           "pos": 5,
+          "team": "Barracas Central",
+          "teamId": null,
+          "pts": "26",
+          "pj": "16",
+          "dif": "4",
+          "values": {
+            "Pts": "26",
+            "PJ": "16",
+            "PG": "7",
+            "PE": "5",
+            "PP": "4",
+            "GF": "17",
+            "GC": "13",
+            "Dif": "4"
+          }
+        },
+        {
+          "pos": 6,
           "team": "Belgrano",
           "teamId": "belgrano",
           "pts": "23",
@@ -4739,24 +4757,6 @@
             "PP": "5",
             "GF": "17",
             "GC": "15",
-            "Dif": "2"
-          }
-        },
-        {
-          "pos": 6,
-          "team": "Barracas Central",
-          "teamId": null,
-          "pts": "23",
-          "pj": "15",
-          "dif": "2",
-          "values": {
-            "Pts": "23",
-            "PJ": "15",
-            "PG": "6",
-            "PE": "5",
-            "PP": "4",
-            "GF": "15",
-            "GC": "13",
             "Dif": "2"
           }
         },
@@ -4855,17 +4855,17 @@
           "team": "Racing Club",
           "teamId": null,
           "pts": "15",
-          "pj": "15",
-          "dif": "−6",
+          "pj": "16",
+          "dif": "−8",
           "values": {
             "Pts": "15",
-            "PJ": "15",
+            "PJ": "16",
             "PG": "4",
             "PE": "3",
-            "PP": "8",
+            "PP": "9",
             "GF": "16",
-            "GC": "22",
-            "Dif": "−6"
+            "GC": "24",
+            "Dif": "−8"
           }
         },
         {
@@ -4924,7 +4924,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176170093
+      "revision": 176180091
     }
   ]
 }
