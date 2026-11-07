@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-07T18:48:07.648Z",
+  "fetchedAtUtc": "2026-11-07T23:38:36.338Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -3775,7 +3775,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026",
-      "revision": 176185377
+      "revision": 176195359
     },
     {
       "key": "arg-anual",
@@ -3800,58 +3800,76 @@
           "pos": 1,
           "team": "Boca Juniors",
           "teamId": null,
-          "pts": "60",
-          "pj": "31",
-          "dif": "22",
+          "pts": "63",
+          "pj": "32",
+          "dif": "23",
           "values": {
-            "Pts": "60",
-            "PJ": "31",
-            "PG": "16",
+            "Pts": "63",
+            "PJ": "32",
+            "PG": "17",
             "PE": "12",
             "PP": "3",
-            "GF": "45",
+            "GF": "46",
             "GC": "23",
-            "Dif": "22"
+            "Dif": "23"
           }
         },
         {
           "pos": 2,
-          "team": "Argentinos Juniors",
+          "team": "Rosario Central",
           "teamId": null,
-          "pts": "60",
-          "pj": "31",
-          "dif": "12",
+          "pts": "62",
+          "pj": "32",
+          "dif": "18",
           "values": {
-            "Pts": "60",
-            "PJ": "31",
-            "PG": "17",
-            "PE": "9",
-            "PP": "5",
-            "GF": "37",
-            "GC": "25",
-            "Dif": "12"
+            "Pts": "62",
+            "PJ": "32",
+            "PG": "18",
+            "PE": "8",
+            "PP": "6",
+            "GF": "46",
+            "GC": "28",
+            "Dif": "18"
           }
         },
         {
           "pos": 3,
-          "team": "Rosario Central",
+          "team": "Argentinos Juniors",
           "teamId": null,
-          "pts": "59",
-          "pj": "31",
-          "dif": "16",
+          "pts": "60",
+          "pj": "32",
+          "dif": "10",
           "values": {
-            "Pts": "59",
-            "PJ": "31",
+            "Pts": "60",
+            "PJ": "32",
             "PG": "17",
-            "PE": "8",
+            "PE": "9",
             "PP": "6",
-            "GF": "44",
-            "GC": "28",
-            "Dif": "16"
+            "GF": "37",
+            "GC": "27",
+            "Dif": "10"
           }
         },
         {
           "pos": 4,
+          "team": "Independiente Rivadavia",
+          "teamId": null,
+          "pts": "57",
+          "pj": "32",
+          "dif": "11",
+          "values": {
+            "Pts": "57",
+            "PJ": "32",
+            "PG": "16",
+            "PE": "9",
+            "PP": "7",
+            "GF": "50",
+            "GC": "39",
+            "Dif": "11"
+          }
+        },
+        {
+          "pos": 5,
           "team": "Gimnasia y Esgrima (LP)",
           "teamId": "gimnasia-lp",
           "pts": "57",
@@ -3869,7 +3887,7 @@
           }
         },
         {
-          "pos": 5,
+          "pos": 6,
           "team": "Vélez Sarsfield",
           "teamId": null,
           "pts": "56",
@@ -3884,24 +3902,6 @@
             "GF": "43",
             "GC": "29",
             "Dif": "14"
-          }
-        },
-        {
-          "pos": 6,
-          "team": "Independiente Rivadavia",
-          "teamId": null,
-          "pts": "56",
-          "pj": "31",
-          "dif": "11",
-          "values": {
-            "Pts": "56",
-            "PJ": "31",
-            "PG": "16",
-            "PE": "8",
-            "PP": "7",
-            "GF": "49",
-            "GC": "38",
-            "Dif": "11"
           }
         },
         {
@@ -3978,20 +3978,20 @@
         },
         {
           "pos": 11,
-          "team": "Defensa y Justicia",
+          "team": "Estudiantes (LP)",
           "teamId": null,
           "pts": "47",
-          "pj": "31",
-          "dif": "4",
+          "pj": "32",
+          "dif": "11",
           "values": {
             "Pts": "47",
-            "PJ": "31",
-            "PG": "12",
-            "PE": "11",
-            "PP": "8",
-            "GF": "39",
-            "GC": "35",
-            "Dif": "4"
+            "PJ": "32",
+            "PG": "13",
+            "PE": "8",
+            "PP": "11",
+            "GF": "40",
+            "GC": "29",
+            "Dif": "11"
           }
         },
         {
@@ -4014,6 +4014,24 @@
         },
         {
           "pos": 13,
+          "team": "Defensa y Justicia",
+          "teamId": null,
+          "pts": "47",
+          "pj": "32",
+          "dif": "3",
+          "values": {
+            "Pts": "47",
+            "PJ": "32",
+            "PG": "12",
+            "PE": "11",
+            "PP": "9",
+            "GF": "39",
+            "GC": "36",
+            "Dif": "3"
+          }
+        },
+        {
+          "pos": 13,
           "team": "Independiente",
           "teamId": null,
           "pts": "47",
@@ -4031,25 +4049,25 @@
           }
         },
         {
-          "pos": 14,
-          "team": "Estudiantes (LP)",
+          "pos": 15,
+          "team": "Huracán",
           "teamId": null,
-          "pts": "46",
-          "pj": "31",
-          "dif": "11",
+          "pts": "44",
+          "pj": "32",
+          "dif": "2",
           "values": {
-            "Pts": "46",
-            "PJ": "31",
-            "PG": "13",
-            "PE": "7",
-            "PP": "11",
-            "GF": "39",
-            "GC": "28",
-            "Dif": "11"
+            "Pts": "44",
+            "PJ": "32",
+            "PG": "11",
+            "PE": "11",
+            "PP": "10",
+            "GF": "31",
+            "GC": "29",
+            "Dif": "2"
           }
         },
         {
-          "pos": 15,
+          "pos": 16,
           "team": "Unión",
           "teamId": null,
           "pts": "42",
@@ -4067,25 +4085,25 @@
           }
         },
         {
-          "pos": 16,
-          "team": "Huracán",
-          "teamId": null,
+          "pos": 17,
+          "team": "Gimnasia y Esgrima (M)",
+          "teamId": "gimnasia-lp",
           "pts": "41",
-          "pj": "31",
-          "dif": "0",
+          "pj": "32",
+          "dif": "−7",
           "values": {
             "Pts": "41",
-            "PJ": "31",
-            "PG": "10",
-            "PE": "11",
-            "PP": "10",
-            "GF": "29",
-            "GC": "29",
-            "Dif": "0"
+            "PJ": "32",
+            "PG": "11",
+            "PE": "8",
+            "PP": "13",
+            "GF": "32",
+            "GC": "39",
+            "Dif": "−7"
           }
         },
         {
-          "pos": 17,
+          "pos": 18,
           "team": "San Lorenzo",
           "teamId": null,
           "pts": "41",
@@ -4099,24 +4117,6 @@
             "PP": "11",
             "GF": "23",
             "GC": "30",
-            "Dif": "−7"
-          }
-        },
-        {
-          "pos": 18,
-          "team": "Gimnasia y Esgrima (M)",
-          "teamId": "gimnasia-lp",
-          "pts": "40",
-          "pj": "31",
-          "dif": "−7",
-          "values": {
-            "Pts": "40",
-            "PJ": "31",
-            "PG": "11",
-            "PE": "7",
-            "PP": "13",
-            "GF": "31",
-            "GC": "38",
             "Dif": "−7"
           }
         },
@@ -4160,17 +4160,17 @@
           "pos": 21,
           "team": "Talleres",
           "teamId": null,
-          "pts": "38",
-          "pj": "31",
+          "pts": "39",
+          "pj": "32",
           "dif": "−2",
           "values": {
-            "Pts": "38",
-            "PJ": "31",
+            "Pts": "39",
+            "PJ": "32",
             "PG": "10",
-            "PE": "8",
+            "PE": "9",
             "PP": "13",
-            "GF": "33",
-            "GC": "35",
+            "GF": "34",
+            "GC": "36",
             "Dif": "−2"
           }
         },
@@ -4323,22 +4323,22 @@
           "team": "Estudiantes (RC)",
           "teamId": null,
           "pts": "14",
-          "pj": "31",
-          "dif": "−30",
+          "pj": "32",
+          "dif": "−32",
           "values": {
             "Pts": "14",
-            "PJ": "31",
+            "PJ": "32",
             "PG": "3",
             "PE": "5",
-            "PP": "23",
+            "PP": "24",
             "GF": "15",
-            "GC": "45",
-            "Dif": "−30"
+            "GC": "47",
+            "Dif": "−32"
           }
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176185326
+      "revision": 176196846
     },
     {
       "key": "arg-clausura-a",
@@ -4381,18 +4381,18 @@
           "pos": 2,
           "team": "Boca Juniors",
           "teamId": null,
-          "pts": "30",
-          "pj": "15",
-          "dif": "9",
+          "pts": "33",
+          "pj": "16",
+          "dif": "10",
           "values": {
-            "Pts": "30",
-            "PJ": "15",
-            "PG": "8",
+            "Pts": "33",
+            "PJ": "16",
+            "PG": "9",
             "PE": "6",
             "PP": "1",
-            "GF": "23",
+            "GF": "24",
             "GC": "14",
-            "Dif": "9"
+            "Dif": "10"
           }
         },
         {
@@ -4418,17 +4418,17 @@
           "team": "Defensa y Justicia",
           "teamId": null,
           "pts": "28",
-          "pj": "15",
-          "dif": "7",
+          "pj": "16",
+          "dif": "6",
           "values": {
             "Pts": "28",
-            "PJ": "15",
+            "PJ": "16",
             "PG": "8",
             "PE": "4",
-            "PP": "3",
+            "PP": "4",
             "GF": "21",
-            "GC": "14",
-            "Dif": "7"
+            "GC": "15",
+            "Dif": "6"
           }
         },
         {
@@ -4489,17 +4489,17 @@
           "pos": 8,
           "team": "Gimnasia y Esgrima (M)",
           "teamId": "gimnasia-lp",
-          "pts": "21",
-          "pj": "15",
+          "pts": "22",
+          "pj": "16",
           "dif": "1",
           "values": {
-            "Pts": "21",
-            "PJ": "15",
+            "Pts": "22",
+            "PJ": "16",
             "PG": "6",
-            "PE": "3",
+            "PE": "4",
             "PP": "6",
-            "GF": "17",
-            "GC": "16",
+            "GF": "18",
+            "GC": "17",
             "Dif": "1"
           }
         },
@@ -4561,17 +4561,17 @@
           "pos": 12,
           "team": "Estudiantes (LP)",
           "teamId": null,
-          "pts": "15",
-          "pj": "15",
+          "pts": "16",
+          "pj": "16",
           "dif": "−1",
           "values": {
-            "Pts": "15",
-            "PJ": "15",
+            "Pts": "16",
+            "PJ": "16",
             "PG": "4",
-            "PE": "3",
+            "PE": "4",
             "PP": "8",
-            "GF": "20",
-            "GC": "21",
+            "GF": "21",
+            "GC": "22",
             "Dif": "−1"
           }
         },
@@ -4579,17 +4579,17 @@
           "pos": 13,
           "team": "Talleres",
           "teamId": null,
-          "pts": "12",
-          "pj": "15",
+          "pts": "13",
+          "pj": "16",
           "dif": "−6",
           "values": {
-            "Pts": "12",
-            "PJ": "15",
+            "Pts": "13",
+            "PJ": "16",
             "PG": "3",
-            "PE": "3",
+            "PE": "4",
             "PP": "9",
-            "GF": "16",
-            "GC": "22",
+            "GF": "17",
+            "GC": "23",
             "Dif": "−6"
           }
         },
@@ -4631,7 +4631,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176185326
+      "revision": 176196846
     },
     {
       "key": "arg-clausura-b",
@@ -4656,18 +4656,18 @@
           "pos": 1,
           "team": "Rosario Central",
           "teamId": null,
-          "pts": "31",
-          "pj": "15",
-          "dif": "12",
+          "pts": "34",
+          "pj": "16",
+          "dif": "14",
           "values": {
-            "Pts": "31",
-            "PJ": "15",
-            "PG": "9",
+            "Pts": "34",
+            "PJ": "16",
+            "PG": "10",
             "PE": "4",
             "PP": "2",
-            "GF": "24",
+            "GF": "26",
             "GC": "12",
-            "Dif": "12"
+            "Dif": "14"
           }
         },
         {
@@ -4675,17 +4675,17 @@
           "team": "Argentinos Juniors",
           "teamId": null,
           "pts": "31",
-          "pj": "15",
-          "dif": "8",
+          "pj": "16",
+          "dif": "6",
           "values": {
             "Pts": "31",
-            "PJ": "15",
+            "PJ": "16",
             "PG": "9",
             "PE": "4",
-            "PP": "2",
+            "PP": "3",
             "GF": "20",
-            "GC": "12",
-            "Dif": "8"
+            "GC": "14",
+            "Dif": "6"
           }
         },
         {
@@ -4764,22 +4764,40 @@
           "pos": 7,
           "team": "Independiente Rivadavia",
           "teamId": null,
-          "pts": "22",
-          "pj": "15",
+          "pts": "23",
+          "pj": "16",
           "dif": "−3",
           "values": {
-            "Pts": "22",
-            "PJ": "15",
+            "Pts": "23",
+            "PJ": "16",
             "PG": "6",
-            "PE": "4",
+            "PE": "5",
             "PP": "5",
-            "GF": "20",
-            "GC": "23",
+            "GF": "21",
+            "GC": "24",
             "Dif": "−3"
           }
         },
         {
           "pos": 8,
+          "team": "Huracán",
+          "teamId": null,
+          "pts": "22",
+          "pj": "16",
+          "dif": "−2",
+          "values": {
+            "Pts": "22",
+            "PJ": "16",
+            "PG": "6",
+            "PE": "4",
+            "PP": "6",
+            "GF": "14",
+            "GC": "16",
+            "Dif": "−2"
+          }
+        },
+        {
+          "pos": 9,
           "team": "Sarmiento (J)",
           "teamId": null,
           "pts": "21",
@@ -4797,7 +4815,7 @@
           }
         },
         {
-          "pos": 9,
+          "pos": 10,
           "team": "Tigre",
           "teamId": null,
           "pts": "19",
@@ -4812,24 +4830,6 @@
             "GF": "16",
             "GC": "16",
             "Dif": "0"
-          }
-        },
-        {
-          "pos": 10,
-          "team": "Huracán",
-          "teamId": null,
-          "pts": "19",
-          "pj": "15",
-          "dif": "−4",
-          "values": {
-            "Pts": "19",
-            "PJ": "15",
-            "PG": "5",
-            "PE": "4",
-            "PP": "6",
-            "GF": "12",
-            "GC": "16",
-            "Dif": "−4"
           }
         },
         {
@@ -4909,22 +4909,22 @@
           "team": "Estudiantes (RC)",
           "teamId": null,
           "pts": "9",
-          "pj": "15",
-          "dif": "−11",
+          "pj": "16",
+          "dif": "−13",
           "values": {
             "Pts": "9",
-            "PJ": "15",
+            "PJ": "16",
             "PG": "2",
             "PE": "3",
-            "PP": "10",
+            "PP": "11",
             "GF": "10",
-            "GC": "21",
-            "Dif": "−11"
+            "GC": "23",
+            "Dif": "−13"
           }
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176185326
+      "revision": 176196846
     }
   ]
 }

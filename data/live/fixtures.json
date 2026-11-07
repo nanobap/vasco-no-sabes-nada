@@ -865,7 +865,7 @@
     "homeScore": 0,
     "awayScore": 6,
     "kickoffUtc": "2026-11-06T00:00:00+00:00",
-    "updatedAtUtc": "2026-11-07T18:48:37.205Z",
+    "updatedAtUtc": "2026-11-07T23:39:05.704Z",
     "confidence": 1
   },
   "20261105-bra-cruzeiro-bahia": {
@@ -878,7 +878,7 @@
     "awayScore": 2,
     "venue": "Governador Magalhães Pinto · Belo Horizonte",
     "kickoffUtc": "2026-11-06T00:30:00+00:00",
-    "updatedAtUtc": "2026-11-07T18:48:37.205Z",
+    "updatedAtUtc": "2026-11-07T23:39:05.704Z",
     "confidence": 1
   }
 }
