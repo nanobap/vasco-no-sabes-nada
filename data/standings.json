@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-07T00:07:26.374Z",
+  "fetchedAtUtc": "2026-11-07T05:57:29.893Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -3454,18 +3454,18 @@
           "pos": 4,
           "team": "Fluminense",
           "teamId": null,
-          "pts": "54",
-          "pj": "33",
-          "dif": "+10",
+          "pts": "57",
+          "pj": "34",
+          "dif": "+13",
           "values": {
-            "Pts": "54",
-            "PJ": "33",
-            "G": "15",
+            "Pts": "57",
+            "PJ": "34",
+            "G": "16",
             "E": "9",
             "P": "9",
-            "GF": "52",
+            "GF": "55",
             "GC": "42",
-            "Dif": "+10",
+            "Dif": "+13",
             "Clasificación 2027": ""
           }
         },
@@ -3664,17 +3664,17 @@
           "team": "Vitória",
           "teamId": null,
           "pts": "38",
-          "pj": "33",
-          "dif": "−13",
+          "pj": "34",
+          "dif": "−16",
           "values": {
             "Pts": "38",
-            "PJ": "33",
+            "PJ": "34",
             "G": "10",
             "E": "8",
-            "P": "15",
+            "P": "16",
             "GF": "35",
-            "GC": "48",
-            "Dif": "−13",
+            "GC": "51",
+            "Dif": "−16",
             "Clasificación 2027": ""
           }
         },
@@ -3775,7 +3775,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026",
-      "revision": 176179295
+      "revision": 176185377
     },
     {
       "key": "arg-anual",
@@ -3873,17 +3873,17 @@
           "team": "Vélez Sarsfield",
           "teamId": null,
           "pts": "56",
-          "pj": "31",
-          "dif": "16",
+          "pj": "32",
+          "dif": "14",
           "values": {
             "Pts": "56",
-            "PJ": "31",
+            "PJ": "32",
             "PG": "14",
             "PE": "14",
-            "PP": "3",
+            "PP": "4",
             "GF": "43",
-            "GC": "27",
-            "Dif": "16"
+            "GC": "29",
+            "Dif": "14"
           }
         },
         {
@@ -4014,6 +4014,24 @@
         },
         {
           "pos": 13,
+          "team": "Independiente",
+          "teamId": null,
+          "pts": "47",
+          "pj": "32",
+          "dif": "3",
+          "values": {
+            "Pts": "47",
+            "PJ": "32",
+            "PG": "12",
+            "PE": "11",
+            "PP": "9",
+            "GF": "39",
+            "GC": "36",
+            "Dif": "3"
+          }
+        },
+        {
+          "pos": 14,
           "team": "Estudiantes (LP)",
           "teamId": null,
           "pts": "46",
@@ -4031,25 +4049,25 @@
           }
         },
         {
-          "pos": 14,
-          "team": "Independiente",
+          "pos": 15,
+          "team": "Unión",
           "teamId": null,
-          "pts": "44",
-          "pj": "31",
-          "dif": "2",
+          "pts": "42",
+          "pj": "32",
+          "dif": "4",
           "values": {
-            "Pts": "44",
-            "PJ": "31",
+            "Pts": "42",
+            "PJ": "32",
             "PG": "11",
-            "PE": "11",
-            "PP": "9",
-            "GF": "37",
-            "GC": "35",
-            "Dif": "2"
+            "PE": "9",
+            "PP": "12",
+            "GF": "48",
+            "GC": "44",
+            "Dif": "4"
           }
         },
         {
-          "pos": 15,
+          "pos": 16,
           "team": "Huracán",
           "teamId": null,
           "pts": "41",
@@ -4067,38 +4085,20 @@
           }
         },
         {
-          "pos": 16,
+          "pos": 17,
           "team": "San Lorenzo",
           "teamId": null,
           "pts": "41",
-          "pj": "31",
-          "dif": "−5",
-          "values": {
-            "Pts": "41",
-            "PJ": "31",
-            "PG": "10",
-            "PE": "11",
-            "PP": "10",
-            "GF": "23",
-            "GC": "28",
-            "Dif": "−5"
-          }
-        },
-        {
-          "pos": 17,
-          "team": "Sarmiento (J)",
-          "teamId": null,
-          "pts": "40",
-          "pj": "31",
+          "pj": "32",
           "dif": "−7",
           "values": {
-            "Pts": "40",
-            "PJ": "31",
-            "PG": "12",
-            "PE": "4",
-            "PP": "15",
-            "GF": "36",
-            "GC": "43",
+            "Pts": "41",
+            "PJ": "32",
+            "PG": "10",
+            "PE": "11",
+            "PP": "11",
+            "GF": "23",
+            "GC": "30",
             "Dif": "−7"
           }
         },
@@ -4122,24 +4122,42 @@
         },
         {
           "pos": 19,
-          "team": "Unión",
+          "team": "Sarmiento (J)",
           "teamId": null,
-          "pts": "39",
-          "pj": "31",
-          "dif": "2",
+          "pts": "40",
+          "pj": "32",
+          "dif": "−8",
           "values": {
-            "Pts": "39",
-            "PJ": "31",
-            "PG": "10",
-            "PE": "9",
-            "PP": "12",
-            "GF": "46",
+            "Pts": "40",
+            "PJ": "32",
+            "PG": "12",
+            "PE": "4",
+            "PP": "16",
+            "GF": "36",
             "GC": "44",
-            "Dif": "2"
+            "Dif": "−8"
           }
         },
         {
           "pos": 20,
+          "team": "Tigre",
+          "teamId": null,
+          "pts": "39",
+          "pj": "32",
+          "dif": "3",
+          "values": {
+            "Pts": "39",
+            "PJ": "32",
+            "PG": "9",
+            "PE": "12",
+            "PP": "11",
+            "GF": "34",
+            "GC": "31",
+            "Dif": "3"
+          }
+        },
+        {
+          "pos": 21,
           "team": "Talleres",
           "teamId": null,
           "pts": "38",
@@ -4157,7 +4175,7 @@
           }
         },
         {
-          "pos": 21,
+          "pos": 22,
           "team": "Newell's Old Boys",
           "teamId": null,
           "pts": "37",
@@ -4172,24 +4190,6 @@
             "GF": "29",
             "GC": "38",
             "Dif": "−9"
-          }
-        },
-        {
-          "pos": 22,
-          "team": "Tigre",
-          "teamId": null,
-          "pts": "36",
-          "pj": "31",
-          "dif": "2",
-          "values": {
-            "Pts": "36",
-            "PJ": "31",
-            "PG": "8",
-            "PE": "12",
-            "PP": "11",
-            "GF": "33",
-            "GC": "31",
-            "Dif": "2"
           }
         },
         {
@@ -4214,35 +4214,35 @@
           "pos": 24,
           "team": "Platense",
           "teamId": null,
-          "pts": "33",
-          "pj": "31",
-          "dif": "−9",
+          "pts": "36",
+          "pj": "32",
+          "dif": "−7",
           "values": {
-            "Pts": "33",
-            "PJ": "31",
-            "PG": "7",
+            "Pts": "36",
+            "PJ": "32",
+            "PG": "8",
             "PE": "12",
             "PP": "12",
-            "GF": "26",
+            "GF": "28",
             "GC": "35",
-            "Dif": "−9"
+            "Dif": "−7"
           }
         },
         {
           "pos": 25,
           "team": "Banfield",
           "teamId": null,
-          "pts": "32",
-          "pj": "31",
+          "pts": "33",
+          "pj": "32",
           "dif": "−9",
           "values": {
-            "Pts": "32",
-            "PJ": "31",
+            "Pts": "33",
+            "PJ": "32",
             "PG": "8",
-            "PE": "8",
+            "PE": "9",
             "PP": "15",
-            "GF": "33",
-            "GC": "42",
+            "GF": "35",
+            "GC": "44",
             "Dif": "−9"
           }
         },
@@ -4250,17 +4250,17 @@
           "pos": 26,
           "team": "Atlético Tucumán",
           "teamId": null,
-          "pts": "31",
-          "pj": "31",
+          "pts": "32",
+          "pj": "32",
           "dif": "−6",
           "values": {
-            "Pts": "31",
-            "PJ": "31",
+            "Pts": "32",
+            "PJ": "32",
             "PG": "7",
-            "PE": "10",
+            "PE": "11",
             "PP": "14",
-            "GF": "29",
-            "GC": "35",
+            "GF": "31",
+            "GC": "37",
             "Dif": "−6"
           }
         },
@@ -4287,17 +4287,17 @@
           "team": "Deportivo Riestra",
           "teamId": null,
           "pts": "23",
-          "pj": "31",
-          "dif": "−14",
+          "pj": "32",
+          "dif": "−15",
           "values": {
             "Pts": "23",
-            "PJ": "31",
+            "PJ": "32",
             "PG": "3",
             "PE": "14",
-            "PP": "14",
-            "GF": "15",
-            "GC": "29",
-            "Dif": "−14"
+            "PP": "15",
+            "GF": "16",
+            "GC": "31",
+            "Dif": "−15"
           }
         },
         {
@@ -4338,7 +4338,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176180091
+      "revision": 176185326
     },
     {
       "key": "arg-clausura-a",
@@ -4400,17 +4400,17 @@
           "team": "Vélez Sarsfield",
           "teamId": null,
           "pts": "28",
-          "pj": "15",
-          "dif": "10",
+          "pj": "16",
+          "dif": "8",
           "values": {
             "Pts": "28",
-            "PJ": "15",
+            "PJ": "16",
             "PG": "7",
             "PE": "7",
-            "PP": "1",
+            "PP": "2",
             "GF": "25",
-            "GC": "15",
-            "Dif": "10"
+            "GC": "17",
+            "Dif": "8"
           }
         },
         {
@@ -4451,6 +4451,24 @@
         },
         {
           "pos": 6,
+          "team": "Independiente",
+          "teamId": null,
+          "pts": "23",
+          "pj": "16",
+          "dif": "−1",
+          "values": {
+            "Pts": "23",
+            "PJ": "16",
+            "PG": "6",
+            "PE": "5",
+            "PP": "5",
+            "GF": "15",
+            "GC": "16",
+            "Dif": "−1"
+          }
+        },
+        {
+          "pos": 7,
           "team": "Newell's Old Boys",
           "teamId": null,
           "pts": "22",
@@ -4468,7 +4486,7 @@
           }
         },
         {
-          "pos": 7,
+          "pos": 8,
           "team": "Gimnasia y Esgrima (M)",
           "teamId": "gimnasia-lp",
           "pts": "21",
@@ -4486,75 +4504,57 @@
           }
         },
         {
-          "pos": 8,
-          "team": "Independiente",
-          "teamId": null,
-          "pts": "20",
-          "pj": "15",
-          "dif": "−2",
-          "values": {
-            "Pts": "20",
-            "PJ": "15",
-            "PG": "5",
-            "PE": "5",
-            "PP": "5",
-            "GF": "13",
-            "GC": "15",
-            "Dif": "−2"
-          }
-        },
-        {
           "pos": 9,
-          "team": "San Lorenzo",
+          "team": "Unión",
           "teamId": null,
-          "pts": "19",
-          "pj": "15",
-          "dif": "−5",
+          "pts": "21",
+          "pj": "16",
+          "dif": "0",
           "values": {
-            "Pts": "19",
-            "PJ": "15",
-            "PG": "5",
-            "PE": "4",
-            "PP": "6",
-            "GF": "9",
-            "GC": "14",
-            "Dif": "−5"
+            "Pts": "21",
+            "PJ": "16",
+            "PG": "6",
+            "PE": "3",
+            "PP": "7",
+            "GF": "24",
+            "GC": "24",
+            "Dif": "0"
           }
         },
         {
           "pos": 10,
-          "team": "Unión",
+          "team": "Platense",
           "teamId": null,
-          "pts": "18",
-          "pj": "15",
+          "pts": "20",
+          "pj": "16",
           "dif": "−2",
           "values": {
-            "Pts": "18",
-            "PJ": "15",
+            "Pts": "20",
+            "PJ": "16",
             "PG": "5",
-            "PE": "3",
-            "PP": "7",
-            "GF": "22",
-            "GC": "24",
+            "PE": "5",
+            "PP": "6",
+            "GF": "18",
+            "GC": "20",
             "Dif": "−2"
           }
         },
         {
           "pos": 11,
-          "team": "Platense",
+          "team": "San Lorenzo",
           "teamId": null,
-          "pts": "17",
-          "pj": "15",
-          "dif": "−4",
+          "pts": "19",
+          "pj": "16",
+          "dif": "−7",
           "values": {
-            "Pts": "17",
-            "PJ": "15",
-            "PG": "4",
-            "PE": "5",
-            "PP": "6",
-            "GF": "16",
-            "GC": "20",
-            "Dif": "−4"
+            "Pts": "19",
+            "PJ": "16",
+            "PG": "5",
+            "PE": "4",
+            "PP": "7",
+            "GF": "9",
+            "GC": "16",
+            "Dif": "−7"
           }
         },
         {
@@ -4598,17 +4598,17 @@
           "team": "Deportivo Riestra",
           "teamId": null,
           "pts": "12",
-          "pj": "15",
-          "dif": "−7",
+          "pj": "16",
+          "dif": "−8",
           "values": {
             "Pts": "12",
-            "PJ": "15",
+            "PJ": "16",
             "PG": "2",
             "PE": "6",
-            "PP": "7",
-            "GF": "10",
-            "GC": "17",
-            "Dif": "−7"
+            "PP": "8",
+            "GF": "11",
+            "GC": "19",
+            "Dif": "−8"
           }
         },
         {
@@ -4631,7 +4631,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176180091
+      "revision": 176185326
     },
     {
       "key": "arg-clausura-b",
@@ -4783,21 +4783,39 @@
           "team": "Sarmiento (J)",
           "teamId": null,
           "pts": "21",
-          "pj": "15",
-          "dif": "0",
+          "pj": "16",
+          "dif": "−1",
           "values": {
             "Pts": "21",
-            "PJ": "15",
+            "PJ": "16",
             "PG": "6",
             "PE": "3",
-            "PP": "6",
+            "PP": "7",
             "GF": "23",
-            "GC": "23",
-            "Dif": "0"
+            "GC": "24",
+            "Dif": "−1"
           }
         },
         {
           "pos": 9,
+          "team": "Tigre",
+          "teamId": null,
+          "pts": "19",
+          "pj": "16",
+          "dif": "0",
+          "values": {
+            "Pts": "19",
+            "PJ": "16",
+            "PG": "5",
+            "PE": "4",
+            "PP": "7",
+            "GF": "16",
+            "GC": "16",
+            "Dif": "0"
+          }
+        },
+        {
+          "pos": 10,
           "team": "Huracán",
           "teamId": null,
           "pts": "19",
@@ -4815,43 +4833,43 @@
           }
         },
         {
-          "pos": 10,
+          "pos": 11,
           "team": "Atlético Tucumán",
           "teamId": null,
-          "pts": "17",
-          "pj": "15",
+          "pts": "18",
+          "pj": "16",
           "dif": "−1",
           "values": {
-            "Pts": "17",
-            "PJ": "15",
+            "Pts": "18",
+            "PJ": "16",
             "PG": "4",
-            "PE": "5",
+            "PE": "6",
             "PP": "6",
-            "GF": "14",
-            "GC": "15",
-            "Dif": "−1"
-          }
-        },
-        {
-          "pos": 11,
-          "team": "Tigre",
-          "teamId": null,
-          "pts": "16",
-          "pj": "15",
-          "dif": "−1",
-          "values": {
-            "Pts": "16",
-            "PJ": "15",
-            "PG": "4",
-            "PE": "4",
-            "PP": "7",
-            "GF": "15",
-            "GC": "16",
+            "GF": "16",
+            "GC": "17",
             "Dif": "−1"
           }
         },
         {
           "pos": 12,
+          "team": "Banfield",
+          "teamId": null,
+          "pts": "15",
+          "pj": "16",
+          "dif": "−7",
+          "values": {
+            "Pts": "15",
+            "PJ": "16",
+            "PG": "3",
+            "PE": "6",
+            "PP": "7",
+            "GF": "18",
+            "GC": "25",
+            "Dif": "−7"
+          }
+        },
+        {
+          "pos": 13,
           "team": "Racing Club",
           "teamId": null,
           "pts": "15",
@@ -4866,24 +4884,6 @@
             "GF": "16",
             "GC": "24",
             "Dif": "−8"
-          }
-        },
-        {
-          "pos": 13,
-          "team": "Banfield",
-          "teamId": null,
-          "pts": "14",
-          "pj": "15",
-          "dif": "−7",
-          "values": {
-            "Pts": "14",
-            "PJ": "15",
-            "PG": "3",
-            "PE": "5",
-            "PP": "7",
-            "GF": "16",
-            "GC": "23",
-            "Dif": "−7"
           }
         },
         {
@@ -4924,7 +4924,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176180091
+      "revision": 176185326
     }
   ]
 }
