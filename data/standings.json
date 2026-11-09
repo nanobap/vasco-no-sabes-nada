@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-08T23:42:45.708Z",
+  "fetchedAtUtc": "2026-11-09T06:25:36.850Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -3944,17 +3944,17 @@
           "pos": 9,
           "team": "Lanús",
           "teamId": null,
-          "pts": "49",
-          "pj": "31",
+          "pts": "50",
+          "pj": "32",
           "dif": "10",
           "values": {
-            "Pts": "49",
-            "PJ": "31",
+            "Pts": "50",
+            "PJ": "32",
             "PG": "13",
-            "PE": "10",
+            "PE": "11",
             "PP": "8",
-            "GF": "36",
-            "GC": "26",
+            "GF": "37",
+            "GC": "27",
             "Dif": "10"
           }
         },
@@ -4268,17 +4268,17 @@
           "pos": 27,
           "team": "Central Córdoba (SdE)",
           "teamId": null,
-          "pts": "26",
-          "pj": "31",
+          "pts": "27",
+          "pj": "32",
           "dif": "−24",
           "values": {
-            "Pts": "26",
-            "PJ": "31",
+            "Pts": "27",
+            "PJ": "32",
             "PG": "6",
-            "PE": "8",
+            "PE": "9",
             "PP": "17",
-            "GF": "22",
-            "GC": "46",
+            "GF": "23",
+            "GC": "47",
             "Dif": "−24"
           }
         },
@@ -4338,7 +4338,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176212405
+      "revision": 176215808
     },
     {
       "key": "arg-clausura-a",
@@ -4435,17 +4435,17 @@
           "pos": 5,
           "team": "Lanús",
           "teamId": null,
-          "pts": "25",
-          "pj": "15",
+          "pts": "26",
+          "pj": "16",
           "dif": "7",
           "values": {
-            "Pts": "25",
-            "PJ": "15",
+            "Pts": "26",
+            "PJ": "16",
             "PG": "7",
-            "PE": "4",
+            "PE": "5",
             "PP": "4",
-            "GF": "18",
-            "GC": "11",
+            "GF": "19",
+            "GC": "12",
             "Dif": "7"
           }
         },
@@ -4615,23 +4615,23 @@
           "pos": 15,
           "team": "Central Córdoba (SdE)",
           "teamId": null,
-          "pts": "10",
-          "pj": "15",
+          "pts": "11",
+          "pj": "16",
           "dif": "−14",
           "values": {
-            "Pts": "10",
-            "PJ": "15",
+            "Pts": "11",
+            "PJ": "16",
             "PG": "2",
-            "PE": "4",
+            "PE": "5",
             "PP": "9",
-            "GF": "11",
-            "GC": "25",
+            "GF": "12",
+            "GC": "26",
             "Dif": "−14"
           }
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176212405
+      "revision": 176215808
     },
     {
       "key": "arg-clausura-b",
@@ -4924,7 +4924,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176212405
+      "revision": 176215808
     }
   ]
 }
