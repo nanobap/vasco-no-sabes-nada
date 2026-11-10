@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-10T12:38:59.716Z",
+  "fetchedAtUtc": "2026-11-10T20:49:46.129Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -3775,7 +3775,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026",
-      "revision": 176211654
+      "revision": 176239059
     },
     {
       "key": "arg-anual",
@@ -4338,7 +4338,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176229075
+      "revision": 176240579
     },
     {
       "key": "arg-clausura-a",
@@ -4631,7 +4631,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176229075
+      "revision": 176240579
     },
     {
       "key": "arg-clausura-b",
@@ -4924,7 +4924,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176229075
+      "revision": 176240579
     }
   ]
 }
