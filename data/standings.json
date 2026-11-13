@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-13T17:44:32.785Z",
+  "fetchedAtUtc": "2026-11-13T23:32:49.934Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -42,6 +42,24 @@
         },
         {
           "pos": 2,
+          "team": "Montevideo City",
+          "teamId": "torque",
+          "pts": "64",
+          "pj": "36",
+          "dif": "+18",
+          "values": {
+            "Pts": "64",
+            "PJ": "36",
+            "G": "19",
+            "E": "7",
+            "P": "10",
+            "GF": "61",
+            "GC": "43",
+            "Dif": "+18"
+          }
+        },
+        {
+          "pos": 3,
           "team": "Deportivo Maldonado",
           "teamId": null,
           "pts": "63",
@@ -59,25 +77,25 @@
           }
         },
         {
-          "pos": 3,
-          "team": "Montevideo City",
-          "teamId": "torque",
-          "pts": "63",
-          "pj": "35",
-          "dif": "+18",
+          "pos": 4,
+          "team": "Racing",
+          "teamId": null,
+          "pts": "61",
+          "pj": "36",
+          "dif": "+14",
           "values": {
-            "Pts": "63",
-            "PJ": "35",
-            "G": "19",
-            "E": "6",
-            "P": "10",
-            "GF": "59",
-            "GC": "41",
-            "Dif": "+18"
+            "Pts": "61",
+            "PJ": "36",
+            "G": "16",
+            "E": "13",
+            "P": "7",
+            "GF": "47",
+            "GC": "33",
+            "Dif": "+14"
           }
         },
         {
-          "pos": 4,
+          "pos": 5,
           "team": "Nacional",
           "teamId": "nacional",
           "pts": "61",
@@ -92,24 +110,6 @@
             "GF": "53",
             "GC": "42",
             "Dif": "+11"
-          }
-        },
-        {
-          "pos": 5,
-          "team": "Racing",
-          "teamId": null,
-          "pts": "60",
-          "pj": "35",
-          "dif": "+14",
-          "values": {
-            "Pts": "60",
-            "PJ": "35",
-            "G": "16",
-            "E": "12",
-            "P": "7",
-            "GF": "45",
-            "GC": "31",
-            "Dif": "+14"
           }
         },
         {
@@ -312,7 +312,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176274457
+      "revision": 176286315
     },
     {
       "key": "uru-clausura",
@@ -356,17 +356,17 @@
           "pos": 2,
           "team": "Montevideo City",
           "teamId": "torque",
-          "pts": "28",
-          "pj": "13",
+          "pts": "29",
+          "pj": "14",
           "dif": "+12",
           "values": {
-            "Pts": "28",
-            "PJ": "13",
+            "Pts": "29",
+            "PJ": "14",
             "G": "9",
-            "E": "1",
+            "E": "2",
             "P": "3",
-            "GF": "26",
-            "GC": "14",
+            "GF": "28",
+            "GC": "16",
             "Dif": "+12"
           }
         },
@@ -426,6 +426,24 @@
         },
         {
           "pos": 6,
+          "team": "Racing",
+          "teamId": null,
+          "pts": "20",
+          "pj": "14",
+          "dif": "+4",
+          "values": {
+            "Pts": "20",
+            "PJ": "14",
+            "G": "5",
+            "E": "5",
+            "P": "4",
+            "GF": "20",
+            "GC": "16",
+            "Dif": "+4"
+          }
+        },
+        {
+          "pos": 7,
           "team": "Progreso",
           "teamId": null,
           "pts": "20",
@@ -440,24 +458,6 @@
             "GF": "15",
             "GC": "17",
             "Dif": "−2"
-          }
-        },
-        {
-          "pos": 7,
-          "team": "Racing",
-          "teamId": null,
-          "pts": "19",
-          "pj": "13",
-          "dif": "+4",
-          "values": {
-            "Pts": "19",
-            "PJ": "13",
-            "G": "5",
-            "E": "4",
-            "P": "4",
-            "GF": "18",
-            "GC": "14",
-            "Dif": "+4"
           }
         },
         {
@@ -624,7 +624,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176274457
+      "revision": 176286315
     },
     {
       "key": "uru-apertura",
@@ -936,7 +936,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176274457
+      "revision": 176286315
     },
     {
       "key": "uru-descenso",
@@ -1033,36 +1033,36 @@
           "pos": 5,
           "team": "Racing",
           "teamId": null,
-          "pts": "113",
-          "pj": "72",
+          "pts": "114",
+          "pj": "73",
           "dif": "+15",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "53",
-            "PJ 2026": "35",
-            "PTS 2026": "60",
-            "PJ": "72",
-            "PTS": "113",
+            "PJ 2026": "36",
+            "PTS 2026": "61",
+            "PJ": "73",
+            "PTS": "114",
             "DG": "+15",
-            "Prom": "1,569"
+            "Prom": "1,562"
           }
         },
         {
           "pos": 6,
           "team": "Montevideo City",
           "teamId": "torque",
-          "pts": "112",
-          "pj": "72",
+          "pts": "113",
+          "pj": "73",
           "dif": "+19",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "49",
-            "PJ 2026": "35",
-            "PTS 2026": "63",
-            "PJ": "72",
-            "PTS": "112",
+            "PJ 2026": "36",
+            "PTS 2026": "64",
+            "PJ": "73",
+            "PTS": "113",
             "DG": "+19",
-            "Prom": "1,556"
+            "Prom": "1,548"
           }
         },
         {
@@ -1247,7 +1247,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176274457
+      "revision": 176286315
     },
     {
       "key": "ucl-liga",
@@ -4338,7 +4338,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176264957
+      "revision": 176287866
     },
     {
       "key": "arg-clausura-a",
@@ -4631,7 +4631,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176264957
+      "revision": 176287866
     },
     {
       "key": "arg-clausura-b",
@@ -4924,7 +4924,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176264957
+      "revision": 176287866
     }
   ]
 }
