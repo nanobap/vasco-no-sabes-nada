@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-13T01:04:47.361Z",
+  "fetchedAtUtc": "2026-11-13T09:30:45.811Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -426,6 +426,24 @@
         },
         {
           "pos": 6,
+          "team": "Progreso",
+          "teamId": null,
+          "pts": "20",
+          "pj": "14",
+          "dif": "−2",
+          "values": {
+            "Pts": "20",
+            "PJ": "14",
+            "G": "6",
+            "E": "2",
+            "P": "6",
+            "GF": "15",
+            "GC": "17",
+            "Dif": "−2"
+          }
+        },
+        {
+          "pos": 7,
           "team": "Racing",
           "teamId": null,
           "pts": "19",
@@ -440,24 +458,6 @@
             "GF": "18",
             "GC": "14",
             "Dif": "+4"
-          }
-        },
-        {
-          "pos": 7,
-          "team": "Progreso",
-          "teamId": null,
-          "pts": "19",
-          "pj": "13",
-          "dif": "−2",
-          "values": {
-            "Pts": "19",
-            "PJ": "13",
-            "G": "6",
-            "E": "1",
-            "P": "6",
-            "GF": "13",
-            "GC": "15",
-            "Dif": "−2"
           }
         },
         {
@@ -570,6 +570,24 @@
         },
         {
           "pos": 14,
+          "team": "Cerro Largo",
+          "teamId": null,
+          "pts": "10",
+          "pj": "14",
+          "dif": "−7",
+          "values": {
+            "Pts": "10",
+            "PJ": "14",
+            "G": "1",
+            "E": "7",
+            "P": "6",
+            "GF": "12",
+            "GC": "19",
+            "Dif": "−7"
+          }
+        },
+        {
+          "pos": 15,
           "team": "Danubio",
           "teamId": null,
           "pts": "10",
@@ -584,24 +602,6 @@
             "GF": "7",
             "GC": "15",
             "Dif": "−8"
-          }
-        },
-        {
-          "pos": 15,
-          "team": "Cerro Largo",
-          "teamId": null,
-          "pts": "9",
-          "pj": "13",
-          "dif": "−7",
-          "values": {
-            "Pts": "9",
-            "PJ": "13",
-            "G": "1",
-            "E": "6",
-            "P": "6",
-            "GF": "10",
-            "GC": "17",
-            "Dif": "−7"
           }
         },
         {
