@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-14T06:21:14.063Z",
+  "fetchedAtUtc": "2026-11-14T15:04:31.287Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -168,6 +168,24 @@
         },
         {
           "pos": 9,
+          "team": "Central Español",
+          "teamId": null,
+          "pts": "44",
+          "pj": "36",
+          "dif": "−12",
+          "values": {
+            "Pts": "44",
+            "PJ": "36",
+            "G": "12",
+            "E": "8",
+            "P": "16",
+            "GF": "36",
+            "GC": "48",
+            "Dif": "−12"
+          }
+        },
+        {
+          "pos": 10,
           "team": "Juventud",
           "teamId": null,
           "pts": "41",
@@ -182,24 +200,6 @@
             "GF": "37",
             "GC": "43",
             "Dif": "−6"
-          }
-        },
-        {
-          "pos": 10,
-          "team": "Central Español",
-          "teamId": null,
-          "pts": "41",
-          "pj": "35",
-          "dif": "−13",
-          "values": {
-            "Pts": "41",
-            "PJ": "35",
-            "G": "11",
-            "E": "8",
-            "P": "16",
-            "GF": "35",
-            "GC": "48",
-            "Dif": "−13"
           }
         },
         {
@@ -243,17 +243,17 @@
           "team": "Boston River",
           "teamId": "boston-river",
           "pts": "37",
-          "pj": "35",
-          "dif": "−13",
+          "pj": "36",
+          "dif": "−14",
           "values": {
             "Pts": "37",
-            "PJ": "35",
+            "PJ": "36",
             "G": "10",
             "E": "7",
-            "P": "18",
+            "P": "19",
             "GF": "34",
-            "GC": "47",
-            "Dif": "−13"
+            "GC": "48",
+            "Dif": "−14"
           }
         },
         {
@@ -312,7 +312,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176286315
+      "revision": 176295314
     },
     {
       "key": "uru-clausura",
@@ -624,7 +624,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176286315
+      "revision": 176295314
     },
     {
       "key": "uru-apertura",
@@ -936,7 +936,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176286315
+      "revision": 176295314
     },
     {
       "key": "uru-descenso",
@@ -1124,21 +1124,39 @@
           "team": "Boston River",
           "teamId": "boston-river",
           "pts": "92",
-          "pj": "72",
-          "dif": "−2",
+          "pj": "73",
+          "dif": "−3",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "55",
-            "PJ 2026": "35",
+            "PJ 2026": "36",
             "PTS 2026": "37",
-            "PJ": "72",
+            "PJ": "73",
             "PTS": "92",
-            "DG": "−2",
-            "Prom": "1,278"
+            "DG": "−3",
+            "Prom": "1,260"
           }
         },
         {
           "pos": 11,
+          "team": "Central Español",
+          "teamId": null,
+          "pts": "44",
+          "pj": "36",
+          "dif": "−12",
+          "values": {
+            "PJ 2025": "–",
+            "PTS 2025": "–",
+            "PJ 2026": "36",
+            "PTS 2026": "44",
+            "PJ": "36",
+            "PTS": "44",
+            "DG": "−12",
+            "Prom": "1,222"
+          }
+        },
+        {
+          "pos": 12,
           "team": "Cerro Largo",
           "teamId": null,
           "pts": "87",
@@ -1153,24 +1171,6 @@
             "PTS": "87",
             "DG": "−6",
             "Prom": "1,192"
-          }
-        },
-        {
-          "pos": 12,
-          "team": "Central Español",
-          "teamId": null,
-          "pts": "41",
-          "pj": "35",
-          "dif": "−13",
-          "values": {
-            "PJ 2025": "–",
-            "PTS 2025": "–",
-            "PJ 2026": "35",
-            "PTS 2026": "41",
-            "PJ": "35",
-            "PTS": "41",
-            "DG": "−13",
-            "Prom": "1,171"
           }
         },
         {
@@ -1247,7 +1247,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176286315
+      "revision": 176295314
     },
     {
       "key": "ucl-liga",
