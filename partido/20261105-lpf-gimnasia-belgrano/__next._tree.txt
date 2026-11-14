@@ -1,0 +1,7 @@
+:HL["/vasco-no-sabes-nada/_next/static/chunks/2ga8iovhagym9.css","style"]
+:HL["/vasco-no-sabes-nada/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/vasco-no-sabes-nada/_next/static/media/9d9d8fde33b299ed-s.p.1bk8_xp319hr4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"id","t":"d","k":"20261105-lpf-gimnasia-belgrano","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"partido","h":96,"c":"$Q2"}]]
+0:{"b":"DmlV_nSrL1G2gjpxI8eRF","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
