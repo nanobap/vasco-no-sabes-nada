@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-14T15:04:31.287Z",
+  "fetchedAtUtc": "2026-11-14T20:43:30.951Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -519,17 +519,17 @@
           "team": "Boston River",
           "teamId": "boston-river",
           "pts": "15",
-          "pj": "13",
-          "dif": "−2",
+          "pj": "14",
+          "dif": "−3",
           "values": {
             "Pts": "15",
-            "PJ": "13",
+            "PJ": "14",
             "G": "4",
             "E": "3",
-            "P": "6",
+            "P": "7",
             "GF": "15",
-            "GC": "17",
-            "Dif": "−2"
+            "GC": "18",
+            "Dif": "−3"
           }
         },
         {
@@ -570,6 +570,24 @@
         },
         {
           "pos": 14,
+          "team": "Central Español",
+          "teamId": null,
+          "pts": "11",
+          "pj": "14",
+          "dif": "−13",
+          "values": {
+            "Pts": "11",
+            "PJ": "14",
+            "G": "3",
+            "E": "2",
+            "P": "9",
+            "GF": "9",
+            "GC": "22",
+            "Dif": "−13"
+          }
+        },
+        {
+          "pos": 15,
           "team": "Cerro Largo",
           "teamId": null,
           "pts": "10",
@@ -587,7 +605,7 @@
           }
         },
         {
-          "pos": 15,
+          "pos": 16,
           "team": "Danubio",
           "teamId": null,
           "pts": "10",
@@ -602,24 +620,6 @@
             "GF": "7",
             "GC": "15",
             "Dif": "−8"
-          }
-        },
-        {
-          "pos": 16,
-          "team": "Central Español",
-          "teamId": null,
-          "pts": "8",
-          "pj": "13",
-          "dif": "−14",
-          "values": {
-            "Pts": "8",
-            "PJ": "13",
-            "G": "2",
-            "E": "2",
-            "P": "9",
-            "GF": "8",
-            "GC": "22",
-            "Dif": "−14"
           }
         }
       ],
