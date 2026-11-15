@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-15T17:10:07.965Z",
+  "fetchedAtUtc": "2026-11-15T22:48:42.172Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -78,6 +78,24 @@
         },
         {
           "pos": 4,
+          "team": "Liverpool",
+          "teamId": "liverpool-uru",
+          "pts": "62",
+          "pj": "36",
+          "dif": "+17",
+          "values": {
+            "Pts": "62",
+            "PJ": "36",
+            "G": "17",
+            "E": "11",
+            "P": "8",
+            "GF": "49",
+            "GC": "32",
+            "Dif": "+17"
+          }
+        },
+        {
+          "pos": 5,
           "team": "Nacional",
           "teamId": "nacional",
           "pts": "62",
@@ -95,7 +113,7 @@
           }
         },
         {
-          "pos": 5,
+          "pos": 6,
           "team": "Racing",
           "teamId": null,
           "pts": "61",
@@ -110,24 +128,6 @@
             "GF": "47",
             "GC": "33",
             "Dif": "+14"
-          }
-        },
-        {
-          "pos": 6,
-          "team": "Liverpool",
-          "teamId": "liverpool-uru",
-          "pts": "59",
-          "pj": "35",
-          "dif": "+16",
-          "values": {
-            "Pts": "59",
-            "PJ": "35",
-            "G": "16",
-            "E": "11",
-            "P": "8",
-            "GF": "47",
-            "GC": "31",
-            "Dif": "+16"
           }
         },
         {
@@ -297,22 +297,22 @@
           "team": "Danubio",
           "teamId": null,
           "pts": "32",
-          "pj": "35",
-          "dif": "−16",
+          "pj": "36",
+          "dif": "−17",
           "values": {
             "Pts": "32",
-            "PJ": "35",
+            "PJ": "36",
             "G": "6",
             "E": "14",
-            "P": "15",
-            "GF": "29",
-            "GC": "45",
-            "Dif": "−16"
+            "P": "16",
+            "GF": "30",
+            "GC": "47",
+            "Dif": "−17"
           }
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176304415
+      "revision": 176314404
     },
     {
       "key": "uru-clausura",
@@ -624,7 +624,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176304415
+      "revision": 176314404
     },
     {
       "key": "uru-apertura",
@@ -936,7 +936,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176304415
+      "revision": 176314404
     },
     {
       "key": "uru-descenso",
@@ -1015,18 +1015,18 @@
           "pos": 4,
           "team": "Liverpool",
           "teamId": "liverpool-uru",
-          "pts": "124",
-          "pj": "72",
-          "dif": "+29",
+          "pts": "127",
+          "pj": "73",
+          "dif": "+30",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "65",
-            "PJ 2026": "35",
-            "PTS 2026": "59",
-            "PJ": "72",
-            "PTS": "124",
-            "DG": "+29",
-            "Prom": "1,722"
+            "PJ 2026": "36",
+            "PTS 2026": "62",
+            "PJ": "73",
+            "PTS": "127",
+            "DG": "+30",
+            "Prom": "1,740"
           }
         },
         {
@@ -1214,17 +1214,17 @@
           "team": "Danubio",
           "teamId": null,
           "pts": "75",
-          "pj": "72",
-          "dif": "−17",
+          "pj": "73",
+          "dif": "−18",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "43",
-            "PJ 2026": "35",
+            "PJ 2026": "36",
             "PTS 2026": "32",
-            "PJ": "72",
+            "PJ": "73",
             "PTS": "75",
-            "DG": "−17",
-            "Prom": "1,042"
+            "DG": "−18",
+            "Prom": "1,027"
           }
         },
         {
@@ -1247,7 +1247,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176304415
+      "revision": 176314404
     },
     {
       "key": "ucl-liga",
