@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-15T01:55:07.585Z",
+  "fetchedAtUtc": "2026-11-15T09:25:03.780Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -78,6 +78,24 @@
         },
         {
           "pos": 4,
+          "team": "Nacional",
+          "teamId": "nacional",
+          "pts": "62",
+          "pj": "36",
+          "dif": "+11",
+          "values": {
+            "Pts": "62",
+            "PJ": "36",
+            "G": "19",
+            "E": "5",
+            "P": "12",
+            "GF": "54",
+            "GC": "43",
+            "Dif": "+11"
+          }
+        },
+        {
+          "pos": 5,
           "team": "Racing",
           "teamId": null,
           "pts": "61",
@@ -92,24 +110,6 @@
             "GF": "47",
             "GC": "33",
             "Dif": "+14"
-          }
-        },
-        {
-          "pos": 5,
-          "team": "Nacional",
-          "teamId": "nacional",
-          "pts": "61",
-          "pj": "35",
-          "dif": "+11",
-          "values": {
-            "Pts": "61",
-            "PJ": "35",
-            "G": "19",
-            "E": "4",
-            "P": "12",
-            "GF": "53",
-            "GC": "42",
-            "Dif": "+11"
           }
         },
         {
@@ -152,17 +152,17 @@
           "pos": 8,
           "team": "Albion",
           "teamId": null,
-          "pts": "47",
-          "pj": "35",
+          "pts": "48",
+          "pj": "36",
           "dif": "+3",
           "values": {
-            "Pts": "47",
-            "PJ": "35",
+            "Pts": "48",
+            "PJ": "36",
             "G": "13",
-            "E": "8",
+            "E": "9",
             "P": "14",
-            "GF": "47",
-            "GC": "44",
+            "GF": "48",
+            "GC": "45",
             "Dif": "+3"
           }
         },
@@ -312,7 +312,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176300186
+      "revision": 176304415
     },
     {
       "key": "uru-clausura",
@@ -624,7 +624,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176300186
+      "revision": 176304415
     },
     {
       "key": "uru-apertura",
@@ -936,7 +936,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176300186
+      "revision": 176304415
     },
     {
       "key": "uru-descenso",
@@ -979,18 +979,18 @@
           "pos": 2,
           "team": "Nacional",
           "teamId": "nacional",
-          "pts": "140",
-          "pj": "72",
+          "pts": "141",
+          "pj": "73",
           "dif": "+54",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "79",
-            "PJ 2026": "35",
-            "PTS 2026": "61",
-            "PJ": "72",
-            "PTS": "140",
+            "PJ 2026": "36",
+            "PTS 2026": "62",
+            "PJ": "73",
+            "PTS": "141",
             "DG": "+54",
-            "Prom": "1,944"
+            "Prom": "1,932"
           }
         },
         {
@@ -1105,18 +1105,18 @@
           "pos": 9,
           "team": "Albion",
           "teamId": null,
-          "pts": "47",
-          "pj": "35",
+          "pts": "48",
+          "pj": "36",
           "dif": "+3",
           "values": {
             "PJ 2025": "–",
             "PTS 2025": "–",
-            "PJ 2026": "35",
-            "PTS 2026": "47",
-            "PJ": "35",
-            "PTS": "47",
+            "PJ 2026": "36",
+            "PTS 2026": "48",
+            "PJ": "36",
+            "PTS": "48",
             "DG": "+3",
-            "Prom": "1,343"
+            "Prom": "1,333"
           }
         },
         {
@@ -1247,7 +1247,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176300186
+      "revision": 176304415
     },
     {
       "key": "ucl-liga",
@@ -3775,7 +3775,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026",
-      "revision": 176303262
+      "revision": 176304860
     },
     {
       "key": "arg-anual",
@@ -4338,7 +4338,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176287875
+      "revision": 176306785
     },
     {
       "key": "arg-clausura-a",
@@ -4631,7 +4631,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176287875
+      "revision": 176306785
     },
     {
       "key": "arg-clausura-b",
@@ -4924,7 +4924,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176287875
+      "revision": 176306785
     }
   ]
 }
