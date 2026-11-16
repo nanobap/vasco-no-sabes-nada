@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-15T22:48:42.172Z",
+  "fetchedAtUtc": "2026-11-16T06:27:54.618Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -26,17 +26,17 @@
           "pos": 1,
           "team": "Peñarol",
           "teamId": "penarol",
-          "pts": "65",
-          "pj": "35",
+          "pts": "66",
+          "pj": "36",
           "dif": "+24",
           "values": {
-            "Pts": "65",
-            "PJ": "35",
+            "Pts": "66",
+            "PJ": "36",
             "G": "19",
-            "E": "9",
+            "E": "10",
             "P": "7",
-            "GF": "52",
-            "GC": "28",
+            "GF": "53",
+            "GC": "29",
             "Dif": "+24"
           }
         },
@@ -206,17 +206,17 @@
           "pos": 11,
           "team": "Defensor Sporting",
           "teamId": null,
-          "pts": "39",
-          "pj": "35",
+          "pts": "40",
+          "pj": "36",
           "dif": "−8",
           "values": {
-            "Pts": "39",
-            "PJ": "35",
+            "Pts": "40",
+            "PJ": "36",
             "G": "9",
-            "E": "12",
+            "E": "13",
             "P": "14",
-            "GF": "35",
-            "GC": "43",
+            "GF": "36",
+            "GC": "44",
             "Dif": "−8"
           }
         },
@@ -312,7 +312,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176314404
+      "revision": 176318869
     },
     {
       "key": "uru-clausura",
@@ -338,18 +338,18 @@
           "pos": 1,
           "team": "Liverpool",
           "teamId": "liverpool-uru",
-          "pts": "30",
-          "pj": "13",
-          "dif": "+14",
+          "pts": "33",
+          "pj": "14",
+          "dif": "+15",
           "values": {
-            "Pts": "30",
-            "PJ": "13",
-            "G": "9",
+            "Pts": "33",
+            "PJ": "14",
+            "G": "10",
             "E": "3",
             "P": "1",
-            "GF": "22",
-            "GC": "8",
-            "Dif": "+14"
+            "GF": "24",
+            "GC": "9",
+            "Dif": "+15"
           }
         },
         {
@@ -390,6 +390,24 @@
         },
         {
           "pos": 4,
+          "team": "Peñarol",
+          "teamId": "penarol",
+          "pts": "23",
+          "pj": "14",
+          "dif": "+8",
+          "values": {
+            "Pts": "23",
+            "PJ": "14",
+            "G": "6",
+            "E": "6",
+            "P": "2",
+            "GF": "18",
+            "GC": "10",
+            "Dif": "+8"
+          }
+        },
+        {
+          "pos": 5,
           "team": "Deportivo Maldonado",
           "teamId": null,
           "pts": "22",
@@ -404,24 +422,6 @@
             "GF": "18",
             "GC": "11",
             "Dif": "+7"
-          }
-        },
-        {
-          "pos": 5,
-          "team": "Peñarol",
-          "teamId": "penarol",
-          "pts": "22",
-          "pj": "13",
-          "dif": "+8",
-          "values": {
-            "Pts": "22",
-            "PJ": "13",
-            "G": "6",
-            "E": "5",
-            "P": "2",
-            "GF": "17",
-            "GC": "9",
-            "Dif": "+8"
           }
         },
         {
@@ -554,17 +554,17 @@
           "pos": 13,
           "team": "Defensor Sporting",
           "teamId": null,
-          "pts": "12",
-          "pj": "13",
+          "pts": "13",
+          "pj": "14",
           "dif": "−7",
           "values": {
-            "Pts": "12",
-            "PJ": "13",
+            "Pts": "13",
+            "PJ": "14",
             "G": "3",
-            "E": "3",
+            "E": "4",
             "P": "7",
-            "GF": "16",
-            "GC": "23",
+            "GF": "17",
+            "GC": "24",
             "Dif": "−7"
           }
         },
@@ -609,22 +609,22 @@
           "team": "Danubio",
           "teamId": null,
           "pts": "10",
-          "pj": "13",
-          "dif": "−8",
+          "pj": "14",
+          "dif": "−9",
           "values": {
             "Pts": "10",
-            "PJ": "13",
+            "PJ": "14",
             "G": "2",
             "E": "4",
-            "P": "7",
-            "GF": "7",
-            "GC": "15",
-            "Dif": "−8"
+            "P": "8",
+            "GF": "8",
+            "GC": "17",
+            "Dif": "−9"
           }
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176314404
+      "revision": 176318869
     },
     {
       "key": "uru-apertura",
@@ -936,7 +936,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176314404
+      "revision": 176318869
     },
     {
       "key": "uru-descenso",
@@ -961,18 +961,18 @@
           "pos": 1,
           "team": "Peñarol",
           "teamId": "penarol",
-          "pts": "143",
-          "pj": "72",
+          "pts": "144",
+          "pj": "73",
           "dif": "+56",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "78",
-            "PJ 2026": "35",
-            "PTS 2026": "65",
-            "PJ": "72",
-            "PTS": "143",
+            "PJ 2026": "36",
+            "PTS 2026": "66",
+            "PJ": "73",
+            "PTS": "144",
             "DG": "+56",
-            "Prom": "1,986"
+            "Prom": "1,973"
           }
         },
         {
@@ -1087,18 +1087,18 @@
           "pos": 8,
           "team": "Defensor Sporting",
           "teamId": null,
-          "pts": "100",
-          "pj": "72",
+          "pts": "101",
+          "pj": "73",
           "dif": "−4",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "61",
-            "PJ 2026": "35",
-            "PTS 2026": "39",
-            "PJ": "72",
-            "PTS": "100",
+            "PJ 2026": "36",
+            "PTS 2026": "40",
+            "PJ": "73",
+            "PTS": "101",
             "DG": "−4",
-            "Prom": "1,389"
+            "Prom": "1,384"
           }
         },
         {
@@ -1247,7 +1247,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176314404
+      "revision": 176318869
     },
     {
       "key": "ucl-liga",
