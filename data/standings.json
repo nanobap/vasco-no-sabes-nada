@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-16T18:32:29.547Z",
+  "fetchedAtUtc": "2026-11-17T02:56:05.232Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -134,18 +134,18 @@
           "pos": 7,
           "team": "Montevideo Wanderers",
           "teamId": "wanderers",
-          "pts": "51",
-          "pj": "35",
-          "dif": "−2",
+          "pts": "54",
+          "pj": "36",
+          "dif": "−1",
           "values": {
-            "Pts": "51",
-            "PJ": "35",
-            "G": "14",
+            "Pts": "54",
+            "PJ": "36",
+            "G": "15",
             "E": "9",
             "P": "12",
-            "GF": "42",
-            "GC": "44",
-            "Dif": "−2"
+            "GF": "44",
+            "GC": "45",
+            "Dif": "−1"
           }
         },
         {
@@ -189,17 +189,17 @@
           "team": "Juventud",
           "teamId": null,
           "pts": "41",
-          "pj": "35",
-          "dif": "−6",
+          "pj": "36",
+          "dif": "−7",
           "values": {
             "Pts": "41",
-            "PJ": "35",
+            "PJ": "36",
             "G": "10",
             "E": "11",
-            "P": "14",
-            "GF": "37",
-            "GC": "43",
-            "Dif": "−6"
+            "P": "15",
+            "GF": "38",
+            "GC": "45",
+            "Dif": "−7"
           }
         },
         {
@@ -312,7 +312,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176318869
+      "revision": 176334077
     },
     {
       "key": "uru-clausura",
@@ -480,38 +480,38 @@
         },
         {
           "pos": 9,
-          "team": "Juventud",
-          "teamId": null,
-          "pts": "18",
-          "pj": "13",
-          "dif": "+2",
+          "team": "Montevideo Wanderers",
+          "teamId": "wanderers",
+          "pts": "19",
+          "pj": "14",
+          "dif": "−4",
           "values": {
-            "Pts": "18",
-            "PJ": "13",
-            "G": "4",
-            "E": "6",
-            "P": "3",
-            "GF": "12",
-            "GC": "10",
-            "Dif": "+2"
+            "Pts": "19",
+            "PJ": "14",
+            "G": "5",
+            "E": "4",
+            "P": "5",
+            "GF": "16",
+            "GC": "20",
+            "Dif": "−4"
           }
         },
         {
           "pos": 10,
-          "team": "Montevideo Wanderers",
-          "teamId": "wanderers",
-          "pts": "16",
-          "pj": "13",
-          "dif": "−5",
+          "team": "Juventud",
+          "teamId": null,
+          "pts": "18",
+          "pj": "14",
+          "dif": "+1",
           "values": {
-            "Pts": "16",
-            "PJ": "13",
+            "Pts": "18",
+            "PJ": "14",
             "G": "4",
-            "E": "4",
-            "P": "5",
-            "GF": "14",
-            "GC": "19",
-            "Dif": "−5"
+            "E": "6",
+            "P": "4",
+            "GF": "13",
+            "GC": "12",
+            "Dif": "+1"
           }
         },
         {
@@ -624,7 +624,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176318869
+      "revision": 176334077
     },
     {
       "key": "uru-apertura",
@@ -936,7 +936,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176318869
+      "revision": 176334077
     },
     {
       "key": "uru-descenso",
@@ -1070,17 +1070,17 @@
           "team": "Juventud",
           "teamId": null,
           "pts": "102",
-          "pj": "72",
-          "dif": "0",
+          "pj": "73",
+          "dif": "−1",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "61",
-            "PJ 2026": "35",
+            "PJ 2026": "36",
             "PTS 2026": "41",
-            "PJ": "72",
+            "PJ": "73",
             "PTS": "102",
-            "DG": "0",
-            "Prom": "1,417"
+            "DG": "−1",
+            "Prom": "1,397"
           }
         },
         {
@@ -1175,6 +1175,24 @@
         },
         {
           "pos": 13,
+          "team": "Montevideo Wanderers",
+          "teamId": "wanderers",
+          "pts": "85",
+          "pj": "73",
+          "dif": "−24",
+          "values": {
+            "PJ 2025": "37",
+            "PTS 2025": "31",
+            "PJ 2026": "36",
+            "PTS 2026": "54",
+            "PJ": "73",
+            "PTS": "85",
+            "DG": "−24",
+            "Prom": "1,164"
+          }
+        },
+        {
+          "pos": 14,
           "team": "Cerro",
           "teamId": null,
           "pts": "85",
@@ -1189,24 +1207,6 @@
             "PTS": "85",
             "DG": "−33",
             "Prom": "1,164"
-          }
-        },
-        {
-          "pos": 14,
-          "team": "Montevideo Wanderers",
-          "teamId": "wanderers",
-          "pts": "82",
-          "pj": "72",
-          "dif": "−25",
-          "values": {
-            "PJ 2025": "37",
-            "PTS 2025": "31",
-            "PJ 2026": "35",
-            "PTS 2026": "51",
-            "PJ": "72",
-            "PTS": "82",
-            "DG": "−25",
-            "Prom": "1,139"
           }
         },
         {
@@ -1247,7 +1247,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176318869
+      "revision": 176334077
     },
     {
       "key": "ucl-liga",
