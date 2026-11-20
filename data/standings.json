@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-20T12:53:23.166Z",
+  "fetchedAtUtc": "2026-11-20T21:49:12.252Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -60,6 +60,24 @@
         },
         {
           "pos": 3,
+          "team": "Racing",
+          "teamId": null,
+          "pts": "64",
+          "pj": "37",
+          "dif": "+15",
+          "values": {
+            "Pts": "64",
+            "PJ": "37",
+            "G": "17",
+            "E": "13",
+            "P": "7",
+            "GF": "48",
+            "GC": "33",
+            "Dif": "+15"
+          }
+        },
+        {
+          "pos": 4,
           "team": "Deportivo Maldonado",
           "teamId": null,
           "pts": "63",
@@ -77,75 +95,57 @@
           }
         },
         {
-          "pos": 4,
+          "pos": 5,
           "team": "Liverpool",
           "teamId": "liverpool-uru",
           "pts": "62",
-          "pj": "36",
-          "dif": "+17",
+          "pj": "37",
+          "dif": "+15",
           "values": {
             "Pts": "62",
-            "PJ": "36",
+            "PJ": "37",
             "G": "17",
             "E": "11",
-            "P": "8",
+            "P": "9",
             "GF": "49",
-            "GC": "32",
-            "Dif": "+17"
-          }
-        },
-        {
-          "pos": 5,
-          "team": "Nacional",
-          "teamId": "nacional",
-          "pts": "62",
-          "pj": "36",
-          "dif": "+11",
-          "values": {
-            "Pts": "62",
-            "PJ": "36",
-            "G": "19",
-            "E": "5",
-            "P": "12",
-            "GF": "54",
-            "GC": "43",
-            "Dif": "+11"
+            "GC": "34",
+            "Dif": "+15"
           }
         },
         {
           "pos": 6,
-          "team": "Racing",
-          "teamId": null,
-          "pts": "61",
-          "pj": "36",
-          "dif": "+14",
+          "team": "Nacional",
+          "teamId": "nacional",
+          "pts": "62",
+          "pj": "37",
+          "dif": "+9",
           "values": {
-            "Pts": "61",
-            "PJ": "36",
-            "G": "16",
-            "E": "13",
-            "P": "7",
-            "GF": "47",
-            "GC": "33",
-            "Dif": "+14"
+            "Pts": "62",
+            "PJ": "37",
+            "G": "19",
+            "E": "5",
+            "P": "13",
+            "GF": "54",
+            "GC": "45",
+            "Dif": "+9"
           }
         },
         {
           "pos": 7,
           "team": "Montevideo Wanderers",
           "teamId": "wanderers",
-          "pts": "54",
-          "pj": "36",
-          "dif": "−1",
+          "pts": "57",
+          "pj": "37",
+          "dif": "+1",
           "values": {
-            "Pts": "54",
-            "PJ": "36",
-            "G": "15",
+            "Pts": "57",
+            "PJ": "37",
+            "G": "16",
             "E": "9",
             "P": "12",
-            "GF": "44",
+            "GF": "46",
             "GC": "45",
-            "Dif": "−1"
+            "Dif": "+1"
           }
         },
         {
@@ -171,21 +171,39 @@
           "team": "Central Español",
           "teamId": null,
           "pts": "44",
-          "pj": "36",
-          "dif": "−12",
+          "pj": "37",
+          "dif": "−13",
           "values": {
             "Pts": "44",
-            "PJ": "36",
+            "PJ": "37",
             "G": "12",
             "E": "8",
-            "P": "16",
+            "P": "17",
             "GF": "36",
-            "GC": "48",
-            "Dif": "−12"
+            "GC": "49",
+            "Dif": "−13"
           }
         },
         {
           "pos": 10,
+          "team": "Cerro",
+          "teamId": null,
+          "pts": "42",
+          "pj": "37",
+          "dif": "−21",
+          "values": {
+            "Pts": "42",
+            "PJ": "37",
+            "G": "12",
+            "E": "7",
+            "P": "18",
+            "GF": "32",
+            "GC": "53",
+            "Dif": "−21"
+          }
+        },
+        {
+          "pos": 11,
           "team": "Juventud",
           "teamId": null,
           "pts": "41",
@@ -203,7 +221,7 @@
           }
         },
         {
-          "pos": 11,
+          "pos": 12,
           "team": "Defensor Sporting",
           "teamId": null,
           "pts": "40",
@@ -221,7 +239,7 @@
           }
         },
         {
-          "pos": 12,
+          "pos": 13,
           "team": "Boston River",
           "teamId": "boston-river",
           "pts": "40",
@@ -236,24 +254,6 @@
             "GF": "35",
             "GC": "48",
             "Dif": "−13"
-          }
-        },
-        {
-          "pos": 13,
-          "team": "Cerro",
-          "teamId": null,
-          "pts": "39",
-          "pj": "36",
-          "dif": "−23",
-          "values": {
-            "Pts": "39",
-            "PJ": "36",
-            "G": "11",
-            "E": "7",
-            "P": "18",
-            "GF": "30",
-            "GC": "53",
-            "Dif": "−23"
           }
         },
         {
@@ -312,7 +312,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176378448
+      "revision": 176390741
     },
     {
       "key": "uru-clausura",
@@ -339,17 +339,17 @@
           "team": "Liverpool",
           "teamId": "liverpool-uru",
           "pts": "33",
-          "pj": "14",
-          "dif": "+15",
+          "pj": "15",
+          "dif": "+13",
           "values": {
             "Pts": "33",
-            "PJ": "14",
+            "PJ": "15",
             "G": "10",
             "E": "3",
-            "P": "1",
+            "P": "2",
             "GF": "24",
-            "GC": "9",
-            "Dif": "+15"
+            "GC": "11",
+            "Dif": "+13"
           }
         },
         {
@@ -375,17 +375,17 @@
           "team": "Nacional",
           "teamId": "nacional",
           "pts": "27",
-          "pj": "14",
-          "dif": "+6",
+          "pj": "15",
+          "dif": "+4",
           "values": {
             "Pts": "27",
-            "PJ": "14",
+            "PJ": "15",
             "G": "8",
             "E": "3",
-            "P": "3",
+            "P": "4",
             "GF": "20",
-            "GC": "14",
-            "Dif": "+6"
+            "GC": "16",
+            "Dif": "+4"
           }
         },
         {
@@ -408,6 +408,42 @@
         },
         {
           "pos": 5,
+          "team": "Cerro",
+          "teamId": null,
+          "pts": "24",
+          "pj": "15",
+          "dif": "−1",
+          "values": {
+            "Pts": "24",
+            "PJ": "15",
+            "G": "7",
+            "E": "3",
+            "P": "5",
+            "GF": "18",
+            "GC": "19",
+            "Dif": "−1"
+          }
+        },
+        {
+          "pos": 6,
+          "team": "Racing",
+          "teamId": null,
+          "pts": "23",
+          "pj": "15",
+          "dif": "+5",
+          "values": {
+            "Pts": "23",
+            "PJ": "15",
+            "G": "6",
+            "E": "5",
+            "P": "4",
+            "GF": "21",
+            "GC": "16",
+            "Dif": "+5"
+          }
+        },
+        {
+          "pos": 7,
           "team": "Deportivo Maldonado",
           "teamId": null,
           "pts": "22",
@@ -425,43 +461,25 @@
           }
         },
         {
-          "pos": 6,
-          "team": "Cerro",
-          "teamId": null,
-          "pts": "21",
-          "pj": "14",
-          "dif": "−3",
-          "values": {
-            "Pts": "21",
-            "PJ": "14",
-            "G": "6",
-            "E": "3",
-            "P": "5",
-            "GF": "16",
-            "GC": "19",
-            "Dif": "−3"
-          }
-        },
-        {
-          "pos": 7,
-          "team": "Racing",
-          "teamId": null,
-          "pts": "20",
-          "pj": "14",
-          "dif": "+4",
-          "values": {
-            "Pts": "20",
-            "PJ": "14",
-            "G": "5",
-            "E": "5",
-            "P": "4",
-            "GF": "20",
-            "GC": "16",
-            "Dif": "+4"
-          }
-        },
-        {
           "pos": 8,
+          "team": "Montevideo Wanderers",
+          "teamId": "wanderers",
+          "pts": "22",
+          "pj": "15",
+          "dif": "−2",
+          "values": {
+            "Pts": "22",
+            "PJ": "15",
+            "G": "6",
+            "E": "4",
+            "P": "5",
+            "GF": "18",
+            "GC": "20",
+            "Dif": "−2"
+          }
+        },
+        {
+          "pos": 9,
           "team": "Progreso",
           "teamId": null,
           "pts": "21",
@@ -476,24 +494,6 @@
             "GF": "16",
             "GC": "18",
             "Dif": "−2"
-          }
-        },
-        {
-          "pos": 9,
-          "team": "Montevideo Wanderers",
-          "teamId": "wanderers",
-          "pts": "19",
-          "pj": "14",
-          "dif": "−4",
-          "values": {
-            "Pts": "19",
-            "PJ": "14",
-            "G": "5",
-            "E": "4",
-            "P": "5",
-            "GF": "16",
-            "GC": "20",
-            "Dif": "−4"
           }
         },
         {
@@ -573,17 +573,17 @@
           "team": "Central Español",
           "teamId": null,
           "pts": "11",
-          "pj": "14",
-          "dif": "−13",
+          "pj": "15",
+          "dif": "−14",
           "values": {
             "Pts": "11",
-            "PJ": "14",
+            "PJ": "15",
             "G": "3",
             "E": "2",
-            "P": "9",
+            "P": "10",
             "GF": "9",
-            "GC": "22",
-            "Dif": "−13"
+            "GC": "23",
+            "Dif": "−14"
           }
         },
         {
@@ -624,7 +624,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176378448
+      "revision": 176390741
     },
     {
       "key": "uru-apertura",
@@ -936,7 +936,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176378448
+      "revision": 176390741
     },
     {
       "key": "uru-descenso",
@@ -961,18 +961,18 @@
           "pos": 1,
           "team": "Peñarol",
           "teamId": "penarol",
-          "pts": "144",
-          "pj": "73",
-          "dif": "+56",
+          "pts": "147",
+          "pj": "74",
+          "dif": "+59",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "78",
-            "PJ 2026": "36",
-            "PTS 2026": "66",
-            "PJ": "73",
-            "PTS": "144",
-            "DG": "+56",
-            "Prom": "1,973"
+            "PJ 2026": "37",
+            "PTS 2026": "69",
+            "PJ": "74",
+            "PTS": "147",
+            "DG": "+59",
+            "Prom": "1,986"
           }
         },
         {
@@ -980,89 +980,89 @@
           "team": "Nacional",
           "teamId": "nacional",
           "pts": "141",
-          "pj": "73",
-          "dif": "+54",
+          "pj": "74",
+          "dif": "+52",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "79",
-            "PJ 2026": "36",
+            "PJ 2026": "37",
             "PTS 2026": "62",
-            "PJ": "73",
+            "PJ": "74",
             "PTS": "141",
-            "DG": "+54",
-            "Prom": "1,932"
+            "DG": "+52",
+            "Prom": "1,905"
           }
         },
         {
           "pos": 3,
-          "team": "Deportivo Maldonado",
-          "teamId": null,
-          "pts": "63",
-          "pj": "36",
-          "dif": "+21",
+          "team": "Liverpool",
+          "teamId": "liverpool-uru",
+          "pts": "127",
+          "pj": "74",
+          "dif": "+28",
           "values": {
-            "PJ 2025": "–",
-            "PTS 2025": "–",
-            "PJ 2026": "36",
-            "PTS 2026": "63",
-            "PJ": "36",
-            "PTS": "63",
-            "DG": "+21",
-            "Prom": "1,750"
+            "PJ 2025": "37",
+            "PTS 2025": "65",
+            "PJ 2026": "37",
+            "PTS 2026": "62",
+            "PJ": "74",
+            "PTS": "127",
+            "DG": "+28",
+            "Prom": "1,716"
           }
         },
         {
           "pos": 4,
-          "team": "Liverpool",
-          "teamId": "liverpool-uru",
-          "pts": "127",
-          "pj": "73",
-          "dif": "+30",
+          "team": "Deportivo Maldonado",
+          "teamId": null,
+          "pts": "63",
+          "pj": "37",
+          "dif": "+20",
           "values": {
-            "PJ 2025": "37",
-            "PTS 2025": "65",
-            "PJ 2026": "36",
-            "PTS 2026": "62",
-            "PJ": "73",
-            "PTS": "127",
-            "DG": "+30",
-            "Prom": "1,740"
+            "PJ 2025": "–",
+            "PTS 2025": "–",
+            "PJ 2026": "37",
+            "PTS 2026": "63",
+            "PJ": "37",
+            "PTS": "63",
+            "DG": "+20",
+            "Prom": "1,703"
           }
         },
         {
           "pos": 5,
           "team": "Racing",
           "teamId": null,
-          "pts": "114",
-          "pj": "73",
-          "dif": "+15",
+          "pts": "117",
+          "pj": "74",
+          "dif": "+16",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "53",
-            "PJ 2026": "36",
-            "PTS 2026": "61",
-            "PJ": "73",
-            "PTS": "114",
-            "DG": "+15",
-            "Prom": "1,562"
+            "PJ 2026": "37",
+            "PTS 2026": "64",
+            "PJ": "74",
+            "PTS": "117",
+            "DG": "+16",
+            "Prom": "1,581"
           }
         },
         {
           "pos": 6,
           "team": "Montevideo City",
           "teamId": "torque",
-          "pts": "113",
-          "pj": "73",
+          "pts": "114",
+          "pj": "74",
           "dif": "+19",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "49",
-            "PJ 2026": "36",
-            "PTS 2026": "64",
-            "PJ": "73",
-            "PTS": "113",
+            "PJ 2026": "37",
+            "PTS 2026": "65",
+            "PJ": "74",
+            "PTS": "114",
             "DG": "+19",
-            "Prom": "1,548"
+            "Prom": "1,541"
           }
         },
         {
@@ -1123,90 +1123,90 @@
           "pos": 10,
           "team": "Boston River",
           "teamId": "boston-river",
-          "pts": "92",
-          "pj": "73",
-          "dif": "−3",
+          "pts": "95",
+          "pj": "74",
+          "dif": "−2",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "55",
-            "PJ 2026": "36",
-            "PTS 2026": "37",
-            "PJ": "73",
-            "PTS": "92",
-            "DG": "−3",
-            "Prom": "1,260"
+            "PJ 2026": "37",
+            "PTS 2026": "40",
+            "PJ": "74",
+            "PTS": "95",
+            "DG": "−2",
+            "Prom": "1,284"
           }
         },
         {
           "pos": 11,
-          "team": "Central Español",
-          "teamId": null,
-          "pts": "44",
-          "pj": "36",
-          "dif": "−12",
+          "team": "Montevideo Wanderers",
+          "teamId": "wanderers",
+          "pts": "88",
+          "pj": "74",
+          "dif": "−22",
           "values": {
-            "PJ 2025": "–",
-            "PTS 2025": "–",
-            "PJ 2026": "36",
-            "PTS 2026": "44",
-            "PJ": "36",
-            "PTS": "44",
-            "DG": "−12",
-            "Prom": "1,222"
+            "PJ 2025": "37",
+            "PTS 2025": "31",
+            "PJ 2026": "37",
+            "PTS 2026": "57",
+            "PJ": "74",
+            "PTS": "88",
+            "DG": "−22",
+            "Prom": "1,189"
           }
         },
         {
           "pos": 12,
-          "team": "Cerro Largo",
+          "team": "Central Español",
           "teamId": null,
-          "pts": "87",
-          "pj": "73",
-          "dif": "−6",
+          "pts": "44",
+          "pj": "37",
+          "dif": "−13",
           "values": {
-            "PJ 2025": "37",
-            "PTS 2025": "49",
-            "PJ 2026": "36",
-            "PTS 2026": "38",
-            "PJ": "73",
-            "PTS": "87",
-            "DG": "−6",
-            "Prom": "1,192"
+            "PJ 2025": "–",
+            "PTS 2025": "–",
+            "PJ 2026": "37",
+            "PTS 2026": "44",
+            "PJ": "37",
+            "PTS": "44",
+            "DG": "−13",
+            "Prom": "1,189"
           }
         },
         {
           "pos": 13,
-          "team": "Montevideo Wanderers",
-          "teamId": "wanderers",
-          "pts": "85",
-          "pj": "73",
-          "dif": "−24",
+          "team": "Cerro",
+          "teamId": null,
+          "pts": "88",
+          "pj": "74",
+          "dif": "−31",
           "values": {
             "PJ 2025": "37",
-            "PTS 2025": "31",
-            "PJ 2026": "36",
-            "PTS 2026": "54",
-            "PJ": "73",
-            "PTS": "85",
-            "DG": "−24",
-            "Prom": "1,164"
+            "PTS 2025": "46",
+            "PJ 2026": "37",
+            "PTS 2026": "42",
+            "PJ": "74",
+            "PTS": "88",
+            "DG": "−31",
+            "Prom": "1,189"
           }
         },
         {
           "pos": 14,
-          "team": "Cerro",
+          "team": "Cerro Largo",
           "teamId": null,
-          "pts": "85",
-          "pj": "73",
-          "dif": "−33",
+          "pts": "87",
+          "pj": "74",
+          "dif": "−9",
           "values": {
             "PJ 2025": "37",
-            "PTS 2025": "46",
-            "PJ 2026": "36",
-            "PTS 2026": "39",
-            "PJ": "73",
-            "PTS": "85",
-            "DG": "−33",
-            "Prom": "1,164"
+            "PTS 2025": "49",
+            "PJ 2026": "37",
+            "PTS 2026": "38",
+            "PJ": "74",
+            "PTS": "87",
+            "DG": "−9",
+            "Prom": "1,176"
           }
         },
         {
@@ -1231,23 +1231,23 @@
           "pos": 16,
           "team": "Progreso",
           "teamId": null,
-          "pts": "75",
-          "pj": "73",
+          "pts": "76",
+          "pj": "74",
           "dif": "−40",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "39",
-            "PJ 2026": "36",
-            "PTS 2026": "36",
-            "PJ": "73",
-            "PTS": "75",
+            "PJ 2026": "37",
+            "PTS 2026": "37",
+            "PJ": "74",
+            "PTS": "76",
             "DG": "−40",
             "Prom": "1,027"
           }
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176378448
+      "revision": 176390741
     },
     {
       "key": "ucl-liga",
@@ -3775,7 +3775,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026",
-      "revision": 176379394
+      "revision": 176387063
     },
     {
       "key": "arg-anual",
