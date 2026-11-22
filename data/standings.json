@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-22T17:50:31.710Z",
+  "fetchedAtUtc": "2026-11-22T23:37:16.397Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -3473,18 +3473,18 @@
           "pos": 5,
           "team": "Athletico Paranaense",
           "teamId": "athletico-pr",
-          "pts": "54",
-          "pj": "35",
-          "dif": "+7",
+          "pts": "57",
+          "pj": "36",
+          "dif": "+9",
           "values": {
-            "Pts": "54",
-            "PJ": "35",
-            "G": "15",
+            "Pts": "57",
+            "PJ": "36",
+            "G": "16",
             "E": "9",
             "P": "11",
-            "GF": "52",
-            "GC": "45",
-            "Dif": "+7",
+            "GF": "56",
+            "GC": "47",
+            "Dif": "+9",
             "Clasificación 2027": "Segunda ronda clasificatoria de la Copa Libertadores"
           }
         },
@@ -3740,17 +3740,17 @@
           "team": "Remo",
           "teamId": "remo",
           "pts": "32",
-          "pj": "35",
-          "dif": "−18",
+          "pj": "36",
+          "dif": "−20",
           "values": {
             "Pts": "32",
-            "PJ": "35",
+            "PJ": "36",
             "G": "7",
             "E": "11",
-            "P": "17",
-            "GF": "39",
-            "GC": "57",
-            "Dif": "−18",
+            "P": "18",
+            "GF": "41",
+            "GC": "61",
+            "Dif": "−20",
             "Clasificación 2027": ""
           }
         },
@@ -3775,7 +3775,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026",
-      "revision": 176408938
+      "revision": 176419824
     },
     {
       "key": "arg-anual",
@@ -4338,7 +4338,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176415244
+      "revision": 176419614
     },
     {
       "key": "arg-clausura-a",
@@ -4631,7 +4631,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176415244
+      "revision": 176419614
     },
     {
       "key": "arg-clausura-b",
@@ -4924,7 +4924,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176415244
+      "revision": 176419614
     }
   ]
 }
