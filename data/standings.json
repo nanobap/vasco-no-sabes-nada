@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-21T20:31:57.550Z",
+  "fetchedAtUtc": "2026-11-22T02:14:44.752Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -3397,17 +3397,17 @@
           "pos": 1,
           "team": "Flamengo",
           "teamId": "flamengo",
-          "pts": "79",
-          "pj": "35",
+          "pts": "80",
+          "pj": "36",
           "dif": "+43",
           "values": {
-            "Pts": "79",
-            "PJ": "35",
+            "Pts": "80",
+            "PJ": "36",
             "G": "24",
-            "E": "7",
+            "E": "8",
             "P": "4",
-            "GF": "73",
-            "GC": "30",
+            "GF": "74",
+            "GC": "31",
             "Dif": "+43",
             "Clasificación 2027": "Fase de grupos de la Copa Libertadores"
           }
@@ -3416,17 +3416,17 @@
           "pos": 2,
           "team": "Palmeiras",
           "teamId": "palmeiras",
-          "pts": "73",
-          "pj": "35",
+          "pts": "74",
+          "pj": "36",
           "dif": "+38",
           "values": {
-            "Pts": "73",
-            "PJ": "35",
+            "Pts": "74",
+            "PJ": "36",
             "G": "21",
-            "E": "10",
+            "E": "11",
             "P": "4",
-            "GF": "63",
-            "GC": "25",
+            "GF": "64",
+            "GC": "26",
             "Dif": "+38",
             "Clasificación 2027": ""
           }
@@ -3435,18 +3435,18 @@
           "pos": 3,
           "team": "Cruzeiro",
           "teamId": "cruzeiro",
-          "pts": "63",
-          "pj": "35",
-          "dif": "+8",
+          "pts": "66",
+          "pj": "36",
+          "dif": "+9",
           "values": {
-            "Pts": "63",
-            "PJ": "35",
-            "G": "19",
+            "Pts": "66",
+            "PJ": "36",
+            "G": "20",
             "E": "6",
             "P": "10",
-            "GF": "57",
-            "GC": "49",
-            "Dif": "+8",
+            "GF": "59",
+            "GC": "50",
+            "Dif": "+9",
             "Clasificación 2027": ""
           }
         },
@@ -3493,17 +3493,17 @@
           "team": "Bahia",
           "teamId": "bahia",
           "pts": "54",
-          "pj": "35",
-          "dif": "+5",
+          "pj": "36",
+          "dif": "+4",
           "values": {
             "Pts": "54",
-            "PJ": "35",
+            "PJ": "36",
             "G": "14",
             "E": "12",
-            "P": "9",
+            "P": "10",
             "GF": "50",
-            "GC": "45",
-            "Dif": "+5",
+            "GC": "46",
+            "Dif": "+4",
             "Clasificación 2027": ""
           }
         },
@@ -3585,6 +3585,25 @@
         },
         {
           "pos": 11,
+          "team": "Coritiba",
+          "teamId": "coritiba",
+          "pts": "45",
+          "pj": "36",
+          "dif": "−11",
+          "values": {
+            "Pts": "45",
+            "PJ": "36",
+            "G": "12",
+            "E": "9",
+            "P": "15",
+            "GF": "41",
+            "GC": "52",
+            "Dif": "−11",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 12,
           "team": "São Paulo",
           "teamId": "sao-paulo",
           "pts": "44",
@@ -3603,7 +3622,7 @@
           }
         },
         {
-          "pos": 12,
+          "pos": 13,
           "team": "Botafogo",
           "teamId": "botafogo",
           "pts": "42",
@@ -3618,25 +3637,6 @@
             "GF": "46",
             "GC": "57",
             "Dif": "−11",
-            "Clasificación 2027": ""
-          }
-        },
-        {
-          "pos": 13,
-          "team": "Coritiba",
-          "teamId": "coritiba",
-          "pts": "42",
-          "pj": "35",
-          "dif": "−12",
-          "values": {
-            "Pts": "42",
-            "PJ": "35",
-            "G": "11",
-            "E": "9",
-            "P": "15",
-            "GF": "40",
-            "GC": "52",
-            "Dif": "−12",
             "Clasificación 2027": ""
           }
         },
@@ -3759,23 +3759,23 @@
           "team": "Chapecoense",
           "teamId": "chapecoense",
           "pts": "21",
-          "pj": "35",
-          "dif": "−39",
+          "pj": "36",
+          "dif": "−40",
           "values": {
             "Pts": "21",
-            "PJ": "35",
+            "PJ": "36",
             "G": "4",
             "E": "9",
-            "P": "22",
-            "GF": "33",
-            "GC": "72",
-            "Dif": "−39",
+            "P": "23",
+            "GF": "34",
+            "GC": "74",
+            "Dif": "−40",
             "Clasificación 2027": ""
           }
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026",
-      "revision": 176387063
+      "revision": 176408938
     },
     {
       "key": "arg-anual",
@@ -4338,7 +4338,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176404467
+      "revision": 176408716
     },
     {
       "key": "arg-clausura-a",
@@ -4631,7 +4631,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176404467
+      "revision": 176408716
     },
     {
       "key": "arg-clausura-b",
@@ -4924,7 +4924,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176404467
+      "revision": 176408716
     }
   ]
 }
