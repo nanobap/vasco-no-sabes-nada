@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-22T23:37:16.397Z",
+  "fetchedAtUtc": "2026-11-23T07:36:49.930Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -3454,18 +3454,18 @@
           "pos": 4,
           "team": "Fluminense",
           "teamId": null,
-          "pts": "60",
-          "pj": "35",
-          "dif": "+14",
+          "pts": "63",
+          "pj": "36",
+          "dif": "+15",
           "values": {
-            "Pts": "60",
-            "PJ": "35",
-            "G": "17",
+            "Pts": "63",
+            "PJ": "36",
+            "G": "18",
             "E": "9",
             "P": "9",
-            "GF": "56",
+            "GF": "57",
             "GC": "42",
-            "Dif": "+14",
+            "Dif": "+15",
             "Clasificación 2027": ""
           }
         },
@@ -3528,6 +3528,25 @@
         },
         {
           "pos": 8,
+          "team": "Bragantino",
+          "teamId": null,
+          "pts": "50",
+          "pj": "36",
+          "dif": "+5",
+          "values": {
+            "Pts": "50",
+            "PJ": "36",
+            "G": "14",
+            "E": "8",
+            "P": "14",
+            "GF": "46",
+            "GC": "41",
+            "Dif": "+5",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 9,
           "team": "Santos",
           "teamId": null,
           "pts": "50",
@@ -3546,40 +3565,21 @@
           }
         },
         {
-          "pos": 9,
-          "team": "Bragantino",
-          "teamId": null,
-          "pts": "47",
-          "pj": "35",
-          "dif": "+4",
-          "values": {
-            "Pts": "47",
-            "PJ": "35",
-            "G": "13",
-            "E": "8",
-            "P": "14",
-            "GF": "45",
-            "GC": "41",
-            "Dif": "+4",
-            "Clasificación 2027": ""
-          }
-        },
-        {
           "pos": 10,
           "team": "Vasco da Gama",
           "teamId": "vasco",
           "pts": "47",
-          "pj": "35",
-          "dif": "−4",
+          "pj": "36",
+          "dif": "−5",
           "values": {
             "Pts": "47",
-            "PJ": "35",
+            "PJ": "36",
             "G": "13",
             "E": "8",
-            "P": "14",
+            "P": "15",
             "GF": "47",
-            "GC": "51",
-            "Dif": "−4",
+            "GC": "52",
+            "Dif": "−5",
             "Clasificación 2027": ""
           }
         },
@@ -3664,17 +3664,17 @@
           "team": "Mirassol",
           "teamId": "mirassol",
           "pts": "41",
-          "pj": "35",
-          "dif": "−9",
+          "pj": "36",
+          "dif": "−10",
           "values": {
             "Pts": "41",
-            "PJ": "35",
+            "PJ": "36",
             "G": "10",
             "E": "11",
-            "P": "14",
+            "P": "15",
             "GF": "39",
-            "GC": "48",
-            "Dif": "−9",
+            "GC": "49",
+            "Dif": "−10",
             "Clasificación 2027": ""
           }
         },
@@ -3775,7 +3775,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026",
-      "revision": 176419824
+      "revision": 176422874
     },
     {
       "key": "arg-anual",
@@ -4338,7 +4338,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176419614
+      "revision": 176424584
     },
     {
       "key": "arg-clausura-a",
@@ -4631,7 +4631,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176419614
+      "revision": 176424584
     },
     {
       "key": "arg-clausura-b",
@@ -4924,7 +4924,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176419614
+      "revision": 176424584
     }
   ]
 }
