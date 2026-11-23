@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-23T07:36:49.930Z",
+  "fetchedAtUtc": "2026-11-23T20:13:24.834Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -312,7 +312,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176391039
+      "revision": 176431774
     },
     {
       "key": "uru-clausura",
@@ -624,7 +624,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176391039
+      "revision": 176431774
     },
     {
       "key": "uru-apertura",
@@ -936,7 +936,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176391039
+      "revision": 176431774
     },
     {
       "key": "uru-descenso",
@@ -1247,7 +1247,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176391039
+      "revision": 176431774
     },
     {
       "key": "ucl-liga",
