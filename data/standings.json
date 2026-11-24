@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-23T20:13:24.834Z",
+  "fetchedAtUtc": "2026-11-24T04:48:25.589Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -152,17 +152,17 @@
           "pos": 8,
           "team": "Albion",
           "teamId": null,
-          "pts": "48",
-          "pj": "36",
+          "pts": "49",
+          "pj": "37",
           "dif": "+3",
           "values": {
-            "Pts": "48",
-            "PJ": "36",
+            "Pts": "49",
+            "PJ": "37",
             "G": "13",
-            "E": "9",
+            "E": "10",
             "P": "14",
-            "GF": "48",
-            "GC": "45",
+            "GF": "49",
+            "GC": "46",
             "Dif": "+3"
           }
         },
@@ -186,6 +186,24 @@
         },
         {
           "pos": 10,
+          "team": "Defensor Sporting",
+          "teamId": null,
+          "pts": "43",
+          "pj": "37",
+          "dif": "−7",
+          "values": {
+            "Pts": "43",
+            "PJ": "37",
+            "G": "10",
+            "E": "13",
+            "P": "14",
+            "GF": "37",
+            "GC": "44",
+            "Dif": "−7"
+          }
+        },
+        {
+          "pos": 11,
           "team": "Cerro",
           "teamId": null,
           "pts": "42",
@@ -203,38 +221,20 @@
           }
         },
         {
-          "pos": 11,
+          "pos": 12,
           "team": "Juventud",
           "teamId": null,
           "pts": "41",
-          "pj": "36",
-          "dif": "−7",
-          "values": {
-            "Pts": "41",
-            "PJ": "36",
-            "G": "10",
-            "E": "11",
-            "P": "15",
-            "GF": "38",
-            "GC": "45",
-            "Dif": "−7"
-          }
-        },
-        {
-          "pos": 12,
-          "team": "Defensor Sporting",
-          "teamId": null,
-          "pts": "40",
-          "pj": "36",
+          "pj": "37",
           "dif": "−8",
           "values": {
-            "Pts": "40",
-            "PJ": "36",
-            "G": "9",
-            "E": "13",
-            "P": "14",
-            "GF": "36",
-            "GC": "44",
+            "Pts": "41",
+            "PJ": "37",
+            "G": "10",
+            "E": "11",
+            "P": "16",
+            "GF": "38",
+            "GC": "46",
             "Dif": "−8"
           }
         },
@@ -296,23 +296,23 @@
           "pos": 16,
           "team": "Danubio",
           "teamId": null,
-          "pts": "32",
-          "pj": "36",
+          "pts": "33",
+          "pj": "37",
           "dif": "−17",
           "values": {
-            "Pts": "32",
-            "PJ": "36",
+            "Pts": "33",
+            "PJ": "37",
             "G": "6",
-            "E": "14",
+            "E": "15",
             "P": "16",
-            "GF": "30",
-            "GC": "47",
+            "GF": "31",
+            "GC": "48",
             "Dif": "−17"
           }
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176431774
+      "revision": 176437497
     },
     {
       "key": "uru-clausura",
@@ -501,17 +501,17 @@
           "team": "Juventud",
           "teamId": null,
           "pts": "18",
-          "pj": "14",
-          "dif": "+1",
+          "pj": "15",
+          "dif": "0",
           "values": {
             "Pts": "18",
-            "PJ": "14",
+            "PJ": "15",
             "G": "4",
             "E": "6",
-            "P": "4",
+            "P": "5",
             "GF": "13",
-            "GC": "12",
-            "Dif": "+1"
+            "GC": "13",
+            "Dif": "0"
           }
         },
         {
@@ -534,42 +534,60 @@
         },
         {
           "pos": 12,
-          "team": "Albion",
+          "team": "Defensor Sporting",
           "teamId": null,
-          "pts": "14",
-          "pj": "14",
-          "dif": "−5",
+          "pts": "16",
+          "pj": "15",
+          "dif": "−6",
           "values": {
-            "Pts": "14",
-            "PJ": "14",
+            "Pts": "16",
+            "PJ": "15",
             "G": "4",
-            "E": "2",
-            "P": "8",
-            "GF": "16",
-            "GC": "21",
-            "Dif": "−5"
+            "E": "4",
+            "P": "7",
+            "GF": "18",
+            "GC": "24",
+            "Dif": "−6"
           }
         },
         {
           "pos": 13,
-          "team": "Defensor Sporting",
+          "team": "Albion",
           "teamId": null,
-          "pts": "13",
-          "pj": "14",
-          "dif": "−7",
+          "pts": "15",
+          "pj": "15",
+          "dif": "−5",
           "values": {
-            "Pts": "13",
-            "PJ": "14",
-            "G": "3",
-            "E": "4",
-            "P": "7",
+            "Pts": "15",
+            "PJ": "15",
+            "G": "4",
+            "E": "3",
+            "P": "8",
             "GF": "17",
-            "GC": "24",
-            "Dif": "−7"
+            "GC": "22",
+            "Dif": "−5"
           }
         },
         {
           "pos": 14,
+          "team": "Danubio",
+          "teamId": null,
+          "pts": "11",
+          "pj": "15",
+          "dif": "−9",
+          "values": {
+            "Pts": "11",
+            "PJ": "15",
+            "G": "2",
+            "E": "5",
+            "P": "8",
+            "GF": "9",
+            "GC": "18",
+            "Dif": "−9"
+          }
+        },
+        {
+          "pos": 15,
           "team": "Central Español",
           "teamId": null,
           "pts": "11",
@@ -584,24 +602,6 @@
             "GF": "9",
             "GC": "23",
             "Dif": "−14"
-          }
-        },
-        {
-          "pos": 15,
-          "team": "Danubio",
-          "teamId": null,
-          "pts": "10",
-          "pj": "14",
-          "dif": "−9",
-          "values": {
-            "Pts": "10",
-            "PJ": "14",
-            "G": "2",
-            "E": "4",
-            "P": "8",
-            "GF": "8",
-            "GC": "17",
-            "Dif": "−9"
           }
         },
         {
@@ -624,7 +624,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176431774
+      "revision": 176437497
     },
     {
       "key": "uru-apertura",
@@ -936,7 +936,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176431774
+      "revision": 176437497
     },
     {
       "key": "uru-descenso",
@@ -1067,56 +1067,56 @@
         },
         {
           "pos": 7,
-          "team": "Juventud",
+          "team": "Defensor Sporting",
           "teamId": null,
-          "pts": "102",
-          "pj": "73",
-          "dif": "−1",
+          "pts": "104",
+          "pj": "74",
+          "dif": "−3",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "61",
-            "PJ 2026": "36",
-            "PTS 2026": "41",
-            "PJ": "73",
-            "PTS": "102",
-            "DG": "−1",
-            "Prom": "1,397"
+            "PJ 2026": "37",
+            "PTS 2026": "43",
+            "PJ": "74",
+            "PTS": "104",
+            "DG": "−3",
+            "Prom": "1,405"
           }
         },
         {
           "pos": 8,
-          "team": "Defensor Sporting",
+          "team": "Juventud",
           "teamId": null,
-          "pts": "101",
-          "pj": "73",
-          "dif": "−4",
+          "pts": "102",
+          "pj": "74",
+          "dif": "−2",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "61",
-            "PJ 2026": "36",
-            "PTS 2026": "40",
-            "PJ": "73",
-            "PTS": "101",
-            "DG": "−4",
-            "Prom": "1,384"
+            "PJ 2026": "37",
+            "PTS 2026": "41",
+            "PJ": "74",
+            "PTS": "102",
+            "DG": "−2",
+            "Prom": "1,378"
           }
         },
         {
           "pos": 9,
           "team": "Albion",
           "teamId": null,
-          "pts": "48",
-          "pj": "36",
+          "pts": "49",
+          "pj": "37",
           "dif": "+3",
           "values": {
             "PJ 2025": "–",
             "PTS 2025": "–",
-            "PJ 2026": "36",
-            "PTS 2026": "48",
-            "PJ": "36",
-            "PTS": "48",
+            "PJ 2026": "37",
+            "PTS 2026": "49",
+            "PJ": "37",
+            "PTS": "49",
             "DG": "+3",
-            "Prom": "1,333"
+            "Prom": "1,324"
           }
         },
         {
@@ -1213,16 +1213,16 @@
           "pos": 15,
           "team": "Danubio",
           "teamId": null,
-          "pts": "75",
-          "pj": "73",
+          "pts": "76",
+          "pj": "74",
           "dif": "−18",
           "values": {
             "PJ 2025": "37",
             "PTS 2025": "43",
-            "PJ 2026": "36",
-            "PTS 2026": "32",
-            "PJ": "73",
-            "PTS": "75",
+            "PJ 2026": "37",
+            "PTS 2026": "33",
+            "PJ": "74",
+            "PTS": "76",
             "DG": "−18",
             "Prom": "1,027"
           }
@@ -1247,7 +1247,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Primera_Divisi%C3%B3n_2026",
-      "revision": 176431774
+      "revision": 176437497
     },
     {
       "key": "ucl-liga",
@@ -1955,7 +1955,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2026-27",
-      "revision": 176166549
+      "revision": 176438262
     },
     {
       "key": "uel-liga",
@@ -3550,17 +3550,17 @@
           "team": "Santos",
           "teamId": null,
           "pts": "50",
-          "pj": "35",
-          "dif": "+2",
+          "pj": "36",
+          "dif": "0",
           "values": {
             "Pts": "50",
-            "PJ": "35",
+            "PJ": "36",
             "G": "13",
             "E": "11",
-            "P": "11",
+            "P": "12",
             "GF": "51",
-            "GC": "49",
-            "Dif": "+2",
+            "GC": "51",
+            "Dif": "0",
             "Clasificación 2027": ""
           }
         },
@@ -3585,6 +3585,25 @@
         },
         {
           "pos": 11,
+          "team": "São Paulo",
+          "teamId": "sao-paulo",
+          "pts": "45",
+          "pj": "36",
+          "dif": "−1",
+          "values": {
+            "Pts": "45",
+            "PJ": "36",
+            "G": "12",
+            "E": "9",
+            "P": "15",
+            "GF": "40",
+            "GC": "41",
+            "Dif": "−1",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 12,
           "team": "Coritiba",
           "teamId": "coritiba",
           "pts": "45",
@@ -3603,64 +3622,64 @@
           }
         },
         {
-          "pos": 12,
-          "team": "São Paulo",
-          "teamId": "sao-paulo",
+          "pos": 13,
+          "team": "Vitória",
+          "teamId": null,
           "pts": "44",
-          "pj": "35",
-          "dif": "−1",
+          "pj": "36",
+          "dif": "−12",
           "values": {
             "Pts": "44",
-            "PJ": "35",
+            "PJ": "36",
             "G": "12",
             "E": "8",
-            "P": "15",
-            "GF": "39",
-            "GC": "40",
-            "Dif": "−1",
-            "Clasificación 2027": ""
-          }
-        },
-        {
-          "pos": 13,
-          "team": "Botafogo",
-          "teamId": "botafogo",
-          "pts": "42",
-          "pj": "35",
-          "dif": "−11",
-          "values": {
-            "Pts": "42",
-            "PJ": "35",
-            "G": "11",
-            "E": "9",
-            "P": "15",
-            "GF": "46",
-            "GC": "57",
-            "Dif": "−11",
+            "P": "16",
+            "GF": "42",
+            "GC": "54",
+            "Dif": "−12",
             "Clasificación 2027": ""
           }
         },
         {
           "pos": 14,
-          "team": "Vitória",
-          "teamId": null,
-          "pts": "41",
-          "pj": "35",
-          "dif": "−15",
+          "team": "Botafogo",
+          "teamId": "botafogo",
+          "pts": "43",
+          "pj": "36",
+          "dif": "−11",
           "values": {
-            "Pts": "41",
-            "PJ": "35",
+            "Pts": "43",
+            "PJ": "36",
             "G": "11",
-            "E": "8",
-            "P": "16",
-            "GF": "37",
-            "GC": "52",
-            "Dif": "−15",
+            "E": "10",
+            "P": "15",
+            "GF": "47",
+            "GC": "58",
+            "Dif": "−11",
             "Clasificación 2027": ""
           }
         },
         {
           "pos": 15,
+          "team": "Grêmio",
+          "teamId": "gremio",
+          "pts": "41",
+          "pj": "36",
+          "dif": "−7",
+          "values": {
+            "Pts": "41",
+            "PJ": "36",
+            "G": "10",
+            "E": "11",
+            "P": "15",
+            "GF": "40",
+            "GC": "47",
+            "Dif": "−7",
+            "Clasificación 2027": ""
+          }
+        },
+        {
+          "pos": 16,
           "team": "Mirassol",
           "teamId": "mirassol",
           "pts": "41",
@@ -3679,7 +3698,7 @@
           }
         },
         {
-          "pos": 16,
+          "pos": 17,
           "team": "Corinthians",
           "teamId": "corinthians",
           "pts": "40",
@@ -3694,44 +3713,25 @@
             "GF": "40",
             "GC": "42",
             "Dif": "−2",
-            "Clasificación 2027": ""
-          }
-        },
-        {
-          "pos": 17,
-          "team": "Internacional",
-          "teamId": "internacional",
-          "pts": "38",
-          "pj": "35",
-          "dif": "−5",
-          "values": {
-            "Pts": "38",
-            "PJ": "35",
-            "G": "9",
-            "E": "11",
-            "P": "15",
-            "GF": "39",
-            "GC": "44",
-            "Dif": "−5",
             "Clasificación 2027": "Descenso a la Brasileirão Superbet"
           }
         },
         {
           "pos": 18,
-          "team": "Grêmio",
-          "teamId": "gremio",
+          "team": "Internacional",
+          "teamId": "internacional",
           "pts": "38",
-          "pj": "35",
-          "dif": "−9",
+          "pj": "36",
+          "dif": "−8",
           "values": {
             "Pts": "38",
-            "PJ": "35",
+            "PJ": "36",
             "G": "9",
             "E": "11",
-            "P": "15",
-            "GF": "38",
-            "GC": "47",
-            "Dif": "−9",
+            "P": "16",
+            "GF": "41",
+            "GC": "49",
+            "Dif": "−8",
             "Clasificación 2027": ""
           }
         },
@@ -3775,7 +3775,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_Brasile%C3%B1o_de_F%C3%BAtbol_Serie_A_2026",
-      "revision": 176422874
+      "revision": 176438809
     },
     {
       "key": "arg-anual",
@@ -4338,7 +4338,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176424584
+      "revision": 176436469
     },
     {
       "key": "arg-clausura-a",
@@ -4631,7 +4631,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176424584
+      "revision": 176436469
     },
     {
       "key": "arg-clausura-b",
@@ -4924,7 +4924,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Campeonato_de_Primera_Divisi%C3%B3n_2026_(Argentina)",
-      "revision": 176424584
+      "revision": 176436469
     }
   ]
 }
