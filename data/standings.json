@@ -1,5 +1,5 @@
 {
-  "fetchedAtUtc": "2026-11-27T04:15:08.586Z",
+  "fetchedAtUtc": "2026-11-27T13:54:59.979Z",
   "source": "Wikipedia (es), CC BY-SA 4.0",
   "tables": [
     {
@@ -1803,8 +1803,8 @@
         },
         {
           "pos": 29,
-          "team": "Lille",
-          "teamId": "lille",
+          "team": "Lille Olympique",
+          "teamId": null,
           "pts": "4",
           "pj": "5",
           "dif": "−5",
@@ -1898,8 +1898,8 @@
         },
         {
           "pos": 34,
-          "team": "Lens",
-          "teamId": "lens",
+          "team": "Racing Lens",
+          "teamId": null,
           "pts": "3",
           "pj": "5",
           "dif": "−14",
@@ -1955,7 +1955,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Liga_de_Campeones_de_la_UEFA_2026-27",
-      "revision": 176478741
+      "revision": 176487760
     },
     {
       "key": "uel-liga",
@@ -2226,7 +2226,7 @@
         },
         {
           "pos": 14,
-          "team": "Lyon",
+          "team": "Olympique de Lyon",
           "teamId": "lyon",
           "pts": "8",
           "pj": "5",
@@ -2378,8 +2378,8 @@
         },
         {
           "pos": 22,
-          "team": "Rennes",
-          "teamId": "rennes",
+          "team": "Stade Rennes",
+          "teamId": null,
           "pts": "6",
           "pj": "5",
           "dif": "−1",
@@ -2416,7 +2416,7 @@
         },
         {
           "pos": 24,
-          "team": "Marsella",
+          "team": "Olympique de Marsella",
           "teamId": "marseille",
           "pts": "6",
           "pj": "5",
@@ -2663,7 +2663,7 @@
         }
       ],
       "sourceUrl": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA_2026-27",
-      "revision": 176483711
+      "revision": 176487671
     },
     {
       "key": "uecl-liga",
