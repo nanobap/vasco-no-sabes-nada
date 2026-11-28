@@ -1,0 +1,16 @@
+{
+  "name": "VASCO, NO SABÉS NADA",
+  "short_name": "Vasco ⚽",
+  "description": "El fútbol de hoy, para los que saben (y para Vasco).",
+  "start_url": "/vasco-no-sabes-nada/",
+  "scope": "/vasco-no-sabes-nada/",
+  "display": "standalone",
+  "background_color": "#05080c",
+  "theme_color": "#05080c",
+  "lang": "es-UY",
+  "icons": [
+    { "src": "/vasco-no-sabes-nada/icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/vasco-no-sabes-nada/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/vasco-no-sabes-nada/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
